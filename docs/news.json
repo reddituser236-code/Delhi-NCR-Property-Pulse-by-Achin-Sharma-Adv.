@@ -1,6 +1,1206 @@
 {
-  "generatedAt": null,
-  "count": 0,
-  "items": [],
-  "note": "This is a placeholder. Run the 'Update property news' GitHub Action once (Actions tab -> Update property news -> Run workflow) to populate real data."
+  "generatedAt": "2026-08-31T11:09:27.699Z",
+  "count": 150,
+  "items": [
+    {
+      "title": "IISc sets up quantum computing hub under National Quantum Mission",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZzdQaXFyTkxNdW9JSTZISVY3YWh1VGdDUjhNZHFGWnNZSlRxYWdMWk9SNmZsQjZDb1FXaEJVcnI0Z0VPZFg5cjhnaVBkSEJscVZ1Xzd1ZkFaaHlacjd5MkVxcnFRc2I2QTVHaUM0akJjaDlteDFuTFB5SzdKQmg2ZWtIUzBLYlVLRjJHSjZtNnU0LWc4MElrNTIwNFMzeVpFLWMtcmg2dXMzM3pTMTJnQ1o4a0NhOWkyUmhTaHB3ZGdKMjc0SVppUWNPSFNtZ9IB0wFBVV95cUxPMVY4TTA3QXVSM0xTYlNIVUtlTFNJdXJSSi1JTjM0UjVieS1PRFBuSUp5YW40Z2dZU3pORDFzSUpBSzlCUno5Rkw3ZFFaMjdZUEZTNVBPUXZ1bUpRbnZkWGVReW5nUlVjdXM3MjA5Ql9vZWxFQ3VzaEVfaG51eVNNN2IzbnQ0b1JsY3Vta2VkQlRjWkJwNHdSTHliZnFUeGpGdnhTeHExdkVRbV9Ed1VBV1RfQXVrOHRieHhHUVNWZElMZEtpb09mTjRwQzhmM2RCb3g0?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 11:02:00 GMT",
+      "description": "IISc sets up quantum computing hub under National Quantum Mission The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "From Meerut to Naugaon: How infra upgrades are creating new real estate markets outside traditional NCR...",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYy1sUTFGZ1ROVE53OWJEYlptZ1ppcVAxMGVqV1YtUmVoQ1VSam4yV1NQZHZxeHI4N0VUbmFfQlhCVFdxSWJFdWN0anNDOFQ3dnBGYmJIaDVSeFZmLWdrYldXYUljc29leklhMXVlcTdtUWtndGxzVEJxVVpKR1FMa0ZDcDM4bFh3NnR2YTAyQS0yaHZuQVdhS3pjYU81dGhNN3NiNjY3cHdHam1tRWpPOU5FazBLLTVpUU41VHlpU1UxcDk3RG1mbFJUMXMteWJ4TktXN1pzVzlRbUU4bEpaZXhUVDBrZ0xsLUVjNGRQNFRsQ1lMT3ZhWFpXdUxDdThoVVlsN09NNNIBjAJBVV95cUxPeV9Cc1p2Y1dGTFc3WGR1bFBFWkxleVR0RzUyT3dPeHp1R1ZaQTI3cnJyMTdtVUNWdDhRQUcwOVNNZkczNVN0cGVfajBVUnpDdDFmaGM5MXdJS0tnU0llbmpsQ0ttdUJBV3RSZ3h5SEozbzJncWlLR3lobnNLYkFaekMwVFFHcDZidjcyeW9fWkpBNkVmZXBLcVpYQTkzVlltVUVPZGo4cXcxd0JZUXFQUU5LX3VoLVBKUGhWNUc2M1hfMS1DZnlBMXpnTXhxOFBYR1lKbFR1Qnk1cy1GZnlpb0VTejFUY0NvMFl0dy12QmNibTgxd1oxSGJscUczcEFZVVVneWhWR090R1Bu?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:56:06 GMT",
+      "description": "From Meerut to Naugaon: How infra upgrades are creating new real estate markets outside traditional NCR... Moneycontrol.com",
+      "sourceName": "Moneycontrol.com",
+      "category": "market"
+    },
+    {
+      "title": "'They'll find you even in hell for abusing Modi': Opposition corners BJP over UP teen's gang-rape",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdF9HQk1WcktzWV9oc2Y0WmVhVjJYTWthXzFubDJJRXZ3LUNWOFZibjNVRzdqeDlXMkNxM3RHUlNGZTJ6Wmtkb204WnVqRnZoS0hWRHZjRktaUjlIRzJWUXNXQmZ3SHo2U0lqLUh4ZHV5MFFBQXhpeHM4QnhSNUgtTVlCTkJnY2xINnZUZmZlcEFCRkpXYU9GbDd4NEdaUXNWUnRINjlvNzdyOGx2WGhPUjVrTFBqX0VjRk5KdlNsZFZyeWZrcXRPelhIaVMtV2d0MV9EMWhBa0pzVXJzeUEwUDcweVJHMDNVMVVDVGtrYjRvdGMwUmJLRtIB_gFBVV95cUxQZG9QNldCcjVkcEM0RW5OYXdwWUd0YWVpWmZ6UVh0U29jUlMxbWE0VlhlaXJ5WU1ISTFldlcwT3pfa0RUZTFFMEVjWFNCSjJVNkFMR3BKaVR3Y2trcWYzWmRuTUF6SHB3cjJFUEFyVDJMSUlHSENWTzU1LW1hZzhDMG9GMVMxVFRsUmxXT1FjTDlqZ2RZNU1CWWdibV9KWWlVRS1US1JVSmFGTXp1WWg1X1NHbkhGeVBFbHpGUDZlOVpuZkNJV0oxd3A0TWx6bk45WGJqa2dQc05jVUI1TWpIdXJuXy01S0VsVDRuaG9pTXVHREZUX19VZUhyR1Bldw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:55:00 GMT",
+      "description": "'They'll find you even in hell for abusing Modi': Opposition corners BJP over UP teen's gang-rape The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Real estate, retail trade IT lead services expansion in June; 18 of 19 sectors record growth",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdlVCVThBTTRLZEZlX1NkRnhWYjJBR0NlaEZvaUdFbkJMcTRqN0lJOFlhOWo1ODZXWUNVRFRkOFdQUUpvYkxDbDg0eVVEY2VHZnhLNzVyUlI3N1c1bTM1OWpRQV9NZGN5MXc4VjNlR0JXSURmbEQ0Z0ZlWDUyVzFTZ1lMTG5GM2RLMGdnU2s0REt3Y2RuclZObFhtMzc3X0staE5pTWhQdEs0WXVaQkx1QUNmdzBGcVNwdm9aVWxXbzN5djBVVXZPT2FETmlzekF6VTRPaXJwMEp4SC1WWGx0VdIB5gFBVV95cUxNRE1fREF0WDdnV1U0ZVR0MThqWVFZdnlyZTFfcHpVNWxnUThKUDVBMHBVTVRCbnpCbW9PYkpsSlFCU04xcnpCdE9xRUljTkNPd2Q4VnJJWkZzc0ZMbVRHaWFUMVZfZFR5Qzh2WWFQVG9oV2Z2LTVwUzk3S2kyTmZteTF2SUpjZUVVZHhTMlBfdXF4ZG9xZU42cF9mcDlQR29TWl9Wd25JVjNDMk4zanB4S0dPMmJCY21vNGVGRTRNWHI1Rkc2OHBaQ0RfSTVIbzUxZENVVXFTVzZWTnpNT3ktRWJKNGVaQQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:54:10 GMT",
+      "description": "Real estate, retail trade IT lead services expansion in June; 18 of 19 sectors record growth Moneycontrol.com",
+      "sourceName": "Moneycontrol.com",
+      "category": "market"
+    },
+    {
+      "title": "Van driver arrested for knocking down, killing motorist on Rajiv Gandhi Salai near Taramani",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTkM2M19EaFJUbjAycUpEbWZ3ek05MXZ4dENjOS1aRWFMTWpMcVExMDVSSTNMVm1KU1JObk80Q0VaaUJadkd3alV2UzVLZGtpbHdrWnBEQ2RVMW9Dcm4yQXZKNDBSaEZqN25PZnNMVE5VYWVwYzdWUm5nUmZhT1F3aGtSVF9WeVEyNXVVY0hEeXZaNWdzVmJvdmJ5ekhNV0Q3Rk5VRlVkYlFwd3VFQ3Z3Ul9nRTNaSFhxR2dnaF9jSXdSMTRxN2dPbzQyb2JIOGJyczdCS2MzZ1lGbG54V3NvMmZFc0JoRjZhMndF0gHyAUFVX3lxTFBvZFpSdWxaSmRYUmdEcFA1Q3FHY2RqWVFHRGN1RU82SXJReHNueE1ERzR1V0RKaWQtSWZfN0trbUZhQml4aGN2MEpUQnowamdhZUs3eWMzdEFVYkIwQkZRZjRma3paelBMSzdXR1J5bWlOUVpiUnJ4dEs4OXVoUjBfNmdkYjQzVTI1bF9zNUxQbmlESEZ4UWE3X1g0QUNyYVZwRVhSdzM0TGVIUDZNTHgxS3BEQ3Y1M2twV244elpVdnpXSGZ4MTY2Q3lJOWNBVVYzNHlFSTN0Y1dma2hpMlRmRWVpR2hwdHFmeTV3cVg5TFBB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:51:07 GMT",
+      "description": "Van driver arrested for knocking down, killing motorist on Rajiv Gandhi Salai near Taramani The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "Zomato bans analogue dishes on its platform, to delist non-compliant restaurant partners",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEgwOE0zajV6dTZvMGpkbDc3dXhtdWRXNE5OMm5XUVhkdzJHMkt4SVRYVTdGMHhFaUdoV0ZobDgxQVc0ODF6WmY3bFRMbF91TkFXSVZuSFFOWlBiNk1MdkRqdHlBS3k2UGpycUstVzNmZk9KTmJSVjVwVFotaTU5QWhWVm5vQ1kxTHg5TFFCamNKZjBsbWQzNTRZTDlTd1Rnb0lYb0VNX0FuM0kxQmtaRWhpbG5QQ0dxTlJOcDVDbXJTSjU3aHJzVjZ6QzkwcnlWOHFVRkdoWDZEcUdVUHRj0gHmAUFVX3lxTE1fUy1XWmhRcU1HSEhoc000a1Izb0tfVWdNdENvSEw0S1kwcFhoVVlkc1MyMmJkNHU1ZzJqSEg2ZS1MTVFhQzBmT0c4U0RCUHY5R1ZWbW9PLVpSWWtVV0dzSC00a04xTTNkNFF4VG1NYjBfRGcwWG1TbkJQUUFCc1puSzFnVFJKUE9zTllWanRaVVRkVUFVOFNvT3djMnZ0ZDVRaTZQelB1MFdKTjcwRkNVdHk0Vnl0dGVOUXh1bTJ4R0I4N0liWnp3alZCeTBmMGdVek1aZEJMaGZsM3gtX21ZRXJhTzJ3?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:50:04 GMT",
+      "description": "Zomato bans analogue dishes on its platform, to delist non-compliant restaurant partners The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "Minor girl raped inside moving bus on Noida-Delhi journey",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1FEUnFGV1VaRXZwRFVEOEhWNGZZY0h0YzFNOUc1N0ZXb1U2eWtWSUV2V2lORjJLODFiLVhmSFptbW5aMmxjNDFiRWtrRnc1NDFXOFJPUkxxdGo4bW5oa29GRVNzc0xQVXY3UXZ0R0JiRTk3YW5SQ2docDR5aGExZWc2VWdLenBFRldQakZXQXBtUWtwdERsU1Q1ZDYxTWUwSmxOVFpNU2tUck91aTAyODN4SDQ0QzRxY3V3T9IBwwFBVV95cUxQWXdnOXZEUC1BUTRTN3hqSW5CNzlNMjNneG0zMDZhUEF6eUFDS291RlpZbkcydDd0SlZWRWlzbFBTdXpwQjdEcXNtOE53TGUzYkU4QmtEOHVXakpuaEJVMFpzZkdaRXRaZnlWR2hLWEc4UFJSUGxzN3o0SGpKWjBsVUJVVjdrQ3BpYVByR01hMXZqT0FEMFFiMGpyYU5aUHNnMnJFOXg0RU4tVDExb3NScW11bGUwcWYzcXhFYmR1S3Y1RDg?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:49:49 GMT",
+      "description": "Minor girl raped inside moving bus on Noida-Delhi journey The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "Delhi gangrape on moving bus: Women Commission chairperson says culprits ‘must get punishment’",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb3dxTjBMMlI1V2RmbWhHZDNaa0dvOUtNZld3Z3dIekQ5clF6NzhLcGVFVE5GYnVxTXlyZ25TT25YOGRMR1BrYnFCRXNyNk5tbkhEekZrUUowa0tONjN1alF0OUM1UUFUb3VybEJVblNvWVVSaTZ0ckwyOHZYSXJuREJaaTU5cHhGZV9kb3dfaGl1YmNHdk1kMC0ycE9XTHRGMlBEb2dVNktzSmdWTHRpTXN0SHR1NEtTUjlwNjhwTkFIWWprdW1VUkpmdlNpeGpWbzZ3TkpMSmphc1otSjdRVUU0WktacVh2WDdOOWFXb1DSAfYBQVVfeXFMTWZLdmRnQW40SlJQZi1laEVkWm1fWGNhX1Vmd0xBOWdlNC1fZjJkbWhoZ2JPRUR0cm1FejM0dWk0Qi1NODE2eWZkZ29KcS0xZ0VnVnFvWWJKblRvQm5VbGRWM3lHWFZsN1RrSjV4dE1uNUxTa0haTk00QWxzTHVMTTd5eTNpckdvMWR3NTlvQnlfM0lmeDlYNEpYTjZBclpPTzBkdHdmWDlUREtOeVk4TXIybUQ5SWVNSTNLYURUVERTUEZPQ1N0dkxhX20xU1NrWDJWRENCWmhaY1NWWWFwSkVSR1NTMS1icVBmM1ZUUm4yX1hfc1pR?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:44:00 GMT",
+      "description": "Delhi gangrape on moving bus: Women Commission chairperson says culprits ‘must get punishment’ The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "SC refuses to restrict CJP's September 5 march in Delhi, says authorities expected to maintain order | India News",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM0o4WVpFT0RKLVg2QWpfQmIxSWhkQllnRlRLUk1kMGFzNXdnSWpNbGo3ekVCSG5sVnh0cGVjYmhfUXZiZlY3X3FiUFNDdmFIbjZYYnA5STI2cmtBREFpZFZhclltc2ZNX2xBcXlKdTh4LTF1VUdJU0hDaG1HSXFLV0kwbWpXV3VEVW1VVHBsR2tBbGZWdUszRDVlNUxLQXFaXzhoWTh4cV9QMUJkYlN5RE5LWnFxaWdtZk1GUTdYS3JiRmcwM1UtcmdrQTJObUp0UllWc0g1d1VmRElhWDJTVHNuQXZKT0ZxRzRaWmVuTdIB9AFBVV95cUxQRzA4Rk9zb0lzcW5xNDFvcEk2amJmMUhSSU4zS0FTZk5uekhGQVVJZXVjQnJqZjlfaDlqTFB2TTNaNXBxOU9NMVdPQWI5bGZ5Sm1ZbkYzdTRGZDFlRERtRF9HSENtdXljR0hRbVdQYVVkYTU0bFBlV2ZQOEQ2OU5waVVDcG1CTU9mVEVkT3FGSnJtMmNsVG5QY0VwanZnUHgwRGdCQUlBQ1N3NU13bmVHQnozUmJKX0RCeFRXMEtfYzQ4bUxTR01Bd3loVXgtbjdnc2xpWHZLUXRRcF9idVZrbnNSaHhiOENOQldkR2ZvcTNJdVNO?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:42:43 GMT",
+      "description": "SC refuses to restrict CJP's September 5 march in Delhi, says authorities expected to maintain order | India News Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "Central Agencies Dragged Feet In Investigating Company Linked To Abhishek Banerjee, Says Supreme Court",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVkRGeHhWX3lBY0FaQThQS3AyTk1vRUlFSmNTcUJWT1NvYmVCNllUaTVKMUN4b2dSTmRHem5wdi1TMnJBTkFIT3dCZkEyaFcxMWllRkVVcDRDUkFVZzExZGNXTXp0VTE4S0FSMk9Ob0xLbi1zc3dfekNrNnE5S2VfVUlIMXRqeUxRSE9nTXZjUUw5Yk82eGVzTXlJMU1GdEt6a2o4WWkxeGRRa0tnYnZsNTh6WjdzVl90bGhxajlmWkpzUjN2c2IwZnBvci1Qbklkci13dEliRzdURknSAeABQVVfeXFMTXRLWVlWQUx5eDdzblpIa3dDZEFpUVZGb3o2cFl5cktGTUJMTjhnaHJheFNqMHVyNzFna0dqVVVrbGhiVDVqWEpnczN5WEJtWUFCTlNwMlZjVllBMnVYdmlWZUVrNkh0SjVJVVNNdVMzaDExc2hkYVI1QWJFSUtqdTR6UHNCUW9CYVlqS04xVmZsYWM3U01Rb2NMMk8zZGEzQkFwWllXWTd1eWU4eDF6RndOaVQ1SkI4dERzMGVMSzQ3VFVnUEpERms1WHJhRkY3Q1VIU01kYzg0RlZvUTFBRkQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:39:21 GMT",
+      "description": "Central Agencies Dragged Feet In Investigating Company Linked To Abhishek Banerjee, Says Supreme Court Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "Quote of the day by Carl Jung: 'A dream that is not understood remains a mere occurrence; understood it b",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUFlVb3I1SERwTDZNSDEzUVNzcTJJY0xTd3BaSV9WaHJSN2huWEtaRkkzR0NBWTY2MGtBMmNMcnRsMHJrbV9WUEdoQnFnOVhIZElwRGdkSUpXVDBxampJWGp2Z1A4WWZGcFM2OWw2QjN5THJCVGxIc1pFdF9qcm16bkVSUVNHbVBBdWlJcXo4bmJzQlBNQURJaFY2bVB3Z2FxS21jbDdzcEZYcHJrb3Q2UHhYaE5MUURHb2FjazdkdEM2VXZkMnZFaUc2VUxfVURrQWJKWk5nUWlsY1lJY0VqT3ZSblhaTzExb1JCbDc3em5uOWFGcm1SalktUVhGOHdRd08wVHpCYUhpbl9TaXfSAZMCQVVfeXFMTmtKMXkwMzZHQUN4ZmdYbzNzODJvdU9yRWNkZlMxbk1WNVhMcUlNLXVTSkdtaktDVlZSUG92SjM0UlRZSFpIU204ejJUTDJWNjVoRkZYTllnR3d3aGYxaWVrZUducXNLMldPa1lZbG9VWjBNOXIxNWFVSTRSSWVuU2t1ZTF5ZWZweW5VY1Frb0dmNFZfZzVnUzJvM2lVa21Ld1g0SXJnOXI2R3R5M1VtaDNvMm1fR0NoUDVDWkRaRFZmZm5ZQzhHNzl3UFludUJzX0VZUXNFTVVTS2hPY2pQSlphcl9VOHlZcmpTLUhCZmFfZWVzQlNWcXRFa2hkTEo3aEtNTGhqSnEyc0d5enZBdVBUTmc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:36:00 GMT",
+      "description": "Quote of the day by Carl Jung: 'A dream that is not understood remains a mere occurrence; understood it b The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "‘Movements tracked, weapons arranged’: UP DGP reveals how Ankit Baliyan murder was planned",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOTJPaUlTMm1GNHRIbGlvTG5jTGlHcXV6QXplTU1jM0dXWG5xNjEweTM2VnVFOUMyVjlVaGFoYTdDdmVnM2FsVGw5TnFBZG1VdGwteXpiMU1nMXdnNTk3OXJrT0dRWDJud3VKQXBTbklkU085SGFYM1BVRjcwbzlaZG1jUjZ1Sy13dHlSSEZzRFczRzRybmRzb3ZXNHBWMEU5QUVRcTV0V2twUlpnUldaUlRpWG9wY01nTGhzSlNmUzBoSFgtNmlFa3h0aEltdWRnVlQ5MWMxVjZwSFJDUC1lMFpEWTBKTUo2TmxxaGhsNlBMWGPSAfgBQVVfeXFMUGY1Y05ucXA3YU9ucFgyRGZ3ZlBZUTB0M0pyNkxidFRUVXpPWXl5V1YyVzg3T3R1Y00wSWFUTUVaTlA0amM4TTd6M0JfZ1RFcGF2WndJN0ZKMFhYVGZKYjdWUVJ1NE13NUdlNmFEcFlYOHIyMWt4VHluSGJxelFpckpPLUZOSExvVjFLNUtFWnZyYnhVZDgtclloMy1ZMVJibU55aTlGQWMyUzA1cUVqNDFKaXluNUhoMTFpZmhLZzlxS0pCOS02azVYa3pwNmlESlpsZm9iNTdlZU8yeVBDVzhCak9jQmxNVW1QY1JRTS1VYzZTUVBPcjI?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:34:00 GMT",
+      "description": "‘Movements tracked, weapons arranged’: UP DGP reveals how Ankit Baliyan murder was planned The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "India's rice bowl gets global audience as 3,317 buyers sign up for BIRC 2026",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFdQSVRTZmRBTFEtSmR3U1dhX2RuR3FBWmprX0xUcWpkQUxSWGJ2QzlRSXZoOVBvZG9SUGQxUTJvT3VKNHhKUGNnMVdmWXFXclNkSjJ3cHdpYktwZl94Qm85VktWeXJtVk41OHNaODA4aTBOdGptTjNKNHFBTXEyczZ0NjhqSUZERE4xOUxOWV9LTHp2bExxX1RDMVd6ZGFnYlNRZk9abzVHUk9COGd4aExmMVRpcFZlN1MyY3ZCOE5UN0dFbWFEUHNCRE13VU03ejllNmFHc1lZalV2c0hlYU5FbUFVZHQ2am5qSlFlWm1zZ9IB9wFBVV95cUxQRTM5NVJzcUdxZDFKZFQzbG5PVVFyVU5wUkI1SVZCZ2Z6RGdMWjdpR3dqVXVUM1VKUi1qbE9RNEMza2VlcXRIX2ExYTlnLUtKTlZjTFZtNnVHeV84SjNrNkVLOXV2Y2F0cm5jUm9kVFo1S2ZuWW5jU3QydWRoczhtWFdaY0pBSzV4SlpCU1lhZ0o5WlZoUDQ4eDRHRV9iWXk4enNjSDZOTkF6UGdCWDcwNW9nV05VQnlkcHQwMmNBU2RwWVpyQk1rZkx0NVVielhKQ2t1bWE2T2F1LXR6Q1NXZzZybDVXUWUxZlJYeklEUHM5eVVidjNF?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:31:00 GMT",
+      "description": "India's rice bowl gets global audience as 3,317 buyers sign up for BIRC 2026 The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "A Spanish vineyard has gone more than 20 years without irrigation or pesticides; its cover-cropped topsoi",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ3B2QzN4Y1AxYURSNlQ5VGRaVmtmRko1d2RLSTQtMXdjZGtwMXJLSHYzSndPM3BqaG1vLUZIa21fQ0l0elNGRjBUVzBCVkc0SkZKbnczQ3h2Wms5X2RsYjBnVXdETnFwb0RSa0c1QXcwb3EzZUZYMThoTXJ5V1YxVGNsMERjMGJ4MlJULW50TWxkeXhOX3ZBZTE1NGQtWXVlZTZNb2x5azJJQTBQbldxZGc3X0dRYlJHR1BnSDJScU03QkdrVUNTSzlQTkVvYktaVTU0U2RlTlpDX18ybERNV00xS1BQMWN3dVBlRDJncV9aVHMyTm9GYlZNbmNxNzlwbS1MakVDdmRiRDZXRnJhenRYOTQ2TmRORVlyLWpFcU1Yc0FNN2h5T2pacGJFTWZ5aFNnVGZhUUxQajVfeWpTNjRYZzh6Q1ctcVNWbkYtTHV3cDRyT2fSAdsCQVVfeXFMTUY3UjlNWnpkUXlmYzVzZWJCQ1R3SGVsOTZtMEVPMXFkY09ZM3BqN3hHUFBvckdyN2Foa3AwbGo3Q25BZnozVU5HZGVFbmtDQlJ3T0o5Z21ITWdlWFlaYXpiM2JoREs0UzZSVXdoZ1VLdFRlLUVLQm9QRTdjUnRUWnBhclJrMFZHSGlCVldxZ1lwdUE1TmE3QWhuNVR1c3A4UzV4VlZ5bGNMN2xQYlJUMTN6VGZyWEU0SU1RbmJpbF94U1NueE54Rm1aZE56c2l6VVNuMFNsMDlPdWpPSkRhUjB0cDB1b3c1dUF2R3JudFlJaEpjcGs3Z29kMXVsazB5dFRjREtaTGFaaEU0R3ZvcTJqbVV0YzhJZlp1UmllRnljODN6eEtHTk41Rmt2cG44b01YMzFEOV9NY3FvUkFhck5EanBacFByTFdKaUNQVGZiOGZPVERiVEdKTHM?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:30:00 GMT",
+      "description": "A Spanish vineyard has gone more than 20 years without irrigation or pesticides; its cover-cropped topsoi The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "In 1973, Christopher Cadbury funded the £40,000 purchase of a Seychelles island stripped for coconuts and",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVEI3elhhVVZqc2VPOU9CTWxsdWFrVVltcTBsMTlram4zelZEMDBnYXlpdmlVREo0UEhKSld6d1hLQXhvbnVVRDJ5WVRzSVZPTHVZZk53Z1VRVzI5Q0tiNVJnNGs1dk5tUXN2NGFNc0piaWxZbVZDX3NINTd5aHd0cGpOcElaYVhUTnN5b25HajJ6Vll0aTVDeHlZLXMzdHpkOVhRQlpZNHpiLVFuX3FMQW5ZZVdtd3V1cDY3Ni1pbmxuMHBzeTFTancyc0FWc0xZaktvaWxBY3kyaHZ2QU9jRmpSeWNua2JqYmViZG5jcDBWczZxMUhrTmxnWm81endPQ09lM3RWVXN2ZzFQSEYyNXBrQTV1Nl93ZGRwU0dCTFVFc1cxcmlmRUpKVHRPUTNLd3JOakFWRURnX0RrVXp6ZUtDR3QwVDNrVjVPOFNyc0FyQUtvOTFRc2M0b256WjBYUDJaZ1gtNWzSAe4CQVVfeXFMUDRBTk1jd2dNR3I0cG5iaWxwM1MwS3N3cGtKNERZV0RzeDZmNkJoUXo1VG4zcXZUYWNZY3dFOFVjZ09Fejk0MUJUYldoY1N1WE10U1NJekYtNGp6aDYzSDl6eHBMZ0tXNmdZaWd5VV9YUGRydGFoV1d4QTNCRVJFelcyeUdMb1hrX2JDRG94SU5oUmR3NUJwMmpBY2o4Vm1tT2tKTHphV2lGYnRoMDNoTFAtVXdidGprSzFpSFVURXg1cHNvLVlldHZXakotclNyQmtaamxzYmNGclA0Vy1DdmNnT1U0ZWsxOEZDd09DZ1RRVk9fNkJhclltbGYwSnhOaFJkUjg0S1BvZFIzNUxwbGJVU3NvaG5oSzY4RGdsdC1RUlJZajFfTlZWMmVKZFNlMmhzYm9aSGhuLUhqcUdxYll1LWFWQjE3dmpTYktudlFVLU5XVU1Vb0dSaGVSNC0tSlJPbXF1VmhOeVVDSHN3?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:30:00 GMT",
+      "description": "In 1973, Christopher Cadbury funded the £40,000 purchase of a Seychelles island stripped for coconuts and The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Iran Launches Cruise Missiles At US Navy Warships Off Oman After Larak Island Strike?",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeXlyYmRhMDBULWFDQWhBb1ZMeFhPXzNCRHd3X2FqUFo2Z0UwRUJYWldMdmd5OFJzbklLeDFMR3kxcHF5UUp4bEdFTHNLa3ZXZXh2NEVwMFFsU1RHY0NVaVotTHNaSl9JQ2pFRE5tQklBd2k0S3pHNXJXaEkyYl96RUZ0YWM5ZktaVjNZT2dad0JxWVdabV91ME8zWWdvTXVHeFhvbm5VQmNtclhHQndiS2dtRFlkdFVEa0lWbUtIckZyejdrdUF0bzRieFFTOWlzMjJpQUdTbWdjUHR2VkRqdklkSFB0SUhVbXI1YzNUSW9OcHBKc3NOZ9IB_gFBVV95cUxQQ0lnbnYyMEZrMnN5RnFwRDdFb2dBZERXd3Nzb0JqX2lDTkY3cXpMd1J0OXpIVFZfLUFSUmdWN3gyblpYWUExMnktY2xoMldxaTU3bFYzdEVpRTVORWp1elM0VW5FaVZyNUJEMTJPMUQ1MzN1aWlMZUNIcFZpbkRXNWxTSjZtMDVIa2RXYkxMODB5aGNDNTRrd3gwaU9aQkVCaXdyeDN4UExQamc0WkQzNlJzLU0yTmJBOHZDQzFtd1lVZ21nT0xCU2oyWW5lazJCMUJDMUE1b2t5dG5FYWFXU3BydmNDal93V2p6RWdOSW9Id2t1YlA1Z05VQmh4QQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:30:00 GMT",
+      "description": "Iran Launches Cruise Missiles At US Navy Warships Off Oman After Larak Island Strike? The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Just 41-46ft: Airlink jets’ dangerously low flypast over Cape Town stadium - Watch",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPempvZElZcUxSSUtvZWdVUk1lZ2E1aVhqY1p5MUpfalNwM3R3YjNEcV9FdUpmNzBNT0YwOW9sZDIxNi12NElYYmhHbjBnWDljUnNwWWZSbWpLWlVmNjVQQzhBd3pPMHRFNXJocWhxTllLbnBfdXE3NEZ4TEZ0dm54aG5YZ3VxdlpGWVRhNDJqc1h3clBuR2dlUVdCQUFxbjhHLVBCc2t4bWRWLURkMnRvckhaM1hUWVh0VXphWWhja2JCUXRZbGlBVkpqUGVxeVg2OTBMRGlEbjUyN1V5T2FrM1Z0WmktQ2Rsc0g4cHZmNUZrQdIB9wFBVV95cUxNeEw0eEdOeXJTYlNZV0lYTmJHcHhJQUY2bV9kN0hfeHhKaDJ2SXFadlhULTJRLTNlZWkzdnVFZGtyOU5JR1AwcHh3NVpsODAxdHZiZk9mQkFxV0xiT0lESWg2S3pRb0tXZGkxN0F1QW4tTldBa01rOEhiVFFJem5WLWdWcTEzV05kM0s5T2lEazVEVEkyQVJrNXJXeUlBbkcyRHVES09tUWdhNlFPQlUySklLU2c4OU9udjJfaE0wdmtZOHBqN3k4MUJaVDdyNDJrbXViSEVBdndEdkd1Z2xHZGthazhMMXQ3NDZReTlwaHl2VGl5ZlBV?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:26:00 GMT",
+      "description": "Just 41-46ft: Airlink jets’ dangerously low flypast over Cape Town stadium - Watch The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Karnataka High Court pulls up Whitefield police for getting involved in civil dispute",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVkJJRERWVnJkZkV6ejFZS1BKSEhYUFpXaVhfTWppRlVkck1lZjE5MGZkeDNGN3BNak9hc3pYa1BhbGtJS3VvalRmVGcxTnRtZjE3VHhhT283U3Zzb2tybDhnWG0xVG5rMzRwUkVkUGVVQklBcTh0SXhCakx6a2pNRVFoejlvQWpjbm5RbVNHWU9iVGtaVXh6ZVBIOUZUclZ3Z2VvRHBNNGtPLUtzSk5Ha1pzbW04dG5KdnhjY29IcnVwY1J2NXB2VtIB1gFBVV95cUxPQzA0X0lhdk13YzNyRVhicE1IN3RpY2lXalFrdTk4Y3o4dGhsU3lQd3FsNDVHNHVqcXNUR0xSbEs3dHlNQ1VFa2sxNnVuNFphZHctRTFCWlBVSUNQXzBkMGlmdzFuLUs5NElNdjRra0pSUUJZX2QxYTktbjhOTmdfQjdOOG8tT1k0QmI2SXM3bUFST0tDWGRtVWRKdThkWEh6RjBqa3M4cTJWSGJKVGxINjV5VFZwcWRqRHpneGRrbzBDX05Zal9kMkRLSHNhS01sWGJPQ1l3?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:25:23 GMT",
+      "description": "Karnataka High Court pulls up Whitefield police for getting involved in civil dispute Bar and Bench",
+      "sourceName": "Bar and Bench",
+      "category": "legal"
+    },
+    {
+      "title": "One stabbed to death, other run over: How US job dispute turned Malayali woman into killer of 2 friends",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdjJXTUVXMTNkbC1uSkl1R2JBeldBYnBZQlV2blpuOExlT1RRYUIwcm1KalA5NXh3aGpzMVZSVU9KWVJ1SkEyLXd4R2FDdGU1YUF1SGlxZzV2T2l4bmZTNXJ5eDJaQWxoTkRYa3pPNmh2REJhZWFRdi1qdEl6eVdXSkRxS0xLVWtieWQxNWcwTlpsSGU4MEFoOGxXYzNELVV1ZTdVRlNzUTNIRFJEdDZjd0RTV3h2RjBCOFgySXNkdjlpTTZtWEpwcDd4V1M3VVRQSHE3NlItaEppLWJQZTdkTEhtYlJCbDBrdm5heUV0Y0RsYkMzbTBSX3VSVGNtbjR2ZjBkZdIBigJBVV95cUxOUjU4VGxSWU4wMHZpanhaTmhWdEpxcHZJal9PdjY2Z1J1YjVIS3VhdUNQS19kM082VV9MeEdsTUltZ0RpU2c0azBWOS1xRVJ1M1lpRjRpTTZkY1VwUVdWZ2pQS0JxdWlXY3J4VnZqMURrWWl6bUZXbWppSkV1STZQLXl4amhmUXZxQ0lrNmFOVXBsdW05dmFMUTVHYV9NTnlmXzYtRVJlcVVvNHh5UGQwTzE2RUYtMWl5V1VWN2x2YUVyYkhjTTJ6bG1veFFCZnVnN0ZpalBSRDN5SmNJOXNSM2hPdVMwT2tUMVF0eWItcUgwcENxTnZxbzVVM3BDTkdZNE5lX1ZFV2Mtdw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:22:00 GMT",
+      "description": "One stabbed to death, other run over: How US job dispute turned Malayali woman into killer of 2 friends The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Tata Power commissions 100MW solar project in Tamil Nadu",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlhMdzA5UTBBbXpicl9ZN1NLYWtPZUNKQlczTUVrNU1qVm5xUjNfNVFhd2xlWlVscFY1NmxDQUVoS1RwOU4zdTBFeVZKRzVnbkdvakNlcWdicnFWSlVVV1ZGY1F4UXNsX3U4NzAwT05vdm9tc3RiZk5MWVRENEk5clFYNE9qSGRWcjRreU9zZlZqZDk1azFMUlNIU0ZqclZSSmpIOThWMW8wM3F1?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:21:13 GMT",
+      "description": "Tata Power commissions 100MW solar project in Tamil Nadu Rediff MoneyWiz",
+      "sourceName": "Rediff MoneyWiz",
+      "category": "market"
+    },
+    {
+      "title": "Navy chief Admiral Swaminathan flags evolving threats, rising maritime contestation",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTk92Uk54UkpJNkVWem9LTGVRbzNpNTBwdlBzM2RrVEtwTHFYbmRyWTZHUUxzdzc5SVd2a1dfUFVzcHlRVUxLblpaV1M3cWNZaEI4V0lST3dYYm9IZ1NBTUpqM1pZTEgxcXp5SjlIcFphMzdESWxQckFkTFNGZ1ZIVDFGeGhNYUY5dmtlWDBYYUhUWTFoQ2NhV0Z5YXV3Q1c0aUl1cXBSdjA5UzZnWjZaRHpXMmQ2VTM1UFZ2QXNPcUdfb0RvRGFWZ0lXNGpsbkNBZ2RUUGdMc2U4WXlnemtCT1MxamLSAeoBQVVfeXFMTllNOVU0eGVGVUJrQnFramdtRm85NUFCZHp5OFZhSVppZ0U5QWpaWVcxcWNhdGJqNDk3RzJ5QjBIVm4yQ1ZLQlRzQTYtZHVVX0V5OHBzTi11ZTRFZ1kyMFg1a2JINS1JMzVpMWFMLW1nR1piZ1BQYnNyTkxfdXlKSUd1el8xWkFKeWM0UXByY2RxX0tHSlVDejFUSVQ1dFY0WlVxM1FFOWxuUWJnS2xWQ2FsdjB4ZmFOSmpsSzVpZlVveHNETzJDT0d4b19reHJadV9KbjJEcXIwTFkxU0FlWlNHaFZReUtpelVB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:21:00 GMT",
+      "description": "Navy chief Admiral Swaminathan flags evolving threats, rising maritime contestation The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "India buys record 2.6 mbd Russian crude oil, refines some of it and now sends it back as petrol: why one",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPQ1JURFUtMmRIQlNJZWhQem9Zel9OOEl0UldsMEJPU1JXeVJBdnJUWlRIUHZxY1ZTN2xyMkdZQ0gtS1FKRHBsQU51dkgzVGxiTW92SmN3bF81Wmx6bHJXOTBhT0s2LVBrbUNQUXFyYVp2c3RfN2tzRzhnaE5tV09hOVFZMmxqdXI1cUFvM1dCanYtdWVBT3BsRjRPR0ZXSFgzNXMwTFB0Szk3UWplQ1JOQ0M4cTlROUdITndmS2MyQVFTd1prMlFwYThaYnczaEhJRjBXY00tclVIVDYxNFlESG9CQjY0NU1vYk15aUFlcTgwMzZMSk9HenU2cHNyV0xfOVV0SGJkaEpxbTNQOGFpT01EZndaX2kwYi1JZVprLXdBNGcxNGVDRktpOFJ2N2dkdTZzQ2NxVllUVjJ3aXJJcUpiMW9rcDFnSXRrUnNlUVNqejJoS1p4bU9wVDR2M3lMdUZUSjNfVXVPT0lqWWRqVnZNcGhMQ0pmeWFtZjNwVFVsVTc1Y09kYTkwN3dNbkswR1FRd0ZLdENkd0JNTGhKWjhHXzR3Z9IBqwNBVV95cUxPWmFGaHFhcDR5dzJxb0t2dmFzZ1NMX2RkM1kxOEV6VENmLTVrZ2NjRWEzWVZBUzhoNzVJWG5sTmFIc1EtdTZSQXNPUWNzWmZ0UF9QcEpKZzBCc3BzRW03TDFOZklmSjE3dDd0ZFUtakZmU045d05RWFZfdHRxN1NYdjFhajdSQW5qVFNCeEZIVXJsNWF3aU1uOE1NRG1vcG1xSTF0ZXpsdFA4R3AxamtBdERVYTFDSjBlblFqMnFoQnZDZzdCLUwweERVcDJuSEZ4UVFDeWw4V05YckVSTTFDTWgwR2VhNENxY29VN1Jvb3RlaUFjVTQzblBsUmlrTWp4T2xSaENhcTJKcEljZlV5akRZbzFoUmRVVm5LZjFweGZnRDZhZ29LSEhrczFrU1RjSFQ1RE9BSEpQcFhxcTc2Nmt4a0hoT2ZURHQzb1RWZjhpY1dHWjBhUjl5N3BlM05wOTZiNjBIWXhoZDRoNjBWNFZEakFKOEpGYzdfcHdvVzFOQkprOF9NalBVOHhCckFKZ1Q5UEtzMm14cWJLV2FkTksxNjdjTS1ycmVN?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:20:00 GMT",
+      "description": "India buys record 2.6 mbd Russian crude oil, refines some of it and now sends it back as petrol: why one The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Mumbai real estate market reports 12,503 property registrations in August 2026, up 11% YoY | Real Estate News",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3F4SnpuQW1QaGxzenFqcmRZQ2d1d1htNm96dFcwMFpvRnV3WFJmNlltTkdDUHk0Zk5WbkVuNWNJblpYeFpKUkZPVmhqYzFQeDNnbkZ1LVhSNDF1NWlzak1lNjV3S2lHdTMzRFNxVHpfeC0wdmFEaDhyMzllT1ZMel9WZ1lhelpWaFVPZ0tQV2NoNGJIMllmUmVEYzJtYUVNNk5mVXg4TnhYSEpFZ0lTTTQ1YUU3dndtZGtiLVh3N20yMGwwMlJFNGZiZWljOGpHSHdoNTdEX2JvbDRrMGpyXzUzT0VWRjDSAewBQVVfeXFMT285WW96YmIteFJPREVXaDJwaU5wcV9oTFRJMElFSDhfLVVYM2Q0WmhJMHBPSWZ6Z3lMYTczU2poTmlXOVUzUlJYZkJEX1I2bjgwaFIzMjl5MGhHSVUzcXNlU0xKWHlHakNhWUtpUk9Semw2ckkwR2hUY2h5ZVFuN053S0hEQ2V2UGZJcWFNOHF1eGJ4WmVwS0huZ3pIVi0teWN5eE9VN0ZDem9lSFg0emFZYU9NaDRqTU1lR1NQR3JzT1k1YVYxck1EZjdadnNhRnBmVnlWazAybGlINDEzM0wzRG1zeUhDbEZmNFc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:18:47 GMT",
+      "description": "Mumbai real estate market reports 12,503 property registrations in August 2026, up 11% YoY | Real Estate News Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "Iran FIRES Ballistic Missiles at US Bases in Jordan Hours After American Strike on Larak Island",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMFhNX1BJSjFfcjBuSzhvV2NGaE5RdW9NU1drbTFBTy1BbVVieG5KQ2dGNEpXeFo1OENwbWRzei0xQWV4M0htaGEtb3k1R3FoUHhBU2FBRTV4NHpob2xCd2p6SnppSnVXWkJaeXVMRDdZX2N2RjVnYkVIQ0NkbWFRUWdBd2w3b2FhU193UGViMVJ4bVhhY09ZVU1IX3ZIa05IZ29RY2ltWlVwZVhrcFgzR1p3UkFYWjl3Z3VzemhCOHlzZGY2bl9obUJnYU0tcWdWSzFlV0NoWmhHSnQwTy1hd2ZodXhLYktXVEVFaHlOM2U2cU1GalBPbkZkZVoxS1ZrU1oxM2E3NNIBjAJBVV95cUxOWTRobzNjaTZ6bjltRFZKSmNBX0E0SHFBbXhGWHVDM1NoM2NRTkFOdWNuaXpRblh2QzMtMjhoZ3Z6VmZMb2FkOG5RNzhvUTBOXzJVUzkxX3FpeHN2MVdiQlMyd1NjamRWeDdvOGt6OUl1YVhKQ1ZFQUNabWI5anBPUHNiaVhCdE1PRWNKN2lySzRJaGd3NHcxbFVQd2Zhck1YWFVDUlJ4VC1xMXVmTGRZdDVyR3R2eXNWMW5KeGJFREZlOXVoaE5VLUVheWpKbHFJSXNZUUIwT0V6WkVDb1ZwYVJFb2s5OExjNmJGSmZTMVEtRmhZeGpGWElLOTRIZXVjSms2TTZFX2NpcERo?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:10:27 GMT",
+      "description": "Iran FIRES Ballistic Missiles at US Bases in Jordan Hours After American Strike on Larak Island The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Third Parties Can Move Court Against Inaction On Unauthorised Construction, Illegal Buildings Burden...",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZ0hDYUxCNFVjQXZXVHVkc1RHVXd0TjVCOWNPMzlTSmlWWGtfTE1RTXZQVUlMZ2Z2UzY2ejJnYXREZWx2dlAyZF9WWHpWcnRfeGR5Tld3WHJsSlkyR3hzc01XcldBX29UVmYyQm1hRG5zeVNxOXB2bEtlWlgybGVPQTZGS083SFIwQ2wyUnFla0I3aF8yM3BpaDFWUGF2V1dYSE9GblNfdFF4QXNoeEdrOVNJQVhETFprUllLM1luUks0UGNTZzR6bXREWGFaMW9sb19Ub2VNeVBvb0VzV2stOWd3NlhaaFhWXzN4X2ROYmNiUHJnLWEzU2pZYjc2bHR6TXdtWkFZNXRLRlRhV0ctcVNJbzZrYWdYeHV5Zi0ySE00Z9IBpwJBVV95cUxNancwbWJsVEV0RjFlbHE3N1dycVNzV0hXb2RocnFvMTMteDlJRFJkbnVvbHItbXRpdGFZYUppamM1eDhTYV9XbDRWQURveHV6Vy1Od0V2MW9LM0U1ZHhxZEJJbFNsMy00RzZEX1VHYVV5SjlfOWtKTUY0My12R05jQTNleXRoNm1aSWpRX0NlRjdtaEdfYkIzNGJGQTJHQWRCeUUyTGZvS0J0ZlU0Wk4xak9mOGpFMU10YjF5M3NzM2FRLXFxTlNhbGlwMGphcjh2WTNPVmRBR1k0d0F6RkFEX1lkSzJfLVpJcWg4emV2Vy0zdTlPM2dNVkNLVlJ1THVBVnFqVng5ZUpvWTJhOG5YZHBwWUhiMU5jSG56cHlJZ0ZwYlhrM0RF?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:10:08 GMT",
+      "description": "Third Parties Can Move Court Against Inaction On Unauthorised Construction, Illegal Buildings Burden... Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "US treasury excludes several reporters from covering G20 finance meet",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVVwSFctVWRFTzYwdkVsbHhKbTd1TVcxWFVVUjYybTVwNVhTV0J2cjlydFV3YWU0M0RPZEtnOFNrc05uOFNuQUlsRE11N01sNEJRNGQ4VndxeWpzSUVhYmlSZ2RnNXh5RHZrMEJoUlNiYS05M2FsOGw3NWpoU0lUd0ZMSjVPaHJpcEpyZEl0eUxPZnVqOFo0eVVaQ19qNzJReTFmSjZRN2E5dG9vVnhoZWpUb3pYaDk2SHM0Si1JM2tRa2FUem9ZVFJibEM3RS04M2hvUFJfUdIB3AFBVV95cUxQeUVna19neE5nckQwOWlFUWx2SUtFSTV4WVQzV3hMWjA3NHVkLTNkUkhHdklKVWhFZUxQVGRWS2NTVFdjRVdNYmdmRDJVZGlCYzd5aGYtQUdsbWx2bHRmNnFLY3BJQWFLbVNDUkhhTVBIeDJFUXppUk1WeDNHWjU5TTBXa0NJZ2w0RzRlMUExeGdNSEJoYVExaVVLVk94ZHlBaFU4b0N1ZHl0emt1bXYwZlEwY2F5UU95NlNoRVgzaXJFRldVempQdG55Q19YSC1HTEpsNHpQbEI5VW8w?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:08:00 GMT",
+      "description": "US treasury excludes several reporters from covering G20 finance meet The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "G20 Warned Of Growing Threat to Financial Stability Posed By New AI Models | World News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmJtNXM4UEtFbDMzNFpOVE9ZV2tiUXVNWUZzb3I3SENVZEJSeV9idHRkb0EyWWlwVjVDdnhFanNRV2pmZGlwdFhyTjdwWmg5ZkkycUlHYXRXLXViRHpoT0JEQ05QS2trT05DbnN5a3UycUhGWlFlRm9XeVBsa0pQQ2FIMU9ibkRSVUlVMmFoSmZaR3B6N2dzZlNEVHo0SXNJbHNIb2FKR2xNcm5iZjFJMWVjdjhxQVFLQmg5ZVdXMFYzdXJnSC0yd2w1LWhMZ1JaX0pr0gHYAUFVX3lxTE1qWjBqNW52ekIxS0tuTll4cDlWY2tzR04zRUJjb1NweDQtdVlXby1JTlc1TzVMWjV1U0ZPRFpXRldkTmotS2kxOElEZVpzdjYyd3VJcFBkek1GWXplOTZjYllWRDZXTFlaVXNNaW45Nm5mel9Ld3VodDJ1MFlBaUhHMkxwcVQ4YnVickk2cHRnX0FOY2Rjc0pWY2Q5bGlhUGt6elRwbkRUZHpUeEtFN24wTjBqMDhRTVFwMmFJRWl5ZFFibXp6S3VsVC1kVDdTWm5hQktkZ0kxUg?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:07:58 GMT",
+      "description": "G20 Warned Of Growing Threat to Financial Stability Posed By New AI Models | World News Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "State Must Adequately Compensate Victims Of Wild Animal Attacks, 1980 Rules Don't Cap Quantum At ₹20K:...",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1IyaGt5dFZjZ3hiSi1odjdua0l1QlJMSnNfcFM3ZmJRLWg5TWJFZkkybnM4M0ZuQ0xpRDJFa1VTWTJZa2hfbE96V2Z6VVJNMEIyaEttTWREa2tGd1VyTVNCWFI1b2JFb0xLWmtpdERZZW8wdTl3YjdsRHY0bkJHYmNQcmMzZEhhMVZYbVE0VDZzRGtiYTdjaWxsMUZhX2FyY09TMXREbnV2VFBpU2fSAbMBQVVfeXFMTkhTUFVHOHhpOWJzN3Y1dDROTFY4UjZEcVdCRkNodWlITzltejBTb3FQU0dWUkY2djV3R3RBeXVrTUpsd1E0Q29nenhXZHEtUzNGWXV2UnNDSy1EU004TEktdUxpc0hrYXQyYUppSTFhNXRFdkFmNU5aLVFvdDVXSWdoSmZoMzNtTDJYcjdvNnJDZzA1QkF0cTF5NWxDWjhyQzJVbFMyLWZPTURDUFpDVlJDT2M?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:00:55 GMT",
+      "description": "State Must Adequately Compensate Victims Of Wild Animal Attacks, 1980 Rules Don't Cap Quantum At ₹20K:... Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "In 2015, Queensland began turning end-of-life tyres into road material; over the next decade 2.4 million tyres were kept out of landfill as crumb rubber was blended into asphalt and road seals",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQcDMxR19mTFg0a1o4TXFpOGc4MnJheHJTdEVQNjlCV0JSLTRiWUk5QlE4ZUlCMHlvN2Y5Tzh1ODNPcnJmZzdvaGtRLU1jLWVoaG1nZ21BTm91ZkZrRVR2cmNFUUdxMWQ3ekxXek9Wd1J3T215U2VrUk5Gbi1FR05pc1d2QW0xZkZXXzFqUGFqRzRaRDB4WjJhUXVZNm1SZG1CWXl2b0NWcWsyQTYwbWpyVzVmWVFlb2VNRjhCQUJoV013NUwtR051LUk0aVU4RU15ZXplalVDLTBjeVFJZDhadkNiN2Q3TXl1dFdINnBzNXB3b2tWaHp5QmlQZTFTRHFpNXpFU0hDbGRQZVRfelZRSjNZREhzVGJTYmFSckdjdVBKanlSeUdzQ2dEZC1PUXhxcWJtdHN3S0dkTzdrX0k0b3duSkk0b21OOVIyZUNzUS1INUhKVXRBS3h5NHR2ZGd1MVVJZ1B3SzJpandJajJQOF9veHVKcUNUcl9nZ01udHBrdlZXRUtR?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:00:00 GMT",
+      "description": "In 2015, Queensland began turning end-of-life tyres into road material; over the next decade 2.4 million tyres were kept out of landfill as crumb rubber was blended into asphalt and road seals The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "A Minnesota mother escaped a burning home, realised her toddler was still inside and went back; firefight",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNaElxRVpFQS1rb09CbTVXRDl0bFZYTE5hR0Q0V1FaRjN4cFRHSWY2UFR2ZFRsS3JaNGpXVW56QVc4RzBGZVVET0ZrM2tiTzcydjRtVFliMDl6R09uQWs3VnlZLXFUVEhpaWltb3FmN0lXMXowcG12NTY3OElXUURZbGtnR1FuWHpmYjdXVnZlTFJ5Z0VCb0FGM1B2eHdEcHdISlRXYUVlQ2w5bTdTZmpPLVpNYy1CRklSV25OQkZsdHR4OFI4WXVkT3owTVNpaGhmNHpEMzFySHRQbk9xZ2gxVDFmN1o5ZDRBVEFsUWt0VlZULUk3aHFGQVhuOXgzNXR5TkhYV0tRSmVHMEYxcnhEN0dONEZONnY4S0dhdl9mbnBTMTFZZW12dmgxNlJEbHd1UkMyOXlnY3lleGFXdDBjU0tPSdIByAJBVV95cUxNZHMtZ0JOVXYyY0JFQXFSWk9QTWVlWmNDWG1OUXYwV2xsSGZOUlpoeER3VDRBbW1tclRSZ3JYcGc3aDhncEg4eVdkbkdXNlRlVllMbWwzbnVxT0NnX2xoNXZBZGgtamRrajlReHRJQUpGYWFBYWl5emV1d2w4V2tsSWFZZ0RQaXhJUXBLS2ZqdEFYRnozSVVOSy1JN3VSaEpTS3k4M2FaM212a2ZfeHloLUJBaW15N1llRkZjSks5LVVGSGJURjM2eFRtczJwcE5aUXNWbmVPUGNCTnY3RHdwQTR1aURtZUdqSHdrR2pyczA0VUlJOWR1VURPQURHSGpZNDJ6V3lUdllxczlDY0tyd2otbDVsMUY3czI0eTk0d2JZN1RsS3lvWlpqTUZQZE9LaHdUVS0tbzFJeWp4UHVOMmtIS0tQRE5q?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:00:00 GMT",
+      "description": "A Minnesota mother escaped a burning home, realised her toddler was still inside and went back; firefight The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "No internet needed: PhonePe brings UPI payments to over 200 million feature phone users",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbV96NEkxVWNaQy1BcnpwMGVXYlIyYjAyVkhhSWJabXBDRlVULUlhcUR6NDBTTi1jQTdoOE9EVnZuc3I3U2FBMEtpLWlNLUxEODVZdm5EdjE0bWxRQXFraG9oblZfTlFndHhWeDNLWUFYX2lDZVo1NThORElvR0F1ZEZBRzlpRE9nV3lnRF9IZ2dnVmg4RHE5bi1iczF5N1kwUzJMLXRkZ185dEJrSmtKWG93RXJ6ZmlhTmFQOUpvX0lnNjl4TkYxcUF4NGdwZWpMb1dsNHZGaW1oT2JYVXJrY2dfWWxrUG01anVSbVdEaXR0TkVZTUgtdnVocmc0eEp4M0HSAYcCQVVfeXFMUExtT2hlN0FnUVpGR3lKVXRFSDN1c3JsMDZhYTFwS3RYUWEtQmU3SnN0N0MwemRfM3hra0hXNTl5WHdxOWlJQVRudk1zMllhM202TmVJa0VTS1Q2QkxMWXM5T2t5c18tVm9yWGNiNVVyNFdUdDkzdWlOVm9ld284am5CcXhNd3poRjJLZkhwNnRBR0Y3alJoSWdSM083Z1E0elZHVXl1ODlFejVkRzNtdkdWdHF1QnFkTVBKWURKY2dYUXFsdzM3VHRqeC1tcVBMc1RSbnRLQ3h2SGhJeUNSNHhCbkZmdU11VW1WUmlaaWE1cGRLa3hjck9yekN3SjlRNHlrY2Q2SEE?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:58:00 GMT",
+      "description": "No internet needed: PhonePe brings UPI payments to over 200 million feature phone users The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "James Cagney and brother bought California grassland in the 1940s; after parts were sold, six decades late",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNY1JNVFBsVG0xdW9tQ0FFUHhBV0lmaDlVSmNnVHo5cV9Kc01MTHpzdWxVOHpKNzZnVGJ0STdzRWFteXhsellRbGVCVjh0bFF0UmtNM0tSRmtLVHc1OTVSNE9tckJKRTVaUDMzYXRfelVEYXh2al8zY2NCNTJHZjBORHA4d0l2aHJqYXZCelhXbW1ZVExaMGIxaDhueTBaakp1OGt5MXZ0RFBieF83b3VMOUoyNWNKdHptckVuYVFFZXNxWlgyejNrM0FJYU9HQlBFcGJJZWdET09GVDlOQ19ubUhnS3NxVzhLUF9fblU4YzNYbGo1NXJ1Z0tIeUdsRnd4SWNTcm15cXBGOTQ4NXYzSGh6Q1UzSTJabGY2RFdwTDFPY3NzSm01Njc5b0tYNUVkQTNGZUt6Z3NWRENMcVA2QzFYb243WlRiRW1FMGhVamYza2PSAcwCQVVfeXFMUFRwS25nb1NpMEs1bEI2ZzJoVkR0SFVOZm56WWczZjAtbXZ2YlFLWW9JbjlOc1Y5Tzd4djB6VzF5SDRmTnVhSHFkYnR1VnI1RGgwaTdxVnZycU9xb2I5RS1LcTVZUUhVaTZldXRocGc4VUdfNFdoMEpMUGR5VFZheUlJV085ekp3LXZDNkNXWGs3OWZ6NEpmOGloQlotSkdhT2VkSHM5SlJuY0xpMkxOUG5rRVo3dGRKN2JwQVpMWWZNdXU1Tmd4SkxTV0ZwUDRkOXBpRXB6ZVNLMW9TTEVHMEc1UHU3YjB1WGlfZWFETGx4WFZJRnNWRWZJVEZHdlRxakc3LVZJQXRtcHo5QlJSRmg1ODBseGRsSURLajZ6SkU5VTdJV2lCNkY0WFZWVHZDMHpGUHhObWgyYnhvUUF1WUhxVFBySlEzMWJkclo?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:57:26 GMT",
+      "description": "James Cagney and brother bought California grassland in the 1940s; after parts were sold, six decades late The Economic Times",
+      "sourceName": "The Economic Times",
+      "category": "market"
+    },
+    {
+      "title": "'I felt sorry for the guy': Eight years later, Faf du Plessis revisits one of cricket’s darkest chapters;",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOOWd5TGpvNW1jbkU0bnJGTERwcnpIY29SY2tnQklNVlNNaUZFNGFSOWY0dmdldm5TQlV2b0NiSnJnTEdpWjJhZkZad2xlSFc3STNxSGVPdDBReGFPVmdGNzhsNzQ0ZG02TWJhNU12VUR0dF8xMzUzaGpiZUNGdll0cUpvVVkzMWRRVEJuQXFUVktNYWVXc1JIQ0J4Y0ktV2U0c0M5VUJ3OHpUNGRVZ2owd295Q3pMQnhKODZ5RmE0emhubFB2SllqaGZ0TU9UZ0lfRW5haG41WUpCdGJEWTY5UGJXNjlJZkE2ZG9oMTY2Y3d4UVBybUs4dUhNdk5WZ3FNdjNhT1lINWVWU2JjMWxHOWMxRGN4WWhmamFLelk2bm9nOVpyNDRnbTVPTUwzMFlxWS1rYnhwR2ItR21DN3laN09feFZMdnZGV21EVDVlSDllaU1lZ0hUZXNuemdiUFJCX3JKV9IB6gJBVV95cUxPdTloWHBPM0tRNnRyLXZ2VzdzN2tTeUFzM0hYaXZaRUwxZmZablZoVGJaMUgyTldXUmo2aE1uUGVFTWZuOUo4OExIejFwS1puRzlMR1FNRk1ZNXRDUDVDc25kbGc0c2ZQZ3J6QVhRRmRLa08wRlE0OGJGMi1tbGNRSUIzc2hZcHFEdU0tYzlWdktlNXo2NGRDeTBZR2NtMGc1Rk9nUUt1N0RCT1lUYkFxdmIzYUhmcUUxdFhNakl0LUVyLW5iWkFCRE0xV0lPQkM4QUFrUGQ1ZDhzcU1ScTNDa18zR28xNTFtRnFvUDFLbW9wdlUyLS1qZ3BBdV96WE5XTWRNak5YaHUxeDR3STdjaG02MjBnd2Z5aUFCUGhwNEcwQXBYUzc0S3p0Yk1OcS1PQnFSOWVfOTdkUUwxM1ZRZVctRlBhblhfSmxlTDVVQ192WnhTVE4wVkdCOGRnUnF4Z2ZYb01rY0hHZw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:56:00 GMT",
+      "description": "'I felt sorry for the guy': Eight years later, Faf du Plessis revisits one of cricket’s darkest chapters; The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "From garbage mountains to cleaner cities: How Delhi is showing India the way",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONTFlSXhTY3otTWRsbTZuSEwxRHY1c0hyWWNzd0htOTBwemp6bW52RVloYnAyOUpScWRLYVFkRl9wZ3pRODV3dnI2Nkd1LXVLMEtJSHhucTlWRUtYVzdSaFJ4WmlVMGI1SjhNamVHU2tMZEpOejRWSFRlOXg2bGxBa2tHMndrMGNhcjNaZGNhMWtJTXViNjQtMDNfQVUxc0VxX2pPZXVpMFUzNUZJV05fVmNVMVZ1bjA1YUlZdW9OMFFUY2dJRXZDSEF1NGtJMFdnQjhwQlRSSFB1UG9sdnJ1OW1R?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:49:00 GMT",
+      "description": "From garbage mountains to cleaner cities: How Delhi is showing India the way The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Luxury housing gains ground in India as affordable homes below Rs 1.5 crore face margin pressures: CareEdge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYnFzeXBuWF9VRVRzT284UkZLaEYyd0Zhcy15TFNGNldMRXJuZUdwVk5HME5RSlJGR3MzdzZsUXdUTmZIZERIWkVKN3hJNlJpQnd1Yl9BR3pIV1NpOGR5VnBKNEFOR3JUN3pLUHgzalBrVGNyZm1SbjNIUVlKZWlqblhxdnlmajVUZUpHMFhFVnZ2R2duZV9kYTczTWR3MGQ5NFZqYzZBczYwQ0M0NW1iUG1FSjd3VmJCcnA1WGxVWGRIdDlrY1doR3ZYcE45R3B3STJkd05HRmxsNDRtY0RBd1doSFRIYlRVRGV3UjhFa0prUHgzRXhrektn0gGAAkFVX3lxTE8yVGtrOHpMV19JVzU2VTJTMUFHS0MzZDNvbjU0Xy1iZ3hDeGlFWFR4X1BuWVZXYktnemdLWVVwRjVTZGZ0WmpEaXU3a0d5WnNrZURBZTRHSU1rbE0xQjdSRXlEVXhFVllSR3NVWHFqbG5IQXpscFlGNVdiZWczTzQwQmlBaUwwOUFLeWxOZG1NcmNrcm1pSThCVmpxT0tZSzdhcmpsS1ZiU2Y0ejZPVV9MR3gyemJGY1Bfa2tsM0RFcG9ldExzSG9BZmc0MnA4UlpCSHpRWWtoYlJUNUlOZkp3S3BIZzFZaHU0dkJkQW9KZW5HektSTlNfaFRxV0llZ3Q?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:45:54 GMT",
+      "description": "Luxury housing gains ground in India as affordable homes below Rs 1.5 crore face margin pressures: CareEdge financialexpress.com",
+      "sourceName": "financialexpress.com",
+      "category": "market"
+    },
+    {
+      "title": "NLU Delhi, Mentblue launch Certificate Course on Intellectual Property Rights: Law & Practice - Register Now!",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZjZzd3pVTUJPT2E5SkxQZjlES2ZVVjFKWTE4anh6bkFxUjZMeUMyVEJ6MG90NjdYdTlmcV9RZkZpdFBZV1Z3V2hsT2Vsa2tzLWc0dzk1VnhhRk9DdXFlQjE1enlNSmh1aXpVa3lpb1FuenpTd1otNUp5VWNrcnVoWFc1c0k2ZDNGTlQzZUp1SkkyYlc5eU5wRGlxeGNkVU1mc2JTak9CQ1I1cWJHV19acDh0RDZUUFVvRmVLaWIwdWdjX2hQQ21XOTl2Nk9qVW5lTFRSZWt4MDfSAeYBQVVfeXFMTVR1NmlRbjE1YXVITlJmTnZhSG5yNUY1cHUtNHNGbnFXWGluUG9kTHBLLU9aWGVuRDJ2RmQ4alhxZmFfM0Z4eGNTN1EtN0NkSFQzSHMyd0RJVkljWGt5SEhweFlpOHFXQnVfMUlqZllMa09jVHVXdWpEaW5vVFRSVFluMG1rcXR5Tk83Zm5wZzNhcFRWYTg3N0FZYzVmYzR6S05ENzZzeEwxSFBTWTU1WEotanQ2S1lfZVpiS09UY2JFWXhQS1pDN1FKc0w4OXpjcmNKaS1FbVRIUmcyTXg0Y1dYdTJnS2c?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:44:32 GMT",
+      "description": "NLU Delhi, Mentblue launch Certificate Course on Intellectual Property Rights: Law & Practice - Register Now! Bar and Bench",
+      "sourceName": "Bar and Bench",
+      "category": "legal"
+    },
+    {
+      "title": "From Sainik School to Rashtrapati Bhavan: Major Rishabh Singh Sambyal’s education and Army career journey",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOHhpSGFPYllMc3UyMDduLUo0YUZ0WE5rTnVwd2QxRTRwa3d5VXpXQ0tvbmNkb1QtbnBORlE0VkFXZmo3dWUxY18wOWdvLUdIU1dwN3BocGMxcDN1OVZlMjlfLVM4V2NxRldsZ25QVjE4RHo2TWJSdllRTVdYOW41RHlMTlNTOWFZdnFMSk5MeHUwTUoxZm5SbUtwbndaMmtySFRnRkhOYzBqaWJjWUVEenF6U3AxbEEtaEplQTRuaXY0d0dScTdHWTZYZDJScWVxUmVHaWg4OXVpWXdRbnRhdUpSV0xGME90ZDQ2WVk2bDJsb1lVUDF0ZTYtc2luWXlmcDdQMzUwSTdaTUV10gGSAkFVX3lxTE5KQnZ0dHA1dGNvUDVscGRHOU9mS3Exd0tyczRhUEFqRGhKdTkxNkpDVEtNZ3I0eWJFMWRkdFJ6cHZHMkRiZWhiNktSZm1WV3M1VU4zNzJjbVcxTlNPNVJhVW1IQXQ1aE56cll2XzhGS2pUbXRvcW9DMXpXbGthNlkwV0N1ZnppTThKSElaVkFXRHQwV0U1eWJ5OWd3ZFFFaloyUkxtRldJdUoyVzM0dm9NOEFCdHlVbkdUWkxZT2N5Ti1VYnJCZXZOMnRtckRLeHFPWVhvZVRxZzh6eThiUHp2Nm43U1RNODFOcDg5SkJ1OUswZm1RQ1k3blcyQU5lSEpFQmJrSkVaekthczZaX2JEV0E?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:43:00 GMT",
+      "description": "From Sainik School to Rashtrapati Bhavan: Major Rishabh Singh Sambyal’s education and Army career journey The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Rain holiday ignored? Over 2 dozen children injured as Amethi school bus hits truck",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTmE2bVZqak1va3A3Z3ZQTXJUWko3SjF0VjdjbHRhRE91aFhWZktUUk9RaUp1SzhQMllNRHNEWDc5bS0tRnMzWFVXbzRhakFsOXE3WUlOLWdiX19IejdyN3dOYlNrYkZQSlZTc0dNSGJfME8tMWRjdVVBZ3JLWXIzaElQajVQcHkwNmN1YjVIR2lUS3llTzZSdEJIOGg0TVhqdnNxam1Edzlab3ZKdVQ0eTJReWhxSVJaOEp0bWE5WWJOYjFHZ1pBUVRKa1FiTHRoZXNVelotUjEzOGlPYlBzLVF4TnF2WVpoNlllWWRB0gHzAUFVX3lxTE5ZX1BpLThqbTJfcGV5Nkx2dnlxbzN0R2JhWFVrMVZsdFpheTB0Y2RoZ2dPazFaT29EZkNwZ3d1ekVEM0daQm9iaEl0MzdHeUtRNEhyVEt2MWx6dVN4clFEenZTRlNYQkVzSHMyeFpiZTF0Z2hoNndvNS1QQTlqaGxncUFQWnFyRnBTS3pMcGpONUZnVXNMVkFFai1OMTA5dUxmNGhRWC1PU1BPNm1jNjlSdWxtZERiM21LZzNVbzcxc28wSDBkZkhWdVNVb3pkZmtzX3ZuSTZ1OUJ5TDktOWdyNjFyVGlNTFAyUmFFaFJnT2J2cw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:42:00 GMT",
+      "description": "Rain holiday ignored? Over 2 dozen children injured as Amethi school bus hits truck The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Hurricane threat in Southern California: 90% chance of disturbance to turn into depression",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQblVKNTlkM292S0Q5XzZzSXJQS1dfVEsxenY4MW5uaXF1S1V0d2p6aVFIRXM4MGwzb2pWN0lYWnpsQUwzVGtES2JmN09haTc4NWItVEFjano0Tkx6enhITmM1ZHpKNmY1Z01fVkxiYnZkLWY2Ty1LM1FLZHREZW1fbDJjLUZ2RVpBTlQ3RzhXOEF2a0FxVF84cUlpakFjaFEzR2pseFBQM2lxLXlrSFJwQlZRMElWeHl3YWtibFVpNHh0TUlUdS03SUNrWTF3SHExLVhGZmE1aUkxWGNzYzU0aHppbHFlb2RDM3hjNHZIVGnSAfYBQVVfeXFMTkVsQkZPLXNZbnFiZk81dUtBS2lFT1p6RGRuMENGam92OXFNbE1NWmttOXNaM1ZqS3pzZ0dSRF9YMmZ2OEhOMnB5b1JiRTdwM0JKdnpCS3pHUFZoN0d5LVJxWkVqRnpaYXowLU5LNkdoM0NqcThvc2VaaFZjaWdHNmxMckNkeEJXMDlJOWZhT0lIRXpPRHV6YXBWUlppeVAyQmNxN0syTzRNa0loYTNTd09aWGtMMHkwSGt1MU51eFREYXN5V0xfRGdYeGpVcmdDZ1VSa2l4U1NxOFRoQWotMVZpX3JCTVNZWVI2d0xmeE1QNG13VzNB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:42:00 GMT",
+      "description": "Hurricane threat in Southern California: 90% chance of disturbance to turn into depression The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Yamaha YZF R2 vs Hero Karizma XMR: Engine specs, pricing compared",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYkxDZFA3dnZWR0Q0clJiZ19iZ2ZGbDZCSU1PNmROaEl0UUJDOVJVSjZINEFGV0RibGtkTVRVUjdPTWs1eGZwR3FvWXR5aG9RU1RhOXdneGpFdnY3SC1rSkw1eXBpeXJVX0MwNk12Rm9SdGJ4UVJZel9QTHVCdW96dXI4Yk1pRmhJNk1NR2VaSG1Lc21aZ0tIdGtiejRWMWRKVG5fU3RrNDB6SkdTTVNIYzBBdVNHY051OVNObTlvMWZEUDROMnQ2OGdQaW13VGdtOXfSAdcBQVVfeXFMTkg2RlI0aDhGYTVGcDc5Z2dBUi1RazVYTTkwbnAyXzdRR2JGVzdROWxWLVBYQ3NJSW9SbzRGMkthdzhteDRoei1Sb3JfNTdILUVlcHFUZGV4a1A5a2NSeUdHN3FSS2Mybnc5Q0dneVhVWDU2UXJNdEt4ay1nTm9Ka1dzYWtDdjVGOHFOZWtxdE9LQ0RjYW15VjZkMEtaWVp3dWJMOUpRT243akk4c3ZpZGxDbUZBZ1VxR0Z4aUdCX2ZlUGYzcHFJSy1tUVRxSmNlZXhBRlZ4ME0?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:42:00 GMT",
+      "description": "Yamaha YZF R2 vs Hero Karizma XMR: Engine specs, pricing compared The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "TOI Ground Check: Where 'school' means a tree, tin shed, or locked gate in Rajasthan",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTi1RZWp0R0dwVjFjcEUwRlVJcl82dzgyQVh3TzNTak81am9CSTBPWG9BUVNLT1JuaVAtRFhtYWlZa0NvaDhUVVV6dFBJdjluVEV6eENzUmVZQkRDeHpVS2RPNXFoMG5pQW5EZ2NGQUhQczREY3JFYW5MNk01Zm5EOG9uSVdZR0lXRGdJMUQwcjF2R2w0c25GWjBxSkEzUjIweDRCbWE3MW82TE1vXzJkU3E1ZlR0UHdGTm1GaHZzNFZzYXBzRDVMdnBYVUZWc2NZV3R0MzZWczdHb0tCSWRWdjdVR0tSeWVkcFMxYzZ30gHzAUFVX3lxTFBYWEc5N3MyUnpfUUlkWkJqNUVCcGxRRW5NYmp6SHNJVW54cmNuWjdhTHItcWhvNEVNTFFXSkU1YWdIekFjZllSSklEaEt6Wmx2WVhCQ3BVSjBnY2ZzVEllX0JWakNwUUswRmw4WlRFMHZrNEdPTW9wVFV0aWdxVWNXdUNfUktxN1JrMGlOQzRkV1o2WDlRdTdUZTdobU9FanVrdWhpSHNXYVZBV1BfeEV3M00wVFh5S2NuUnk1TGRLOTZqblJNZ2dHbW8xNktPSlh3Ym1aWmczLThMcHExdzBOT2dycWFTUDRrZ3hiaUNreF9GNA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:40:37 GMT",
+      "description": "TOI Ground Check: Where 'school' means a tree, tin shed, or locked gate in Rajasthan The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "'This Is The Best Day of My Life': Navone After Upsetting Novak Djokovic At US Open",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzF2bkdVNjl6aHYtb2tQT3ZlTDJUWll6MGNMaW5IY1VMTlU2TkJvc19qak9fc0dIWW4zbnRjdzdYTEdDWDhJaTFYUFlJclhVeFFaOEpnTUxQY0ZfZmZqVkpzV0dwOGo2TEtyeEZVYTJodXBLTUtMekUtZkJ2RTdtUXlhNmRxMS0xWklZZUE3SjV4RHl2ZXV1MWZtaDFsaGtRRGdWZEppb05pZy1OTTU3bHd4a1A5YXROQnfSAbwBQVVfeXFMUHRwSENCWDFSZU9TMGw1cV9KRzBMSms3eXkzNmJtN0UzUEdlZE50MmpfWVNtMU9sem9CaVA1RXFPWEctMndGdncxMmFNSzlNRFZ5RVliXzJlbTRCclU5T2tGdjllMmhKckl4WTdzTUh3ekJHSVprQjR5XzhDaHdKalJEQTZjdWV3dTJMTlhlR0l1RmpHN2gzb1pnUzZuVnY4bDJNVUY2d2xiUHVVLXJZRlhqZV9pNy1mNklRekc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:39:36 GMT",
+      "description": "'This Is The Best Day of My Life': Navone After Upsetting Novak Djokovic At US Open Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "TROOPS CIVILIANS KILLED, AIRCRAFT DOWN: US, Iran War Turns Deadly; IRGCs SHOCK Trump Warning",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUXZkQUdaeWxaVExKaUxubnhRdUhiVXQ5ZWN4ZEdEWjZmc3RfNV80YWtPRnpjY28xTUpRUGFXNWtYZF9UWmVHYlpzdjQ5bWtrME9xOWNaekY2OThtN1otRTNYRktZaWliakFyNVN5MjRQT2FUTmxnTXRqOURzRzJBQ05TLWxzM2tPUERiZWJVdUZlQTlBU29jTEVReDhOaVhzeXRyTmpkU0xrVE9OVGFCbFdNLW1UeDJtdDVVTEhPZ2xybEx2Slh3cU5OWG80UDE3RGE3aU44V1NkYWRNQVFHVUhzbmpfNi1Cd090MkI4OWRkQWJFMnhkbmVaRWdzUdIBgwJBVV95cUxOWktEX0M2QWNKUmwxUUpmSjhITFc4MVM1VnZNb2FyMmt2WGZ1M00xMmF5dkZuWnFmNFdjMzRsSGhXTzZDYkkzSndIZnJmYWh2YVdUaGxsaGZ5RHhTbkp3eTU2RGgwa2dxZDBjMVlLemY1VHdvaVpLSW55Z3kteklsSmlzSDlRQXgtQTZvb3cwemsyUmZOSDhydUIyTmNYX0tkSUxrbnFnc0lzSXFqRXpiaVAzZzd1U3Y1UVFYaVA0RXU2RVlNVUN0V1NaWkxxRVlQNnNRWFRsOVpUYkZEY1Z2TVRISjNIT3VoN2Z4TDB5WjdIWVZqWmd2NGRxQ0ZvRHNzUWhj?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:38:37 GMT",
+      "description": "TROOPS CIVILIANS KILLED, AIRCRAFT DOWN: US, Iran War Turns Deadly; IRGCs SHOCK Trump Warning The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Nvidia just made $96.2 billion. But how long can enterprises afford the AI boom?",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZFpXQk1iLWdzcThDTk1DdWl6R0NaQWpfSGt3a0oxSGtlM1RzWHJraDA2LUt0WGhUM0xSaFV3c2Q3ZkNXX2FZWElucDlGZlVyS0sxd0t4a3cyaGxiLUJnUGFRNUhHYWZRS3VSX1pkX2thbTZyZC1Od3hQX3QzN2xaZ3ZoRmZ0ZkdwUlU1QUcyX2EwbEVXV1pvR29oZjh6dnFHNldlQk0tcGVWRmM3NGV0SFVkN3FRM0JzVVdEdnV6a1ByOXJkQW0wWUFUY2IyTUt0UTJkeWRYYmFLSi1QMlpTOFNLc2FveEE3RzE1dtIB5gFBVV95cUxPWGtEQ0xpaFI2Z2dyZGlPem9NLVZCVWJIMlpKaGQxa1cyU0QweVd4LWZtZW9LOU9YaWtpTjJGWDlRZmNmSjdqVU90U2FvOUxUZnFEeWJ0RENPWUhSQXkwa0JSOHE4SXAzNkg1YXM5aGpteWh0cXZTT05jOW8tQ1NEVGVSTUlicHRYRVZWWE5ZR3dVYi13Y0EwbTVBNTNQaGdlTzhVbWhDWVluc1RNMTd3OF95Mi1Dd2pNdEFtNEY1MFBNdnVqY2J5a3VySF9vYklMdkdkRG5LR1VoUFk1OUZPUDZ2ZUM2QQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:37:00 GMT",
+      "description": "Nvidia just made $96.2 billion. But how long can enterprises afford the AI boom? The Economic Times",
+      "sourceName": "The Economic Times",
+      "category": "market"
+    },
+    {
+      "title": "'Badly In Need Of Major Construction': Trump Goes To War Over Kennedy Center Name Row",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTHpWOFdGLTZNVGF5cTRwUEF2VFI5WTQ3TVI5X2lEbmhaVW9Md3NJT2pHYk9OTFloTVc3bTNjSTF1R3RQM3REVDdZYmZMMzB4NzUyZjVzVVVfekF2QU9mN0JKZlpILXZia3VwZEZsUU1PRDQxZEM1RG5aRWNnUU14NThQckYzSDZIemZOcUV0SklwMWNoLXNWSnpGcTJzNXJjRzdJMnFkN0ljTG5jSXNDaC1JYUs1Z29VNExVNFNFX055WWhUakMtekM5dHhxRmFCZUwwUTNabm95YUptQmd0ZHBaeTB4eU1kY3lUQWlzeHJWTUVvSmc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:34:37 GMT",
+      "description": "'Badly In Need Of Major Construction': Trump Goes To War Over Kennedy Center Name Row The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Centre moves Supreme Court to quash FIRs against NEET protesters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYm5YOEJoS25EUkF0aHJJa0JoSVh4ZGxSM0c1bWZvM3dtZ204MUx3bFg0RklBU1pPVHZjcGhlNUNYRFUxQm9sMy1NejZiU2tJY1dHRUZROXl4NEZKQ3hSUkdpdVUzZk44U1BScXFERDhZZEJNTkFSMUo3SzVVSDhHQ1VEZVRUQnZ2MnpnQkNDeHFoZmNXNkJ0cjZsb2pwbWY0TUZyelJNbmRya1lDcHctaS05UWs1bEZJTTNJU0lHdmlNX2FfODVnLUlmNHnSAdIBQVVfeXFMTmRkVU1aZWZKSmplRnpJbEZVQlA0S2dvNm84NWRnOEJGbWMwWmd3cFhmYUNoZWRyd1JJS2h1cm1GQ1JyR3ZCaC13VTZrcUtkX05QZ0VEbW5fNkttaG9xLVkxd1UwS1gyc0hYbzBGOTF0VldnbklFWDJpRnJicGVaeGZoN3MwRG1QWTU3d1JGNlV4bndMRE5QNE1icUc2UHRWRUwwUTFjTU96d2hUTVRtRFMyQVFlY2V5NjRQc1RDZDRnSXlzbnJwdEJ3TUczZzV3bUVB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:33:00 GMT",
+      "description": "Centre moves Supreme Court to quash FIRs against NEET protesters The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "3 pm News Flash – August 31, 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZX1Y4MUk5OWlPYmxZTlloT0NKc1RhMWJxdDNPVnBsc09jUm9rNE83Qy1pTVgxdlc5bTRLYXd4VkJkWkpjZFdqMy1lU09GMG1ENDhOSk1tNkpubjM0djFDY1VzQjJpV0J2d3JhbHd3N1V4NkhyQlHSAXtBVV95cUxPZWxwdmRyQ2NDdHBKZ2hMdEo2SUNCalFXQjB2UkhiaWxub3gxanZlblh2Zi1wNnJBY0ltMFM5Umcwdmhna3o2dHhLbTZEdEpPR2dhZTA4S2dibklkdTRFdjhGUzh4WUtCeDdjMEhYNm9yVHQzeUFKMUR1bjQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:32:02 GMT",
+      "description": "3 pm News Flash – August 31, 2026 Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "84 Tamil Nadu tourists missing in Nepal flash floods: PWD minister Aadhav Arjuna",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSVFuNDdzamx0V2hTZmgyT3JEdFdjQ2kzemRreHliQVRWS3RnS0tadUkwTVdNbDlYMzRtRkM5TTByVTBhSWkyNGhMSjY4U2xrNkZqUkN3RTdMamhPVmRGSVZKMEhZSnZPQU9yZWhXVVpBV0VSemhMbkhBSVVoZkp3dXdQUVgxUV94SU9wUDZNbTY4dEQxNFZYY3A1bklpTlItMndkRG9feUdzbkplQWNEWGxOMi1JZUZ2Rkw3TU1qZHBTaGZvdURxUWJhY0xtNTBGSTRtZWpteTMzN29RNW9SQmNGaG9BQ0llZEHSAe8BQVVfeXFMTkozTnpxbWRPSDFFSTZVemNXc3N5RGJ6M1c0UVNyM2w1Q3dHTDlERjdCMUtFcVhnVFVpSUY5M0U2bW5kVGJSTjhzYVVJR1UtT3EwcGZPRXJJS0VzNnNRWS1oSW9hVUhkNFhyY0JyOGg0cTBOcWJTaS1LbW1zRFhTMkVNWnJURjhBbEtDQTlwTFhtODRwaEFlZlFNMFFJRU1BOFR1MFVFNXNubGUyZ2p5Qk15Ykc2azQtaUE1bl9VNklHdWFTWXFwSjA1aUtEWXk2Mk1HSk1WbjE0QjNVbENQcDRwTFFqSFA5YmpjLXVHWUk?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:31:00 GMT",
+      "description": "84 Tamil Nadu tourists missing in Nepal flash floods: PWD minister Aadhav Arjuna The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "An English dumping ground for canal dredgings was restored as wetland; black-necked grebes rose from 4 br",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeFF4Z2dsR1BFY2h4WmNOeldudi1aU092aVFGOXUwdFhlRmh6ZjVGUk13Zkxxa1F5T2h2YWhzd3hMQWVoUFJoRGdDQVp5Q2h1OWVMUkRSajcwSHU1b2otQlJtR3hRd0V6UzhpX296MmR5NFZka01QcTJEUFJFZEZheEtHWEdGNlJzeUltLS1XZ1Jwa29lakVEc1Q2MlJoUzUzbDlXd3pWaWlzTzRoTko3NzZSTzFYdHJsRjNXNk1rV3luTEhXa2Rrc0NGQlN5YVowVk5ld3ByMkREQUZBUmlKb0hMWC1jYzVGV1o4WW1Cb2EyelB5bnI0amk5NGJsTXVkQVhmUFhhYXJsd2tZVHM4bkdubmVTQjBjcHJyYWJZRXRNREg2bnBGclFrcDE1aFdGeXFEWVVTXzg3eGZsNUROOG1PVVZ5WEpkXzNpbTdJMmdyYXQtWWd5bmpMcTc1TWYzdF9FetIB6gJBVV95cUxQc2hKZmNjTUgyVFBjQUluX19yT29ZRWdPZWh6Q1pqY0UwUTdLM08yVnBNOVhtRDR0N1gyeTl5SHN6QmU5RlhFU2U3eHpiWHNDdHdiMkRPN283emVnczRKb3dFQjY1TDBwcDFieWNhN21UTmYweUlhMTJGYWNXdWFlUFMyV3dUcFBTVWFBZGhNaWNvX3lMYWxsUS1VRmFYN1dLWkxGQklfUzRYVE0zMVpBWFVGWHYzM0VIMmozTVpmVnRkN2F6dXlqUXpOWjFfaUlQVy1SWTdaYmx0T2NEN2RCSFdNUzJoc3N0WnRTYWFkNzVEYlpGLThBRE1hUUw2dnNwUllCMHZfdloyOEQ4NG1VMXcybG5OZGlORm02enBJTFBoZWM2UHNhbUxnSTRKY0x3TkthNVVTUWk4NTh4eFZXUnFBY2RsdkZRdzhMTWxIMFFWbW93OVd4eXNJaG1LbTJHdldDRHozMWxSZw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:30:00 GMT",
+      "description": "An English dumping ground for canal dredgings was restored as wetland; black-necked grebes rose from 4 br The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Sony Music and Warner Chappell Music sue Anthropic; lawsuit that names Dario Amodei accuse Anthropic of '",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNcC0xMU9jUTR3dVlFX3BOekxocU1vSWpxUEJmbU1wd1FlY2VhWGxYbklVWGJTenNIYm5VMlVMb01nNC1fdjk5NnUxNlZwTzUtMUtzbTdCcm1NUjFNV08yRkVkZ3VkVk5IMVNNMTFuV2l0a1ZqWDZ5NWU2bTZnZnFxMjg5enF0M0oyN1hlYnBOMnRCM2pGbWsyMG1rWXhRSDBmYzQxY0o4WjdLX0ExakFUOHhhUE9ycWpibmEyUGJkV3dSQVFhOHJJRVU1ZW5Bel9TS0I2N2lxUUVsdUNzbHlaUXVRLWdjY3dFSXZyeG1UVEN5UVl6a0IyZjBNeXJBNjJrbGNZek5TbkpvOGtYR1pwelpFdXBvREVSWlRxaW5oQk9Xb095bVZfaTZNZVluRkZ2TVhGQ0dtQWtFNUZ4dWVfNGE4cEV1cjZRMHJEbzBXVFFjUElDUnJCOUM5b0dISWQ5d3F6T0FFd0RZWU5RSGtYWWVqbDd0WF8wMnZRb29R0gGDA0FVX3lxTE9HQ2ktWVJ3RVhPUzhudmxsd2s3TWU4Y3F6VnVPanduMkJJTXJuSUxXWHYxTS1yZkxxVHctT2FmdFpGN2plOWxZbmRpZGk5QXZqcE1xaVJHa0ZHTUlSOFROV1hlWXcyNjNjYU1veEJQVVBOQjZSOFkza25wOWlMcDdKSWROT0REcnNjMG5QNmRCN2ZIN1hCaG9CYjFFb1FlVWFrQV9DVkh5c2ZmRllNOUdfcGhDblF4QkhYeGM1ZUZKNzRkUEU2cFpVNWVCMVpTaE9RTFhYaTNiY0dBdFBPUnVxY2VCdEc0Z28zRU1qOHBBZlFUZEk5UmF2NFZoeWZOcm0zVy1OLXJTbkV2akZybE8zZ0JBTUVhX0IzZlozZFBNbTA0eU9zN1RuNmJlbzJsWnlac2xoRXQtSEJqcFFwcFRuQk14OFNfcEJpNjNVNkhmdFRVUjJjZ1FJN0lBN1hwQjZ3QTdzb2pQcEQxMTNVRGx0ZnZhWmJVbEhUb1hDQmtDWG41VQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:29:00 GMT",
+      "description": "Sony Music and Warner Chappell Music sue Anthropic; lawsuit that names Dario Amodei accuse Anthropic of ' The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "“Rahu-nomics”: How Rahu shapes the 21 st century economy",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXlfM0U5YzFSUVc5bzBCVk5qNzVLOVE0QzdFYmZ5TzctN01naV9ManB4Nk9WcXJfbEhVYlVJbDNrVWxmUkozMTBMdUFEeTR1VktsWkhRQ2lLUWhlX2daSi1NbFoySnlheUNtcE9BWjEwM1ROZFBpQXNmeEx2N0hwT3A5ZlpjZTVPUWdzOGxPcm5WOGlid0JuSUsxaEhXRFpzd1hDLVpxRnRpeDJnV0dISG9lWXBfZDRSalRIU0RDLVpDeWh0RldFcEpJU25iRU5CMW5SVC130gHbAUFVX3lxTE1pQzNqNGhWQUI4T2t5V1g4QTE1TTRwR09yOWpObG9ZQnkyYWtPN0xTaDJEUVNCdF9fSzI5Z2RwT0RMWlRNLWxzTEpLSUVPR1Y4cUx3VktMT0JtNml5cjRIc3l5MnBlYm1zYWtaZkRoTnpfXzJ6Y1BLcHpKZ05rNEdhSnJUaDlRLUNZV1lkM085Rm5PM0dLUHFMazZFSFlZV2hrdUxXTUd0NmVqb0xUSTA0NVhJQ3d6ZUlqelpIbXFVblhUYnlYWlZ5WmpSQ1JCV2xhLXktMFF0akxyZw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:29:00 GMT",
+      "description": "“Rahu-nomics”: How Rahu shapes the 21 st century economy The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "In 2014, an American town was known as the 'food desert', but one man turned a college football field in",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNSkNsOTRrU2huVUFvT1ZIcm5IdUNBZ0VKQnZ2UEU0aDZWenVhUWFtTUZzZjczM0FtQm9QXzBfT2xudWVtaV9FcHgtRHNRdXQ2dm5OUDNhbE8xQkhnNkNmQld6Z2pJc1VHRXpnMHcza2xoVmY0R0JCeTVXTlIxd01aSE1BakU2cms2eEU3MDVsaGkwa3pXS3dQdGhFaHZ0WWhkRWZSMW4zYk9fdllUUjNNT0NtRkZwU1FndjR1NnJ6Ty1BczZveE8tRW9zQ2pEbmhDbl9pc3NfSTZreG4tMWVGX2xpeDY3RWdkbmJDMGxaWTJuVjU5RlZ4QVgzcTg2U2N1R2kxSXhpblMzcEl3eU5KTEVzNG1xTktHNXNQamwwaWFMX2o1RWN1WjFrZFM5VlU0dGItcUU4RmExOHBNY09MdtIBxgJBVV95cUxQTHhqT05lczZIMlhqaTE0XzJYRFVrUEJkZGhJYWZCTzF2VEw3MmpyWmcyTDJVMkF4ZlVuLTBHLWxaQnU1cW95VHhTNWFJdnp5dDFFNGI1dUo1aG8zMWN5Y2tTRWRXTUR0dFFWNm5HQ084UjNyU0lmZ216Mm1GQ1VkREZpYUpCcmtPMWZ0R1V2NHIyNlBqZW9JUnFTUEp0YTl2NUpzak1LSGU4REIwQ1JIU0p5S21fVmJpREgzaDFCaGdkX3I3cWpLR19QS1hYQ1RpWnc3S01kWU0wZnVGa19TdGR4MUZueGFpR0wxaDhhYXNSMXR0cFRET01UVHM1c2dqcFlZMjd5WjlmcXRGZUJiX1k1cFdaRFZSa3BJN0FMaGZCMHJGVWsyVGlHc0VxeW5pdjQwVTdnRzNZT3U4MG1xY3RiOTNDQQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:22:00 GMT",
+      "description": "In 2014, an American town was known as the 'food desert', but one man turned a college football field in The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "A man who grew up poor and fatherless and barely finished high school went on to open 54 Burger King rest",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQc0NJdEdpZDBBX3BPNDZ2ZGZwbzdmclRnYkRLcnVPLUdxb05OZlJlNTN3OFJfSmVOUFdMelFxYkw1Mnluc3czWF9UUmctY1pFM05QaEtHbkMzZWhvQkV6QnZuRUUyTlhqd2ZqQm45ejgyRVF4cFVGbnNidWxLcmU0WXFFRy1xTHpGRDlYbGRiR2ZWdUVVYmYwMjFQUmcxM0FkcUZiNFdzX000bXpEOFN6ZWJZQXN4YXJrMEVLNUtUakZsVWRYMzlkclNHaVFaY0toemVlMVg0THNQS1VEVXZWbFNtYnd2TTJVWnB3WkpPSENhdjJNbW5rOE9hWl9MSzNfME9GN3diNzZfbG9CVDQxVFFDRDR6THVYekpYRnpGMmctYll1cGFCOU0yNC1GQlg0TW52dVJLMTdwSkZ6NEp3ZkZpdDI3NTRKcnAwRVpXNzktb3dHZUxyUXJaSWdId05zMGxSSFc1VlZUelg4dmt0TEtNLS1Dd9IB-wJBVV95cUxOVVlxSU02VnZKOVdvZ0NVQnNBNDBBOGRyOThXRWtNREdyZ195SnBjOG5ubTVibHJjQ1U0QVd1NDJvYlg0ZWFtanpfQnVvc0xlTFd4WFJZVUNHUU8yOEg0alJzMGxOZWxOUFVWUkt3ckR4R3g2aFlDUXVGXzdYdW5ITklKaW81ZjBubGN4UHc2bEw5ZDV2bk5qcnVsaVpuUV9idFp6dUFMaUxVdjVXMUxmMmRHQy1HblFiSXlEWUxUOVlSdmZuWV9qTWM4VTd2NXRGeEJGMTFCS2RQQmdJdlE2ZlBjU0NHWHRxb18zOXgwbHZ0NWZuY2x3RTA3WTdTY1lqdktqdlVUalJVMk92UlNTT3VJUDMwVEp0VlRTMHFkZ0dYNXNEb1hKeDhWTnJ6ZmZaVkVpVHdPekt1enZlOGlOb0JwMTE3U0VVTEF3cll3Zl9pTkhYSFR0QzBJbU14RkZONzVfQnh4a3BzczZHcllMOFdEb3VEaWtCbHQw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:22:00 GMT",
+      "description": "A man who grew up poor and fatherless and barely finished high school went on to open 54 Burger King rest The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "No playgrounds, no problem? Why Mumbai is making room for padel",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNazhPMWVPekk3NUdnMXpVcnVaUWR4cjJzYUY3dWpBdmlScXA0Qk1OMkdfN0hPVFp1SzhOcG5fU2VNeVJ5NkY0NGV6bkZqSzRWSmdkWVRKR1BWZTlpazRGZkQyaHVYZTZSWUViTmtYdllSMUhMcWsxYWwwbzU3U2dETmdPVFJLcmpKSmlrclBMTjcxeTVyRXEzUWdmcUE0bERWbGlINENUOElYZ1JzNElsaExndnBkVy1GOTZ5M3pmUkE0QjBtV21qZnI1WGo2M2_SAdcBQVVfeXFMTUpBcnRsemR2NU0wbUJDQWVyU0plaV9Uc0lZWjhtblRzSnNrSVduRldqakdpdklDRk9OdUFPOGxLQUw1RUhuTHZCSDVkMWxSNTF2UlF3QjRyUWIxaUNOSXFSZjl4RmVCNXlaMjlqWU9RTkxsaElyVEllcWtiZTB2VnNmX0d0akhkUko0bGFWSEZiYjN3R19OX3BKWE90bzhDdllGM3N0akgyQ3NMRmdtaUdJZUZXU3NqVHJ3TFIwb3ZGbGE3dE9mdHVpN29FSGIxQTlhUjVFVjg?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:18:34 GMT",
+      "description": "No playgrounds, no problem? Why Mumbai is making room for padel The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Tamil Nadu CM C Joseph Vijay announces Rs 175 crore semiconductor park in Kancheepuram",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTGs4LTNnYXlsNzVoWDZDTkRJaUl2Y3hOS0lvdDdUaWR5RENiV1VHenBPSzlNbjBrbFVlUmpvS0NnLTlmZWRBajdKWXgwQ2lTSXRtbHQ5bHJHQk8yNGRnYURMTXRuMFpvaUJWTHlhRjBUcDZ6RmYwU3djcm1MVVhZcEtiQnBoYkdlNXM4U0xhU1JRMU5JUGozNzRkOUJadHRtQXBRQmFGWkttMXQ4LWJzcklKbm1JMVRBeWlES3g4ekFVV1dIN2ZpbjZ6MkIzZG5sM3ktcERZTldybjZfY2RzRV9qSkdGNFlpbWdyVFpyUlRqaWPSAfgBQVVfeXFMUGpfa0pNbzBlTnJzWmkxenBLMzFsMDFYdFQ0ZzFYcUhZaXI5OUZIZ001SzhFRzJoN1FHWjVLQlRiWVJFc1pIUXZaWXJ6c0Q4a1Y1UDE5U0t6TUliTlB4akltbXJsTDR6dktXNU50Um85NzNBeThZUWJwOGdwbmpJSkZjckdWQVZ3Q1ZrbFkwNHZ2RHhnRDQ0LUxsS1NkaG1TY05ZUFJodXhQSmxpcVpaTFEtQWZfVk9IeFhJWVMybVF6b3gyTXpzZ055ZG1SZG1pUmRNd3VIb1FyWkpBVkxkazRSdEJDUFVrMEJYbW56eDZiQ0ZPbC1udGw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:18:00 GMT",
+      "description": "Tamil Nadu CM C Joseph Vijay announces Rs 175 crore semiconductor park in Kancheepuram The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "12-year-old Delhi schoolgirl dies under mysterious circumstances; family alleges teacher assault",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObTE0S2tObUcwa05Fd0FEQTN5b0tWMm03dXdOcWJKa0JVZGp0SElqcjZval9yUmJ0Y0ZqTVhiZ25KeGdRbE5GT2syMGk2X01QdHZ2MXgyODVHakRjWWhnNWJGX1FxVW9GMURoUWlrN1ROT29mcjRzNWIzak9DWElwYzdCVjNvQkRfV2FtNzZ2UmNTZDZobDd2dHRQRDlRcml5a2k5Q1dxLU9UdHFsODBQUElhZWRlX2g2TEh0UEZ4UWNJb3NkelVmVjNhb25wcmNGZEVoMzNrVndETUdKNkVIZXBEaXlyWFJuZGJiSFB4TEFiRGJ2YkljOHk4RnXSAYICQVVfeXFMUF84Wk5nM3JWcG5faXFtdVJIY3UtX1kyRm1yLTFDbGpSQ09JYU9IUW4tRS1ST25Ba25ZbnVKVzJTUlYxUWJLRDhyVEZXd3B6VGJGeGowUUpFU1J4RWlHRG1tVWR5MGk0aW9rcXFGUjZRYWY5VEttQTAzVUpDUVZuVHVhaThyd1NPejMyWXVzNzRIa25xME52TTRqWGNzamVLVHNvNFd1MGVKbXVmVGlLZUdaN2lTYXNxME9sQjA2WmtOclEtZUthQVpld3BTbnlQRjBxcW5FaG9TOFNQY1VXclpsa25IZEIxMHA3N3dSLTV0MERmTU1ENG9rTWJUdHNvZldB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:16:00 GMT",
+      "description": "12-year-old Delhi schoolgirl dies under mysterious circumstances; family alleges teacher assault The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Iraq Rejects US Troops Drawdown Plan, Insists On Full Withdrawal By September 30",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMDRFb2VQWmFidTFlUm52MW5vNmE0Yzk4WGpCa3RrcnBEdGZ2dk90Q1JVZWtLMHYtYmNYdEo0UnlNbHJrdW5LeXNHY0tHUUhBYl9Mc3pHVHg0VW0xZkJzeC1hNUYyM3JfZGhmQ3ZHSS1TcWFJM1duYUpYWjZmVEV4YVYyQURvRUNxR3NtUUxlb1d4dmd0d2l1cXdpZVNucnFQVUgyOHJRMGRmaWVZM1RFMDJ2clIxOEZxYUZ3cnJwS2tjQVJVZ0x3UmI2azV5ZVhFRGdxZUZYLVh1emdHUjNUM3p4RVBKTnJyRFFYdHkzclp0Z9IB9wFBVV95cUxPU0loMmM2Q0FqUF8wTTd3M1cxaUNzcjFScDQ3Rnp3dlZkaVg0R1o2dTRrVWF1T09jZjAyVk5rdlFHRURnZjdxUjZKaGRma3phdWdnSlEzVERjVVRidm10THJLZ3JhbXNwMXZXSkFhY0JpYk9NaTlnMlRSblA5dVloc2toTUl4OGJoM18zQ2NCNC1BeHZqeGhwS29SU3VYVmZYY1RQYTI3UVdVVWdXZ0kxamlfcmh5NDJVZ1lrUURBb2Vjclk4cjFtQm9EUUpJLURpMWZCM3hicTZyN0hhUEt5VGNRZ3kwaXRWVS15V2N4RTZMZHJES3FN?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:14:58 GMT",
+      "description": "Iraq Rejects US Troops Drawdown Plan, Insists On Full Withdrawal By September 30 The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "In the 2010s, Leonardo DiCaprio became a serious real estate investor: Inside the properties behind his H",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNZEtnTzYyUXhPYVFqTHBJSFJfdDNsSG5IZEVuN0pGTE1xZFNUdndHT0s0VGFBbTg4R1Bwc1NDVl9YcG14TXRhZUtPVHdCZ1NGUXFKVmhfekRnOFZxSlptbVlFdkltZm1fRkxhY1gtd0tjdFNaQ2FTZjJZa3VoTEFvZmYtdGNDd1dDTEM2aXVWdWc3X1k4Q0dmYmdjUi1xUmVmOHhjSEYtbHotVnpOWWZ4MlJiMU84TkJmdmZHUkNnQ3ZxVDZDTlg2Zml5SmR3ZkdZVVpDOUdkcG5KemhZc0NMRnAzNTVXZnUtbENvVXFFVTJOcWVkc3hkNzRvSGRyTGdoc3ZRWkJhS1JyQ00xc2dKazB0SXRNTnNzVDVSMlRkRFU3Uk5IQnhQRFJ2UDPSAbICQVVfeXFMTm9yNDN1S0VDallacWRuSTBIWkhxS01FZXJCbjFzTDBBMlI4V3RiVk1iZ0JvdjRXa0dWcUdvT3RLc3dxd19GQmpNVDV5c1YzcFl4TGFEczhoUHFOUEJDQUZpc2xEdHk3YS03aEw4aU4yeWFnYkxkeVRHNlJJTDctUjBpZFNyRWFrOFo5R3hsWWM4UVo1ZnNjekt2TElCNWdkQlFBalJJcHpuVjFva1BXQ0ZRVmx5Yld4a0dDT3pxWVpnZkpBdUdmN3FnYk56VU9NSE9xVV9wQ2VRY0tTWmVMY0ZxUFlmdXdzTFQyZmVTV0l0LWJ4YWwtd0Nka3JGT0hNVWdLbEMxRXU5d0NHMDMxdG8taEpidENIeVdXNWtFbWNYWTE4YUF6Zml2YjBWLWgxd0NB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:11:00 GMT",
+      "description": "In the 2010s, Leonardo DiCaprio became a serious real estate investor: Inside the properties behind his H The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "In 1985, CNN founder Ted Turner bought thousands of acres in Florida; the former plantation became a majo",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNRGViSmhSUFJSZjRlaU1fczQzel9xLVBxSDdIMFBnVk1mcTIxRFVRQ2UtZ3BCNDZKMmpHZWRISjA4djZ3MXFhRkh6X3BfZEt2MmlBcl96dUx3MlBGLW1EZmVlYkV1ZGtqVUR4TnNSLU1XS25PMFpBOVRYRUdiUlpZVVAxbEdscGtuQVNqYlNoc01OaC1YYmdrRE5HRkNkeE9LY0FEcEJ0dC1lVjZXVEUtUDN1VHN1NmlzMFRmVndURXhERGNubTV4YlFiaHBCcS1sUkQ4NF9BTkRpbEpPVGNTOGY0MzhSOGtuYkstbV9QYnkxVnp2UnhxNkt5VXRRekhtVWVvR08xMXFJRTdhVnZXZDNsZjdIYkNKLXhzenVOeEY3N0FwYm5BSUVn0gGvAkFVX3lxTE1UWXNabU56RTlkbUdvYk5qX3ltQjh3ZFAySU4tTmJWLWhDZUctSWhIakhXdEl5S2JETkdma1JKN2ZOTTlUX2d6bG1na2V5Wlc5VF82R2p3MkpIREw5N09sLWJneXNOckR6ZmFwQmd0Tm01SVVoWHUzalNVeXJPUmZpT1JQZU9Gd3AxUXlFbWpDTE16TFdYdzFfV3RLN1VGWWRQYVZVRmY2QUItMl9kREpNM3VGd0RHS3p1WlEtUFloWFhMOTlWOWlVVGk2d3MweUlPcDJGQS1ULVBnNExidEVobTlpQ2JTVFZQb2ptT3VZY3lPcEIya3RRTTJ1cGNYNzFXelJ0TmxhbVFpZmpBbEZxN2lISHQwbUM3S21PeWFxcVpNLVAxYlg2eGtvYTlrNA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:10:00 GMT",
+      "description": "In 1985, CNN founder Ted Turner bought thousands of acres in Florida; the former plantation became a majo The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "'No compelling circumstance': SC declines to intervene in CJP's September 5 protest march",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeEdQdERXbTA0Wkh3Q2JnSzRWQ2ZCTFgxTWF2aE0wT1RWRUJ0Tks3SS12UUNnTDdhQUtYbXdtRHRCOS14bkJneVBxV3JQeE5RRjhlSEpHd1BmaFhZNXM2WFdXRVNvdnN2eFNSS2c2dlY0ZmVuZXd1ZDhoZm53RWJwLWhwb2ZaNVlqVWJqWE9oS3dZS3Z4UkJHbFNNMUNXSXB2UzV4SkdjSmNRSXhKSEdiWUIxU1ZZVVR4b0ZrM1NBR2NyVjBmZjVzMVdocm9ta3ZMZUlVd1B6LVJEMDdPUlYzSUp2akJUaDU00gHuAUFVX3lxTE95RENSMFNIYmd0TEc1dHNfWEw0NjZQWnkzdW5ZUC1rZjlvS3B5NXFVUWNFWmFiTGYzN2JfS3lsV19IWng4OFN1d0plWExDNWoxVkdiTWdtaE5SdHpDdVV0VmVnY2ZEX2ZPeGVOMFpXWGhBZXJ2bmxWYk8ySjBFZWR1RzlHSkVpaUtDLUItNzVUWFlOSmttNTgtTmdvOGh0Vjkyc2piblZkeUxJQ0FMQkdUVW1fdjlaSjlSZVMxNUlQbUdBRzl6eWxZdi1yV0Y0U2Q4R2JaRkNPcnV3a3BpWGRyTDVuVEx3Q1hUWXNhd0E?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:08:00 GMT",
+      "description": "'No compelling circumstance': SC declines to intervene in CJP's September 5 protest march The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Shagun Sharma's Khatron Ke Khiladi 15 Journey Ends",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemxFX3JqcmVzSkl3bUF4UmJIMmJvOEczZjhlSHZxeXVmbW1FVVR5MzRhb2QybXFmeHRiZTlJcXVBZDNBYzBoSzBjdlBTSl9KUS1iRHhaTU9QWkl4YVpaanlYTFg0eTViRmNib3lfRkY2RDBiekZsd042enJNZi11WlFzUWhlM1U5dklpR3ZBQXRNNmV1T3FRUzg2ZW5hTDjSAaIBQVVfeXFMTnUwa1lBQW01OXVLbmhUMEFhczhKODgweVlteFgybm1IU0lBckN3ZERsQ0FYbndqamR1Y0lWREJwa1k2ckh3cm41U2Q5YlYwbk1FbmNKODFLQUUzcEVveTF2UjJMUmdDN3VhY0c1UDd5bXpwNnNwVFlLUWNkajZYblVSUGNmdjFJUkhNOHdnTkt1SVo5WmJCSkJxYnRrdEhwUER3?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 09:00:29 GMT",
+      "description": "Shagun Sharma's Khatron Ke Khiladi 15 Journey Ends Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "China tightens property rules: What it means for buyers, developers",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOTMwVmRUM1NzcE5MMzBIQW00UDVzb2JnRG1ERDEyTVVyVDJlekJLOVg3bkthcUk3SUwyLVhjZVVtODdQTmxZblo4NVV3UUJyazM3RGtKemhCeFdXcUs1UTctSlpvS3pUbWtHUWw4U1RtWXZRcFRGZTBaUk1Ta3NRRktMWk5qMGVhY080aExUVDRtWTRwUXBfQTdkTl82V0p0a1FBNnRuWFA5OHhUU0J1ejViRFJCMkZsWFRoLUdpNmJNZm9CaXg1M0h6UEhiWDZ0NlpseWE5LW5VTlRf0gHiAUFVX3lxTE9JSWI4aTRWTm9FS1phS2VEZG9rVlJKWGdHZ25FM0pJajVRWWdYbUpybVRpWVd0ZWxEMjNuWG02WFd3R2hxTk8wWnJkMmltbDc4WUs3dUs0ang5YWFjWTRDVGVlc1JfeXRPVlZLdHd3X1BZRHY2NTBKa0R4X0I4NXNjMXBwYjdhWlF4bWtvNVFJLXc3dFViODY1YUc5YUlWTDRLUXRLZTBGRTFrN3U3RlRNV1pOMHA0dGJqUHQwVXVnSTB0MjlkbGppSDJRU0tLdGtpamZwV05BWktEMktFRUh0Nnc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:49:00 GMT",
+      "description": "China tightens property rules: What it means for buyers, developers The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "'King Richard' to US Open: Thea Frodin Follows Serena's Dream",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1lrYXNQSkNrUWdUeFNKYWRteGQtWGtPRi1nU2FadzF5N2dCSzN6MDJIdFJxY2s0T3JmQkRFSk14WHJsWThTZlVnUFVWUzViOVBoaDcyMkV5VUN5RUhxbHNIbllsYW5HSklRVlRpTVE0d0VYRVVuMkNoYjlfRXVhV0NnanhUTTFPN0hET2tqN1pvQXBzb2FqQ3pNWW5tNWFldkxCZVBRbDM5amptOFB2VFBoVzZ6YncyU2REb09INFo0LWdtRjZtS19UR25Nd3UzNGR1N3BkLWzSAdsBQVVfeXFMTkVOMGVrRWhPOUlpM2dqTXc3MnJ2QW43VjRTVFhvR3Y5TjFkNEdPcjR4Nl8wMF90MXJiTFdjREtONURuSWZ2OERqdG9zU2tIZ1d4dDB6X09SX2JybTE0a2Y2SWVKbDZETVlmNDY4dEdQa19YWjFab2M5VEZ3MGNoSXZLbE9qN2haNWRfTm9wbnhqeWI2UThlcl9XODIzcE5seVZZZFpuTy1RVGVLVG11RDJaaTVsV0VyYlVlX0FGTTlmZ21jenhRbG1HOG95ZnN5QlpDODRkajUzZ3M0?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:34:24 GMT",
+      "description": "'King Richard' to US Open: Thea Frodin Follows Serena's Dream Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Top News Audio Briefing - 31 Aug 2026, 2 PM",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOElxc1dWMjRqZ1ppWXctZkFPWFhEQW1IOUNUT1JEZU9weVIzSHFmX0NmZi1QbnJkb19VWGN6ZTZBMnRlNjJjLUdwT1FGYlBEbURhWEx3NlRXUjIwMzNyU1h6ZGRvUzBDMlItQ24xdnJkVldDQ0ZTODNxSU0yQ1pLZm9HNTh5RzJHeVNlYjUySzQtZHU0aW9waGtNdG1zS19QcGdPVmRRb19MbFZJWUs2Qm0yb9IBuAFBVV95cUxNMm9HWGJOM1U2LTcyRHljcU9jM2xhYlZkZ0NVMmNFakxONzZuWU1rNUhTNVpXMnlKSWFaeDF0VV80bnVDVUNKNHQydUdyTTBPQkNOSG90RWc3WHBmMjk3Z01uYmxxeWNvU3hwZlJyTEZjT2tjX2pZbjloZnVIdHV4WlJGbGp1dnlONDJTcUluTVkxbGxmZnc4MVBLdER5dDcwUFFqdi1MUm5uSy1mUVRGbTJ2Qm00OXRq?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:34:07 GMT",
+      "description": "Top News Audio Briefing - 31 Aug 2026, 2 PM The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Property registrations in Mumbai rise 11% to 12,503 units in August 2026: Knight Frank",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObzc1Ym5tczRrdHpzR044WnVjcGZVNkdGbGRudHNpLWFnM2R2bzFWUl9qMmxraGRaMGZLVXRjWUpUSUNxeWF4ZjV1QnoteEViYy0zZnZxV1NVcGt0Q1JUSjRfM21YN244eVYzWm8xZVVlcXBRWTlXSUlITm1HVWo5VjN3VDU2SXJlSkdGUndQQzBoa0QwRlFmVGlRdDJMTTR1UkpKZTRvLWgyd1JmSHRLRzJoZnlWZDJraXBwZm1LZ2V4TDlnclk4akVadnNMeXdUcWhNRzhINjVKM3ZEVmlHVlNiODFMLXZVRXfSAe8BQVVfeXFMT2Q1elhUeHI5cFN3SldNUFNjUm14UFZYZ1dSMUZJZ3NuTzR5MHVVU29NSTlmbkZYN0VWTk5hblVMUWljc2g4WVdmYjZTRHJ1eDB2bzI1R1UyM3YzczV5eEhaTWR5ZDBpdXRoU0dMTXhWSkNKa2VnSzlWR0RYQmVmeTg0cUF0cGI5cmpUX3ZYQ1ctckVBNF92YmFnWl9LWlUwcllXQnFNNjNmbDM1SF85QjNLVHNaSlRseXAyUVJPN1ZZY0FtR200ZDRtZHlVVDBrbTlZTU5qVGFFdlpPQ1gwWGduZkhLcERUN2l0RXExdVU?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:32:59 GMT",
+      "description": "Property registrations in Mumbai rise 11% to 12,503 units in August 2026: Knight Frank realty.economictimes.indiatimes.com",
+      "sourceName": "realty.economictimes.indiatimes.com",
+      "category": "market"
+    },
+    {
+      "title": "Expect everybody to act in responsible manner: SC refuses to prohibit CJP’s September 5 protest march",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVFnT3RjdXlQTk5vUmRaR3J6UjQ0V0FVRzFyUWw5WnZDaTk1eDFBNk5oRjR5WmxpSS1udGRjVVFpNDZyanpzZ0R2ZGJ6cF9Cc1VBMEFVRy1EdDBVQ2tyMUJDaDVOWlJCNnhRd0ZkS084RWxYS1dFUUg2YnVaWS1JeThZS3VUc284OTdIbENKd1NTQjVIR1FoRnhiOVVmZU1vdEp3ZmF0WkxtcmNxVUpjNEQ0ZTfSAbsBQVVfeXFMTXRnMElkZ2hxMWE0S2hETk5HSlFfVXF1UG1jSVl1T296Nk1iLUpyUzhfTVA4THRhN0kxX2xCZk1PWnhuQlZfT1RPRVliUUpjMGNIWnFCV1NaYkVlMDZ1OTNMQmo1ZFFwYko3TnZlaklhTlJNNnhmQmhtQzJMdjR6U0JWZUpiU3R4a3FEZlAzR2piblJUTVFzU182TEx6NEZvbmxTTnY5X3ZsVEVBbHRaT21LU1FpY290UGE2OA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:31:22 GMT",
+      "description": "Expect everybody to act in responsible manner: SC refuses to prohibit CJP’s September 5 protest march The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "How NEET portal flaws flagged by a teen led to IIT Kanpur job | India News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUl9pNXpkT2dqOElWREQzZGZkYUVuWk1ickVDbmpZNU96a09zNnpSaEQ0VkVZT0w1R1ZpVUFpV191cjBjcFBLS1pCclVDb2ZjZHdETGtJSWZ5NFczOEJnRXpERk5CeTNlbEg3Yk1aX2U2STNhRTlGa2t4WjBDWHV0WmE2NmxfX1NsLUZQS2xIX1luVG9mbW84M2duRnpib19aallDcUlxNGRrdEtGcnlRQmNtWTF0M0dOYmViS0FncmNXZ9IBxwFBVV95cUxNUjNkTVBMVEF6b3h0N3ZHVzBDNldweXpQdnFmVU52b08zQ012Y2oxaGg5NHlGTGlzMUtKUHQ0dDBmWFZKOU9GaWxlS2hYcHRaOHdhbmdiVk5yMWJvb0pQRWl6LUtNX2cySHV3UTVrajBuOHZ6N05Ick1odWtkQXV1S2pRZ1pSTm9naUp2dEdJdGJIdm1oVDJHVXdybU9wMmpETHJIMk9RcllrWWo2UHc2ck90MXJCWXhhaGhqaUtuNXNMRTJidzg4?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:31:13 GMT",
+      "description": "How NEET portal flaws flagged by a teen led to IIT Kanpur job | India News Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "‘If protecting Lalbagh is a crime...’: Why thousands Bengaluru residents marched against tunnel road",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZkJPZnNlZkVUN2d1MGJheDhnZ2IydmVPNVJsUlhZSUNuV3FXalVFdXBNVVZuWVltd00wcmYta0tCbzRWZkJGR0pzOEkxdkprcnpVcGc2Sm9wNGc4NlRQUFFTeDl6RmdSZ0hLZmV4QXoybndYM09tZ3Y4RUI1bVhWdFFCcWZFR0ZVbzVfR195T0tOZXlhUEhSWGJzV0pjcWdKV2drWGM0RzhiUW81Nmg3a1FGWEY3Z29UeGdwVGl1WVpXeGxiSndwNDRZOUVWMVFLVGFOYVBOUUt3WDQxQzZ1TzZONjd5U0dLUGNOTEh5QlpVM2VwdGNQQmhjSURkOVZ50gGGAkFVX3lxTFB2a1BrNHhsa1RyQS1QZUNXd3VlOWJacEk1bER2UmxNUmI0cjZYeVJiWTZPLTNKZHY3MERRRnFkZUNUQVVtU2NlVGhMbDJuR0h0X3cwUG00VHlUUjh6RktkR0xpV3drNjgtdUcwZFpDSWtmNjkyNThzR2JzeUVVSGFoRElEOVZ6V1Q0ekRIVE9GR2UtTFZ3WWk4bFYwNHU0OXNXQW1JRkp4eHBFcmxYWlRkbHJiZ3o0cDU3NzFyWDFtN2Y5dkZVSTBZeDFQRVhvSDc0U2d3QjBTR3J2WjBMcnQzQlJKVkxsRUg0dmEzVFNtM2tyT3VfNWtNNnlNdUY3V29CalFvSGc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:29:00 GMT",
+      "description": "‘If protecting Lalbagh is a crime...’: Why thousands Bengaluru residents marched against tunnel road The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Indian Railways' busiest rail routes are getting bigger: 41% of India’s rail traffic runs on just 16% of",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNZGdqNTNzX1U5NXlKaHJXeDdTb3VvdGd2ZGFyY3JEMHRSbmE0WHJlNmV2RkZYTW1ScmY1Y0ZiMS0xN21rR0R6MUpsWEQtTDhaR1h3V2JYT1J6NjhHblpKdzhtSWVYc2RXTkpnY3Fka0lZV0JkMWlvSTFmQ0M5NklVbHdUanBKbnc4NzM4eHZZelgyZ2t2Y1ZOMGxwamlmZU12MVN5aG9nZG5FVkJDS3lHWXk2dzhaLVF6WW5UMjJjaUFTYy1RVDZudlZGRFN1OTh4c1Q5d2E2N1loTEpwS2s2MVl0SlhybmgzNzdWNVZJV1pINlFMQThMZ0hreFJCY3hzUlgzbFBWSTlNYTJjMDFSclhFLXFVTHdqUkgzV0RVb0hvMEN5N1pyV1lDVXBVRWJJTWJmd3dzSzEzZDFTSkxlLUtjSEFxdlJVcVNib1pYalp1T3lSVkJMZG1IMmJPN3E1VjBhendzQW13SG5pZ3FDbGJn0gH3AkFVX3lxTE5ucm03ak1DMFJNZHNUSHpCNDlUMWZwTHB5eGlSR3ZzbjAxT0tmSVJEQ2NPcnV2Ty1mZ0xLTWFScFpncjlwN0gwSVdMTWgzMGtKLU9DV1NnVllqTEhDWE1taDQyRjh4OEpBSnM0aGg5UnFQUmZEZDZsTWZyeUZYQ0R4MTBYZUd4c3FLcy1rR01fNkN1amRkQVhLNUxabFRyTk11cks4MjAxWkNqNHBYOXh0cllxeGZLcWUyVzBXcG1Oa1Q5WEZDaDVOT2lUdkd4MHJ6cnVFQlNDTG1pRGFGMFBzd1F4V3d3a296VTdMQmNqU3lzUjBNTWt6NU43WGVWZTh5cFZtc3R3di15VEZxWWpjOWRLaDNWRFM3S3JpMDd4YTdJUGczWkdlRk0tVFMwM1pndVh4cFhHWkZhdFY5TnZqZ2YxODlxVERySTlrUUNDS19KckxOSkFXRkwzMTNnT0FPTExzZkNEYXd0YmRfZnBEZ0hITjh6MA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:14:00 GMT",
+      "description": "Indian Railways' busiest rail routes are getting bigger: 41% of India’s rail traffic runs on just 16% of The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "6 dead, several injured in blast at cracker manufacturing unit in UP",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONzR3QUVhUUZxaTh6bWU4Q0J0WWFTUGlQUVV1R29FMmpmb3piSEZqQ2NpeExFZmlycDJUUjR3Q0x4dVZNakVDV1h1MXR3U3lLUFpIRG1xajNqNGNpOGlLM3I3SWdGSEh4ZHlYYzR4MlhocGRtaEFuaUVxMDBvRElubW9TckxaVzN6OUJiLUxRR0VjNDh5QkNSUXB2YUQ1VlBCTzE2V3hnUEg2TzVMUGwxYnF4Si1xcWhSOTVBT3o3U2pNSGhZZXhsRGVPS2I0SUpJazhxMVE4WGdCYlRs0gHiAUFVX3lxTE9leWZTbUFocW5SMGcwek1CZ0kxOC1BOG9aNXZ6Ylh4eWlWNFZkaG1ENDBjZkF4X0lFWjhySkQtMkRWc3VMbmFocF9ydklDcHB6OHlCSDJrVEpJWW5COHhOLXpWQXVsY3BLbUpMcTVGN0ZCb3B2QWJSSUJQMGRPQll3LUlrZzBSMGJXNlBRMTZ6NWdQUTROTy0yanB3Q1lvVm5WZFhfWFN5TGo0clg3Ukc4YW1tTXZPckotZjZsakhKckoxZUh6aDA5VUlXWDJHQVZ1d21oYlkxU2lzamR3V0pMRmc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:08:00 GMT",
+      "description": "6 dead, several injured in blast at cracker manufacturing unit in UP The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Watch: Zohran Mamdani look-alike contest draws hundreds in New York",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM21VUGtjcTBLVHhfRFpPdHN6T1U0bkRTOW14V0R3VGNhOHJ5XzROVzVqX3FjZFAtWDZqcVFfcEFXeGtHQnhXeFBQeHdpakJTSlY2VXFmVWdYNWJCdUxESXNjZnRkd0xOODkxbG1nWlh4Z0gtYnRFdjljbFd6d0g1dWliLVlZWC0tM0UzUHpBUzU0ZXBxUC1haTdieEl6SFZuX05vOEM2SjI2SXRCN2YzQVlaRnVLTEtZUDlZeFQ1OFFwdkgzM2V0ck5GRGpzUHRpRWtJ0gHYAUFVX3lxTE1fSEdrNG1Tbl9ZeHZPVmpEbHl1NzdXdzRxeGduYmNNNnJMc2ZkZjNSQnZaRFdsZlI0dmpIMFB5czZXcW9nb05fLUx6UHZMdEVfTzFTTlFZVzlSU2Ztanc0ei14SDdrdWtDUkdoaVpTVDdsWXVoN0ZQTjhwS3NxTVM4OXlIdGxVZUhuMHpadnRCT2lxRy1femxINHR2a3VuamR2c2kxTGNsamZiODZpR2ZjMkxkakR6NC15cmZidW96TkhhQ0JkQTZaS2I3Z3ZoWnRNbjl6RXpPZQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:02:00 GMT",
+      "description": "Watch: Zohran Mamdani look-alike contest draws hundreds in New York The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Before Haiwaan, Akshay Kumar's 'Bad Boy' Roles, Ranked",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWM4UVFwTVJaX3FXT3lJTmREckduS0FYVnVnY3BfNTRMM085cEJZbVE5dDFSTkhXUzg1eTlCcU5sVGwzX2IzeGdQdHdlS2RJdWE3RXJYQWtvcDJfOUNDLXZNX1NVeUZsSjExWjN6MkppLWZpTHg1TEstb0lnS2JRMDJ4RWt6U2pTN1lxdUN0V3p6UmxUSFAyamZjVXJPQUt50gGjAUFVX3lxTE1HbHhLTUNJamhCdnFpdGRnajI4NURLSlcwaW42WGNyQzFUclBxbkZtQ18tS3l4Z1Iwa2RieE9vRmNRYnBxVGhaaEtnZUZqX0pGeU9BSWNsLWxnMVh2ZUIyX1FhOERWVWVhMFhTNWhHV1Z1akpiVUdxVGRraFdWbzlXeU5jYUxQSngtOC1SNEs3ZG1Eal9vdkhUemdsV3FkRUx2Wjg?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:01:46 GMT",
+      "description": "Before Haiwaan, Akshay Kumar's 'Bad Boy' Roles, Ranked Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Nearly one in three voters struck off Delhi SIR draft roll",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXNyZXRJYWVnaWJjQVJhT1VzbjBCVFRlNWtqakdvWjdjaExIV2k1VDQtS0t5cnRidTBIZkpWbE42V01xVEVKdGU3WTlCQ3RrMDEtU2NyMml2U1AwRXVaY0Z3c1lHNi1ESkxMc2duN0FqTkNTNV9VcVI4a1JteVF5ajZmcUpTczg5UnlGV3JhQnJscV9Ed0phd0lsOERJQS1IM1VSdmxjTGlxTnFVdG9ZckNmeHVVQkR6b3hLYWxqMlB3WWNYd0xfNEFRMNIB0AFBVV95cUxOXzgtYlByRl9MVVRHd25vWTktQ09RZW8yLVVNeGVNLUJRVTMzeGQ2dDBjeGZ3dXQ1YnVDM2Z4dU0zNUJoLW9UVFFTUnJ2VjVfLVdremFpRnVwYTY5dWVubjRVb1ZMd185Yl80TFFTVkk1Smg4ZlBWc1V2RnlnamMxNWVzTDBkZG56cm8zTkdldzg2NUM1ZlA3ZFFuUEpwNngyQ1hqb25sWXFKZzZMQ3NuVXNWc3ItbjIzTmVBdzFaaU9TeTVoVldYSnMySC1jN1pl?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:55:00 GMT",
+      "description": "Nearly one in three voters struck off Delhi SIR draft roll The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Gaja Alternative Asset Management Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORmIwcWZPSlo4OUdidzBSa2tKT1I0dURibUtWMFB0eW9JZG5obzlfYlVNS05tTkI1RFRudTg2a2FlcUo4TXdRNGRtOW12OFJmbXFKenFqWUktSXFEbHdBalVWTEd6SDlXVUtZNlZ1YmtRNHFrMEhSSmJKODAtRmNLMlZodDBVWHFvbDhWNHhZZWRlajVzMlNQYlREd0dacnR5eU9teHhETQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:52:20 GMT",
+      "description": "Gaja Alternative Asset Management Ltd. Moneycontrol.com",
+      "sourceName": "Moneycontrol.com",
+      "category": "market"
+    },
+    {
+      "title": "Does revenue entry mean property ownership? What Supreme Court said over MP's joint family dispute",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTTlxTjZyWnFRNEhjR0tMcWNqSWdlU184Ql9VZ0lFX2YxbXNvWHVUTnlPcThmaUpMd3J5OHFBaUFjcnJTczNWQzBfaDdJMFhMdGE3WWNqRVJ4dXRUUjQwdHJFRWpYWHRmcVZoZWtOVUwwb1VIZXgwdVZoTTVHaTlZQ29hUkRoUDMwSUcwU1k3WVlYdFl2OGJ0bzljWDNLcTRyN05LUVJVMW1ld2plTmxqcUk4ZXlYV0VLai0ybnlFOERKS21rNFFueEVzOUgya0E1bFM0bzl4Rms1dFJITTJoRFJaMXlOalp5eXhTRjkyX2ZDTWd2VTZZ0gH8AUFVX3lxTE44ZDhuSkhnZHE3U3MxdWdfYVJaYWlvYzNCOFZydUU4VGQ2Z3lIZTB0dElJSFpOTFpjMzlVbncyQTgweEVBQ3k1UTVnUDZZUU1udGxYdWZLdWZ0Zmw3cXBlamUxeUVvMGxKSFJUai1RUGN1blExQ1FYaWNVbXdBT0k0RmhLSHpNdk5RSThFdVhfbS1sRVBnWkxMN2o2a0dGbXhCLVh2NmhDRFlTYjlQOE50TmdwXzNkRXZaY21BVE5YTE4zeVdjb0llWEt0VDhpcEc4X3M0MGVmWHlzcF9SNTZuSEJFWmJmcFhwNDF6VXFwM3NMZ0Mta21sR3ktdQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:51:39 GMT",
+      "description": "Does revenue entry mean property ownership? What Supreme Court said over MP's joint family dispute Livemint",
+      "sourceName": "Livemint",
+      "category": "market"
+    },
+    {
+      "title": "Augmont Enterprises Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjNuT0lVZ2NhTUJ3RmtCa19yRG1HMUNFVEVtS2hlQUQyd3BWQmttVzRlaGVpZEVLSlNiRjl5Z0lxX2RZMFlEM1B1VDYwMFpkY25udFVkTW1OZ2hGcl9tTm44dW03YXQxbFRHcjR2OUxHOE1SdS1sdVZVWlR2aTdrVGRlakhOc0tRS1Vv?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:48:26 GMT",
+      "description": "Augmont Enterprises Ltd. Moneycontrol.com",
+      "sourceName": "Moneycontrol.com",
+      "category": "market"
+    },
+    {
+      "title": "False Social Media Posts Against Minister Not Offence Without Intent To Cause Alarm, But May Attract...",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDhBdGYycTVDWlQwakEzQW0xcG84c0E3OTFoUnNuVFJWQ2o2SjZUZk5KRGluaDZTVWltR1ZNVWt6TnZDVjBfUzdZMVBVYXZkQWlWbW5WWDJ1WTB6emwtT21OdjBObkVvZVFEWXpqWjZLQ01mQ1hPNXFfMzFiWnF3X205ZmUxNUdtZHoxekpkcFVNZEhvTmoxV1JrOWNEM0pBNHMtbktHRmgtMkVXeEhwZlNrTklrcjh2OEJVWjhrWjZUSlZUNGVKQ3dCNnd0d0VOSXY4ZNIB2gFBVV95cUxPbUxPOG4tN2lpTXozZG9DeUJzd2R5RnVhamh6YWdlZTM4bWVFN2RwRjRuazlybGFBZ25IeTFIaUxVVjF3SHRIN0FpY2JFcGFUa3BMY09FR0N6LUdkZ2NVd01EODczNDkteUdndU0xZnFDRTc2YmNJZGVnS2o2dnp6cHJhaHhIelM1Tk8xbzFfcW0zN2JDSl91SVN4NUZVR2dsbGo2OGx3Vi1GZFFZM1dDQUJRTVpROW1KendQSG5XSFVIeU1GQmxHck41Y3J2dVdIWDQtS3JyakxxZw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:47:13 GMT",
+      "description": "False Social Media Posts Against Minister Not Offence Without Intent To Cause Alarm, But May Attract... Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "Zomato bans analogue paneer on its platform, asks restaurants to switch to dairy | India News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM3p6MFB5Y2lkakxZNHFMemN0TVN6Z2dRRE9BczZZWmZRVzVVdEFtZFpBd1hMdHJHN1U5c1luNVNhdl9NbktTcWp6OWh0NTMzU3YxMm9OaThoSUl4Z1lZS0w3bjVKdGUyLUc4aUZZYms4U2xKekdBakZzRzBXejEyXzdLS3JUU3VZMTdFZWhOTE5RT1dQTnFfQ3RLbE4xM0JVUkh2NXdkN1A2ZUZLVmFvcjZKWTNYTHV4aWNsbTl0cmFQQmxFdGlibmJUNUM4blVoYmhLNWRZS0JnUdIB3wFBVV95cUxPMEtwV1dYWlRKMXgtMkE2bE13WDk2dl9SczFRSzY0MEJoZ2ZEei0tMXQxOEFrRk14NU11OWdWSXNLeEM3WVY3eTh4WkM5VG5UaU9yLUFSWUY1N1k2c3M5Ry1yOHVyYktuWExCTVY4ZWN5MUotX21sZk8zVXpla2VIaGRzRFgxaXJEaHZQcmdpZlpZVEd1cGlRMUpIdTA3TWNvQ01NcGxNOTZqSmdOSldySEFnSGRBX2xMaFRFS0k4dEJ4dlRvbDRGVWw5STBtTkRyclNqZ2FxcGUtSlV0MjJJ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:44:20 GMT",
+      "description": "Zomato bans analogue paneer on its platform, asks restaurants to switch to dairy | India News Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "1 pm News Flash – August 31, 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTMzZLNXk1aGFoWTF2aTFwdEVvNTJrV00ydGFweHdOY3d6MnNtUTU1Z2Q4Q3MybHNCWUNqdEdNZFAzVEhoSktRMTdGb1pUWVdyQ01yMnBFeEhIRWQ3Rzh2ckNsQS1YZUYwc1ZiNXJFb0RscUhISGfSAXtBVV95cUxNQzVoTkh3N2NLTzExNjJuMXVCQ1JKSXlwTXh2SGFyekxlcEptc0JQMEVGSURtQlU1UURlNDlwQXlmLXBNX0tVb2ZndHJSZzBkLUFOd0dHNlg2LUhHeEp4MmVDWUNmOWJjT0xNdmxULTRFRFV2c0VrWlVGTGc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:31:59 GMT",
+      "description": "1 pm News Flash – August 31, 2026 Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Section 23 Senior Citizens Act| Transferor Need Not Be Aged 60+ On The Date Of Execution Of Transfer:...",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQTZlMW5lRXdiZnhmN3kwRHdUS2hNb0V5cWtFU0g4WEs5TGU4d1c3eUFsVm95ZWhRU3Z0RnBuRElfTTJndnZpXzBKcHo2WVVwYnpjeFdEcU1DaE9NWUNtdTBmcjFYODMzYlJsaG9CZHhrRHFzTU1TVXJsb0sxdDlTTVA2OUMtT1d3WVI3R1hxeHA1emN4cENmR3lScUJEQXFvX0VsVHRzaFU0ZmZfdk9EaVZzaWpqc3YwemxlSkFFYVNyY0NkSVVTRkR3Y0VVdUY1VV9kamlsOXpLMVlqaW1YUEM1R09QWHZBdG1QOUVNem1rd3NOQjBCeE8xNNIBgAJBVV95cUxONzRBZTBXeXN5TmI1LXNHSWR2c183ZjJheTJ5YU1vRUxIQlBudHIzVGpPZUVXa3p0TXROcDZHTXk1Qm5wX1lkdXZtX0I0SFNjV1dfOHQxZ2N5Y3VmZGo3VmJ4aHFUbXhCLTBSWml6NW9DeHFVZ0lCNTh4WU9kbjVOOFhqNGdZMXl6YjRhR0NIMzM5Sk03NmJHNDBnMmNFZGY0bWlPdjhEMFo1MzFsNjZFMEpXb0pJaXh2djkyRkdNSDBkM3QzbTdtS0lhaldjMFk4RTM3VWxlaWZUNFhCYkVYdkc4SXUzWTVFLTVTMkFXeGZvcGZIWGpVSm92dHh2SUdt?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:30:59 GMT",
+      "description": "Section 23 Senior Citizens Act| Transferor Need Not Be Aged 60+ On The Date Of Execution Of Transfer:... Verdictum",
+      "sourceName": "Verdictum",
+      "category": "legal"
+    },
+    {
+      "title": "Long Occupation Of Govt Land Doesn't Create Right To Settlement Under Assam Settlement Rules: Gauhati...",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM0JRa0t2YzRlckQ1THlmLUxCb3FKejFOeDBRTU4yQ0tZWkpsakVZV0ttQWxIb2JuTnJlZThtS25iQ3ExdDlBTnNtNF9LMmhVcklxUFpjOE5XTmxqZDNBTlBiRXRZbnFjVGNsMUtmdUJnN1lKQlJUS2M1VTJhUEtmYzFadHd2NXp3ZWZXWGNzWkxWa0dpUF9qT0dLclYxa2pBZ2pMdEhpR2RvcGw1cXNhOThhNWRnUVhqeW5waUxwTWJtOVVTRjVNeUVuV2s5M3VacVJFTNIB2gFBVV95cUxPenJuN2dYT3lkd2h1ODlTbkZHZENuSnNpUFdYWUdyb01EX2NJOG4xZnNGMHVlXzhuM3FCTi0xR0ZFbmhzNWw4dFpOMXI4Q0c0OXVlM082cDZPZVc2YlJBSWdIWXZrbE5jTWNhZHZjZFZfM20zdFlwTWw4VHBFV0pNdEV3dXhKUnk2YWlOWVltZWUtU0pyZDRYYm52cW1xRXRCT0stM1JsbkRZaGNpOTVNT2hRRkpYbnVPYW1qUGJLUFZBU21aLTRWa2tIclVXYjJ6OXQ4bDU3RHJmdw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:30:46 GMT",
+      "description": "Long Occupation Of Govt Land Doesn't Create Right To Settlement Under Assam Settlement Rules: Gauhati... Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "Alaya, Disha Are Rhinestone-Obsessed Girlies",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcEtTSUtqaktqekQ3WHpwN25qRkNtQ3pnRDhPMGNLalN2cUFKX0JTV3dRRXU4Z0RWcVVZTFVscmVYT1lFNFJKUUhieUJ6emZYeDAtd3BldE5CLVA2a0JrWGp4a09yRXNxbXlkU3pmRXlwVlV2VTFqYjBfcV9KLW1MM05uZTdUektuQ0JiV1VTRGVXa2E1bWgxOG5Pc9IBngFBVV95cUxPTWVDRmp2ejNIVzl5MUthR1VKb0RCTW1abXpUdHoxU29ydHZVQVpJeEZIejNtNzVfLWJIZ1k4SkV2Z1p4QzdKdGFLVkQtT242UVl2VlVYRWNEQTBjM0czTkxNWWFQSU1LLTFNYXNJNlpYT0hQcEZQQXg2RDE0ZjVWTWtvVmdpREVKS1czZExuTS1XMU14blRHYXoxZWVJQQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:22:26 GMT",
+      "description": "Alaya, Disha Are Rhinestone-Obsessed Girlies Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "All-round boost for India ahead of Afghanistan T20Is; Jasprit Bumrah remains on track",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLWVEaGZTcWJnZ0VBenVzTzVpNEE4a1BxV3h6N3k3MF9KVFZ6ck11RXpaV1BSS1dvQ1lxWlY1d190dFRvX0hIcXFWa29FcktNZjU3eWxDTXpkNnRLTGhWUkRnNlIwdXdoWTNMV0czWEp0cmF5ajEwTjJKZFQxMm9lcFpxOTZXTldaalVtMlhWLXo0RUxKdDF6VG9ObTBGOVZ3a1FaZ0gxSFRRdHBiNzRwb3dLSjFUbEU0OWJrcHZBR3pSeVRNWHBaeG1DVUNDYmdwbFd4WlpheGVDZXFyYlE1QnZhM1hwUTZFbFE2QmU1MnFETm1JM0hPUEJB0gH_AUFVX3lxTFBnamFkV09rcXpqYVZoLUVraE82aGNXOE15eFNmVnFkc1JvM3lyRVR2QVdKWVVRWWRFdmUxbVFVbHN3cVdKeWVhQlhFLXpsR29yYnBtSjVHc2ZwTG1BcFd1dEE3ZDZMSmhSQVJFM084VlZNaWRKc2ZkdjNnQjJ3R2ZhaGF1OVN4R1VEaGFDZUp1bU5NcTNvakU5Q2VkcG1tX2xvaFIta3U3RUxMck52NXhLbUVFYTFHb0pkZ2VsZUE5VEttVkhxckNXUzZ4OWprMER5WUtxQTctM2tWY1BMWGoyMmw4UXpsMWhsNUVPYVJOYlRRMlJueUN5elhCZ1FYYw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:22:00 GMT",
+      "description": "All-round boost for India ahead of Afghanistan T20Is; Jasprit Bumrah remains on track The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Transformers and Rectifiers shares rally 8% after receiving order worth up to Rs 100-500 crore from MEIL",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNV3MydE9nTkhmS3RaQzgtNVhVX3NnSWttdDFkSkdjNzBTMkFFenBiVUFWcGVYa1FhOGN2R0FLOG9hWDhkTHhTbGdPcFFwQkM0UEZwcVpPWWNDYXlyR3prVVY1TnJGdXFnUmVzcnZjd2hKZjdfS0dheEppS0txWEZkR1lPelZGam1nRjhOVklsVENXMWJ5d3lYMHhzLXMwOTZ2MktMRUZfQU5VcEplVUhVREV5dDNTZWNQQU92dFdVakNOdm4wMjJnRlJtc1VBZWVNSnZhWU4wYkR0RXVfbkVZWWV5S2xFbGVIbGhyVDBiUFFqeXlQS1VYd21nZFN0cEtURlhOUU9HbXh6OWlzWEs1VDdBMVrSAY4CQVVfeXFMT1Vhc3lJMlY2b3BpZkhiSEZWZ2MxN2hBMjdwajRwZ0tQOEN3MXc1cWIzUGZqcnFQYkg0RTRCZURIbzRPUmpXcnpISHQwMmE1VFViU3oyT0VPTzJETG5xR0NnM0pFN3hRU0paWFJlRFBUVnpzVnJ6ZndWaV8zRXhqZkVGWTJxZFB6Sl81RFQzdTl6dzBtWmdGTzUzT251Xy04ZjZYVk5LMlFpclBrSEtnYVBodVdwWnhlUlNuRmw3THd3TzhQd2JabVFJVE14ZG1xc1Q3d0w2OXhFMDFOTlRrTjQzcXVvaVRRa2hOanh4SnRuMlNxU2dicTJ1UUVyT0FyS28xdDktSjJ1QW9jaExn?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:19:10 GMT",
+      "description": "Transformers and Rectifiers shares rally 8% after receiving order worth up to Rs 100-500 crore from MEIL The Economic Times",
+      "sourceName": "The Economic Times",
+      "category": "market"
+    },
+    {
+      "title": "DSK Legal strengthens Bengaluru office with appointment of SV Giridhar and a 10-member Disputes team",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcXBuNWZKV01lWVRUU2ZGcWIxMlNHWkI5Uzd5bXdUSkdNc0xZZTRMTzFid3dzcHNsOV94S1B3cmNGcTFsakliMTN4RjZER05WQjVLQ3NnM21PaVBmcC1hZ0lWaWIxYzk2SmVxTnRINFZNX1lTazh5Mk9xOGhBV2RwY296bDMtTDQyM3ZLSVhKeDRna1Y0VnMyOTAyX0pDNDF5NjAxWnRpLXdzYU1VSDhEc1dielDSAcIBQVVfeXFMUGFIOTU0b2c5RExrcVlreHFVb1J3S1k3VVhQOU50OFY5Y0RqN2FUUExZcnI1WTRfZkhLU0ZrYlZyRURnaGlROVMzN3Jra3pPX3FiNWhWaFp2V2VKeFgtUjVUVnpScWM3cXVtcEhsOE1YM1ZFZTZCM01jQ2gwUDBtTGZCSEFpVFp5YXVBNmlUaGJINFZqdy1vaUdzSkRrVFJzYUtkTDg0QUg4Y1lOLVFGTFpfRUdyQkdWb1BQekxCU01HUXc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:08:43 GMT",
+      "description": "DSK Legal strengthens Bengaluru office with appointment of SV Giridhar and a 10-member Disputes team Bar and Bench",
+      "sourceName": "Bar and Bench",
+      "category": "legal"
+    },
+    {
+      "title": "IGL may need another CNG price hike if gas costs stay high: ICICI Securities",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV1RZT1ZrMUdOaG5aYm8xb1l0VTdFYnVtMEhTcUxLWEhLYXRDVThQeWVlQTF1a0x2VDlHVHo4VGVzTllVUGx2ZGxxRno1VUY2VGdqSTZsN2lZT0dCNFpzc0tQV3BYU2hJbkNvLUluSDM5dkJQNGtVbDdSRlJwUHJHRlppVWxpbjd0WmdjOG5VSlE0OHU2MHRYVUwxZUJNbHFlTDVPeHBweFUtTW5lOUZTV2Y0ZElITXFRRnQ40gHAAUFVX3lxTE9LN2UzSl9GajJGdmIweDd0b0ROTVU4bmpfeWpRN2FETGY4UkowdUFpaVJpekpmVHhVa2RaWUl6VmxSSFVNRXNseHEwSUxBUGJtRDdJNV9ENVlXQ0pDQzNycHc0WWZEdVhKaTM5dVVEVFViTG42R1pER0RsTTZkSTRmY3plQXFudVhYa0U4c1FWcVpqNEZfRlFmdTc5eFpCYl84dzVVVGZyTUJjbzVHVFdtVEtFZTV0aWhBMnRXVWJ4Qg?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:57:58 GMT",
+      "description": "IGL may need another CNG price hike if gas costs stay high: ICICI Securities CNBC TV18",
+      "sourceName": "CNBC TV18",
+      "category": "ncr"
+    },
+    {
+      "title": "Manoj Bajpayee Buys Farm Land At THIS Price",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmNGZG1sLWh0U3RONmxSUDBGWElDZnltWWNZcS0yODk0aloxZ1poZFlRRHNNSWhWT3YwaWJNazAxV2laZUZEZXNRWTUzNXBzdGtxYU9uYmY4TXU2RmVuUENPTU1sVmpnU212dU9nU0ViOGhDSmdPVGtmaEIzRXJpcGZyRldLUXp1ZzROb1JZZjNnLUk0NGN2ctIBmwFBVV95cUxPQk1ZWVZrRFR0UE1Iai1aLVRYMnBONWpxekhlcWVrYXd6Smk4TmpPWUJnWWxibjJMSy1fdFR2VHpvc01UZF8xNnB4MXlnWUFVYkFqOC1UeVp2cmNBYjhqQVZwSnVZd0xNUUY4bno3VmdfUWJWQTIzcV9HRzkwenhTZ3Q3bEptUWNGLVNSTjZCZDB1S0VfeTFYUURyOA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:57:39 GMT",
+      "description": "Manoj Bajpayee Buys Farm Land At THIS Price Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Goa nightclub fire: SC directs Saurabh, Gaurav Luthra and Ajay Gupta to surrender within 2 weeks",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTGFFQ2M5Rm42VGJmWWZabEE3cGswS3d3aDZ5R25Qb05CZ3IzVEdXUkNIQkhsX3hYWXcwbjdMVTFMMkZnT2RTM2VPYTh0Umd1ckhldk9mRWVxZUFSOWdoTkFkN2YxY25SbWNwWk9sNkM2dzNEVVU3cjliektlWFdJS2cyWkpVZm8yZm43ZWN5OEZJOFF2V2lsR204RVpCNUg5Nm1PSy1yb0F5OW0yQUZlWVR5UFhUNHlCSTI5RHQtSHozTzVUSTVNMWplZGFuM0F5T0h0eEpTaGlKenZTVjItc3djaEpLSnN1Mm5IOHZ5dmlxbG9tWVZpVdIB_gFBVV95cUxNS1pMN0xTa0R3ci1aMWxONk53eXBYSkF3aVRxRFhtSUVGbUsyQ1VFeWxxdGRDNHp4Wl9mRHE3dHFac3V2R0I0MGZhMlVpSk9NVHNpZW1aaF9PX0tYMzVEX0RXQ25tZVNLWGF6UUR5cnc1NTcxV1ZLTHA4N2k3NVpTTjVyVS00WDJIRTJ0SU0xTmRYby13anZmMm9icWRpc1paV2o0TVQzMHVYNE1rLW1jWHdFQlZibG9XeEhjNndvcS1aSWhmMVpVeUFLV19RZWYxR1kzRDhoQVkyRkNYY0Z2Ql9zOHBfVGNtbDYyZ1lpaEVpSWJtUnk0NDhlckY1Zw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:40:00 GMT",
+      "description": "Goa nightclub fire: SC directs Saurabh, Gaurav Luthra and Ajay Gupta to surrender within 2 weeks The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Max Estates says ₹16,000 crore project pipeline supports strong growth runway",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2xmalJ5Y3dTRjZva0ZYX0NOQ3d3QjZFd2RwNFlXNGE4a2pqU1laLVZOdXRlTFVlS1NWWFRUVHF2OUNUR1ZJVUVVYzVEMVN6UVE5Q3BhS1NiWmx1Zmhkbm5fbDlvM1htTkNiRjlDZGxXTTBUZ29ON3JBNjlMT216RXBzVWtpcUFGdmtTSjV0aEVWbzJfNlFvWWpGcDlYLWZrMU9kbU51bl92WDJhSTZtMVM3a2vSAboBQVVfeXFMTWVVeDZrcFk5NUlaR0VyZzNaSlRXSGFaalRBUWxJTXZlODhwa0RhNmE0SFRmX0NZYkt3dTBtV0k1TkdQLVIzYUVLOEpEa2N6cEZNZlpjWjhPZVExYmhRYXhaNWF0UElESFJlQXJmWlV1aVlBU3lUemdzblhOSTFuRTFQc2NOWkJPX0NWMXVJTTRjZUpHYmx1YjEtMjJ1MHcycEExSE1CUTVQMlY5VWxWRVQ3NXpHZmFuZENR?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:37:07 GMT",
+      "description": "Max Estates says ₹16,000 crore project pipeline supports strong growth runway CNBC TV18",
+      "sourceName": "CNBC TV18",
+      "category": "ncr"
+    },
+    {
+      "title": "Juris Prime Law Services onboards Srihari Alluri and Dr. Radha Penmatsa as Partners",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmNUVnd5ZE05cW9MNEFnbExlNmwtNGpyblBibWU3T3QyRzQ4eHFhaEI1Y25NajR1djdUd3daeW5Zc2lVMXVpTTRRWFVfVi1yZk9BbWNQSGRmOENBaTBPLW1XMnJIbFRXTHZxdXpGNXp2cDBRV2pxMFBORFhxZnhhanlDc3RFRjZKMUc3UW04RUloOHFfR01XUHRobkI4QkpsMnZBdzdtY2JoSzZXTFZUMVBnYlZkNU1kWGUwSkw5M1J6ejJYSnVxVXh30gHXAUFVX3lxTE5jdVktUUV2UWZ5ZU1IQmFxYk13eURVTXF0akhKSG1oVFo5aDBFNWZNd3dQXzlabElWNS10SE56YXl6c05KUFMzR3luMUJ3M1d4M1dUM0hlMzdlcGFyWF9xWl8wZXRhWlUtN1UyMi05S2dhb1ZKSzlXaHVodE1UaVZsY0o1VVE0Qlo2Q25LS3pjbk04cUdjMUtrT2ZCR1V2WHhnN0xwYklzc0lBMlhYZ2tCVjJQdzQxS1NsRjdzejE2Vi03VERoRmZ5ZThibmlFWGhKTkl6RFpV?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:35:27 GMT",
+      "description": "Juris Prime Law Services onboards Srihari Alluri and Dr. Radha Penmatsa as Partners Bar and Bench",
+      "sourceName": "Bar and Bench",
+      "category": "legal"
+    },
+    {
+      "title": "Jharkhand High Court Quashes Cheating Case Against Flipkart, E-Kart Employees Over Missing Shipments",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNlg2dEIwVXF1UW1DY1N4b1hwSHdHR1JHQ0JnVmtjTUVzSGxmVllJbnlyTU5NVG5BZkJMTUFrS0hZeFdSaGV1OTBNT08tMFhQOFkxSXZhZDducFp2V3lGeGwtVjRiZWJxa29lSFpsYVVfOWVuZk5HZHk3bU04UVRERERxWGNmQ2x3akFiVTV3LVgtZDFyYmt5VkpqYkJVbTNRMFgyVDNsdHhqSDgtb1NESVNyckJEUFZjSEpUdDZyUVI3VHBXOWpjcExGeEktTEZL0gHWAUFVX3lxTE1XblR4UDFqckZGZG9qakVSQ09oY0Q5b3FpbDFvNE9VTVZGUTY3bkg0QzNCQzlYY2VzNk9XVlRpNHk5dFZOUTRQZS1YcFVoU2JKY1hKdHl4TmZyRVJMSXNGQkh4WmNwN2xIWnpvZHVoc3l6SVJ0emYwUHMwU1BLMHYxRkVGTDN5V201aEpfeXJrNEtaeHNYQXVJRUN4aGZiRGtfWmJxejdUMVJ1WkY2ZlBxbUVmdWZBQWxqY2Q2cG9VZG9vQ2l1dE8ySGFuazZnd095VjZaekE?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:30:50 GMT",
+      "description": "Jharkhand High Court Quashes Cheating Case Against Flipkart, E-Kart Employees Over Missing Shipments Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "The cheaper apartment is not always the better deal",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHpXUno5WGZoNmtHUkZxVVRZUXVMLUJSME9HbDRIS0RrWjBCejRhall1R2gxd043UXp2Z1VwUFRvMjVoNzUtNXNSWEpDdVBlbHN5TFdYQXRrbzlfN0ctTWJzclRvc0FZdW93TWdQTjNjZGNuT3hadnE1RjZicm1ndEtjNlZ5SEhUU3N3WERheXQzcThHSG5pZ1dQM19QZ1lIMXZlY3VLb2V1YThtQlJFdldzOUhDUEVXQ0FwM3FhMFZlVmfSAcgBQVVfeXFMTnZveUZPbUdKblljaFJfeFpZbUY4cEFuWnVKRzh1M3kwaVFETmE1WXRqTXV0a1JuZDkyaklOS18xOE1VRWJ2MUh0bTltM3JrS1R4LUpUNk9NZ3kxMHN2WVM3aWpsQml4Y0lJTXB0QnBzeUtBczhPa3hKQVVxR3hzMEtTRzdONkphby0wYXRCckNRUUt6Zm8tWll0a2hVU3hwN0swMmtHLVdfUElOSlM4cmpld0V5UEdyTUNOZWZWTU5JZXJqUTNVdG4?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:21:49 GMT",
+      "description": "The cheaper apartment is not always the better deal Moneycontrol.com",
+      "sourceName": "Moneycontrol.com",
+      "category": "market"
+    },
+    {
+      "title": "SC dismisses plea seeking mandatory ethanol content disclosure at petrol pumps, fuel bills",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbTRlNnFiVnlHbnRiZHVkLXZJUy1vX3BJVDZKTW0wU2RmcjZvanduZnZRZnpDc1J6Y3c5aWxxUDhkWjJINTFSb01mSURCcTBRWENweFB4UTVKWWViQzByeE9oZ08tNDJKRG4xaTVDZHpSbXB2MzZyeWtIVWkwM3NsN2NuSnV4SE1rczIxMzlKMmduM2JmaGZEQ3ZReUxKMzZoRlhWaFN2Wjl0SVNGYlV1bWwzSWRsTlV2ZEE5eEhoTWNDTDNweFlTUGlTRDRQU1JndHR1WnlUQ3pITmxoQU1DM1FIRFI5eUg5YWlTclJR0gHzAUFVX3lxTFBQZHBGTXhQdjlHX3BrMWJ2dmhnQUVEYkZibGp5RlNMbnVEeEY2T0xVWEQxWk5LVjlNUEUyWk91YmMwZkh6b0NydTdTai10UkhYNjFZTWt4ZmdMb1JuRDRQTjExZlJITHFtZXdQbTVtQXJsZ2gzUWNqX1JlejFwRjhXaVVUb3pkaUJmZ3NkTlBWWTgzaU9TM3pSZTR3OFl0RXpqb1JIZ3Vjdmp0bUFCTkFZX1ZlN1VZajkzaGRodXZOcGg4WWtNYnFnZndxSFRNS1NxNnF4NnpBUlVpV0piUWF2Z0g5ZHg5X0VQV200NkxNc3NmTQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:15:00 GMT",
+      "description": "SC dismisses plea seeking mandatory ethanol content disclosure at petrol pumps, fuel bills The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Novak Djokovic’s US Open shocker: All the records broken during his first-round exit",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSGh1QzNQNzVWaVpaXzh0Q2ROekIyckF2SGd4b1BJRk1LQWluNTRXc2R2UnBLOWY2aEpJNDJNbnppRVkySVZDRXJFRFlUbkpOc2RKWG5FR1hZSlQ5eFppMmxTX2x3ZkdneGpMWWFrSWJ4Y2dIenpwUUU1dHliM3YwMi1oTkNGdjJmRHZKVW92UHJGajV6TUhMbHlfcDMxcmEyVmtvT1FHZ0lmcFNCdW5HcTNwUGJxY1NnZUswdml5aW9aM0xnWU5WaG5QazJGRlFDRDdLLTcxNUtfeUotbUxfaWg0M0NvbXNJbEptZGYzRXZ1eTBGT0d0Wmd0cnE4TUHSAYQCQVVfeXFMT0tJeHcxZ3JfOFg1Wm9zdGx0VjAzVXBQTHE3dXF0Nld3c2NUbkFCRS12ZW5mcnBDRlVxUEhFS21rQTN4aTdsblBUQmhJTWZqMVRRY3NhdUxWUTZiS01BRWh2Q2pNaktuWlFVYVM3UmxDdTRYZFNCcEpxMnBjSnh2QVMxaXhnU0c2YWkzV29wWUhMYVo0c19RRG5MSW90WHFTSmNRSGFNN2VOUFlOS2tOdEpqcHk2R2hzSWVrNzJoU2VTLWNtUHBoYmlDVVhxS3hpZHJWOW9DWkNMU1JZNFBsRl9xZFJCUDhIeTZhZWNaTG45RnlJVnNEeEo4WFppd25uU3ptSUQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:15:00 GMT",
+      "description": "Novak Djokovic’s US Open shocker: All the records broken during his first-round exit The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Vaibhav Sooryavanshi scripts history, breaks all-time Duleep Trophy record in semi-final",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNandFQVhSSk42d0RGVzhzLVppVC1NNUZfOWFtYi03b2l4SklQRG11VFZOdHZsUEZ6N29xT25Cb1M5cTk1d1lrVlk0VlhBeDZxdWZhMmJaN2VjU3FBLWJ1a050anhGWmJUOFFUeVJrZHFEQ1FnYkhTdEtiSGxhODA3YjRyc3N5VS1ETlFFUWQxc2pYRklJRlY5SGd3U2RjNF9sZGFoMWN1X1BKNWhuZHJ5Z0FNS1AzTjZHSkFRVXhPZlc4WHhhQkFUOTFoUzE0VVJQemdTZFFDYk1qeGZRSkNZUFZ6aE1TTzNOZWh2M0FpNV85dldUTTFzYUh0a21RUdIBgwJBVV95cUxNSVRjeGQ2YmZsUjFQMDg5NF9td1NYb01BRUw3MG05T3M0aDRPRzRiSzBDMmNUNDBYRlZZcjk1YTMzNTZYbWV3emVMNEJyYnM0R3VtcURlUTRNc1Fwc1EtZGVnVWZzN3NvZDExOG1lZzczbjZGZkJLUHFTcFlpalR2eHRXUzhkMDR0eWtQMUE1S0lOLURuWnBQU0JTX2h0RHFyWDVQMTRHbFpqVUdzeGNRVGtvNHJPQnEtbE42M0F0RmdiOUZKaDJaaThCaDRiQ0FGMDBnbkpDVG95MUVPd0p3aHFiTUFzV0xFdnc0cm53Z18yM0NvVDBuZjIxdjhJS25TUGJZ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:12:00 GMT",
+      "description": "Vaibhav Sooryavanshi scripts history, breaks all-time Duleep Trophy record in semi-final The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Fire breaks out at food plaza at Sealdah station in Kolkata",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdl9aeFhXNmdMR0ZZdkxKNHNjWE4zUFVzeUV2Wk9QNm9iazNKN3lTcmgzLUdFbWVyaXFHNzdQaVlhZTFNYTJEa1lyY1NkdHpjaHJvTHI1dzJmZkY1QXlsNmdGSDhaMGZvUVlkSmZQNVlDSE1ma2QzODBuQUZ2RDkzejJrRmFsaGk1NUFTdWFuanhZSUVIeFcyeTNDNGpGTHgxTV9oOWx0RnJ5cVVXRE5HaHF5OFpsLXRVWEFuQTJFc2dObHRUcEptRzZZNDgzTGvSAdQBQVVfeXFMTTU0aDRxaGR6c3dvbGpqWHlpei1hMnF4MVl2ZTJZWjBJZUt2cDVtWlFPMjVHa01zUEFYN2VUX1dYTmt6RXU3blFTMTJ5RUZJeGNRR0RDdjZvMm9EUDFBTk1XZU9hekJBTGxZYWdFc0hXanlUU3dtR2g4bVd0Zzh3ZDJ6Zks0bHBVTHhOQWJzc0NEcEdmVDVMU0VCakNhdmpMN1RyOHNZejl4RXZwNC1pRnE0Qmx3MWdfdTVwR0JtYXFXanhWdXo4elZMT1N5S1BpTk50bko?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:04:00 GMT",
+      "description": "Fire breaks out at food plaza at Sealdah station in Kolkata The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "After Nepal floods, the Himalayan glaciers on India’s risk list — and the ones that aren’t | Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQelUxNjJ4RXFLMWU1Ry1ZMjMweG5nMHp0RWFEMFJVU2d2MmF6eGU3YnctRzA1RVpvMktPMklpUDJUMmZjRzVNVzF6WEY5RFBmNExlZWNVQkVOUXVfT0h6S1dnNWNJUnJMWVpiX01SSUJrVnAxeVhXM2U3WENhQWRCNVJjekRxUE1qcGpqUEFGZ2dQOHZwWGhaZUNDMzZEV3dHSFZYUnRjYTlwb19hbGYwSlVGdUlVUkppZ2NZSFQ5Qkp1U3ZuLXBqYVhERHR0UTlLWENDa1VJSDdzS2hsWVRqN0xOTExrU1Z2d2xnRlRpUHMzZlhOeFp4cHBn0gH_AUFVX3lxTE1oYTZfaHVfOEQteG1rVFFTWWUyT0FmUjRYeWgtelRrb1c1UkFQNExlRk11MG5NRkpWbksxUHBHMG80ZzM2bnBXazNxUUZrZUM2UTgxc1lBandMWWNuNU1uRHNiZWtEU0FKOHdSd3FTRUotNHk0WlVzYzhfb2d4a2FLckNtc3htTFJYS3RKWXdubVhFOFMtcnJxT0pvdjZCVVE2Y3U2bFp2dk1FbnJYS2hPcGRKSXV2V0tjdGdDSUlVOVRDeWt2ZFZaUUZrVFJYbm1LZjVOMVZZemNwZEIxNGRXa1hWV2x0OVhjUmxjWGxFclVwQlFvbV9pRm1RS1MwWQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:00:04 GMT",
+      "description": "After Nepal floods, the Himalayan glaciers on India’s risk list — and the ones that aren’t | Hindustan Times Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "Shafali Verma Highlights India's Batting Challenges On Turning Pitches",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHkyWGtCUDU3c05jZ2FmOG1MTzhLaTNLYVNuTm9oSk1VOEVNNzlaQXNEbGp4VW5UZTZ2dkdkUjA3emowUkFmYWdObVEzZzdkaG5TMXBJOWJfYlR5c3Q3eHVKMGl6R1pfQXk5OFVieTJ1Z2hjVlJfc3ZYamxuRGtKRzJRZWF6T3Uzemctczhod1hmanozMjJzd0YxMXY4ZmRXWloyMTl0TlJUQdIBrwFBVV95cUxQS05Edno5SGVLaWRseTBieXRHVS1WUGZ4WnBRdmtPdlNpVzhDSDN6alNsc2cyOFBpUmI1eHpuV2IwQ2w2SFpyWDVpVlVtTWF0alZXUVkxMXdGS2pWdzZwZE12VTVLNXlHaW1ZSmtwRGFBSEpIUEJ4aW5lc3JCR3doVHZVVlMzemFyYUs2ZGwteTMyMlhNR0pJQXhpRHJSUWtBVjZTazd0aTgzaVFjNngw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:55:52 GMT",
+      "description": "Shafali Verma Highlights India's Batting Challenges On Turning Pitches Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Paredes speaks out after FIFA hands him 10-match ban",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmktYlFUeWNqVWtvVFNrbm8wd0RoQ2FQX2M2UHJNQlJnYUJLRmc0VENwdnRISUlRU3duWi0zelRHRkM4Z2tQaWo0MEk2YUZTMW1qZUhJeFFFS3JwZHM1VUFJTWIyQnlqc0N6OWtOV1h4NFJQRURZTnN5SjY1TVFRN2NtVjY4YTItX3VieVJjMUfSAZYBQVVfeXFMTlBDV0hGYlZqaVpJZ2Z0Rko5SHlOOE5zMGRqUlVVNXVtMFptRWlIT2JaRzVzSjdrNUI2Vlg4TklWcTBRUHo0S3FFTWJjdGxFZm9nOUpnTmxxQmd2Q0U5Z0dRbTNvUW1EaXgxVENPdE95NGN2V2RZY3o3aDRqY1BPSEZtXy1IRUFXcmd5RUxkcjhzdVRrYk9B?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:51:07 GMT",
+      "description": "Paredes speaks out after FIFA hands him 10-match ban Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "LiveLaw Kerala High Court Weekly Round-Up: 24 August - 30 August, 2026",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLV80cUpDbkpvZjBGMUx0Q2RKVVNhdVN1RVJwbk9hS2tsZ0h3Q2s3bkhHTWxtUnZtcnJxOENNclFZVVNLRlF5Rk9OZkRtX09qcjlCS0FYcTdJU19SeGhyZ0dvV2hyY1Z6bzRoRVcwX0dXaW9LdU5meWt5MGJBaVpadGxVWTM4MjgzQXFOVzdBcnlTR2NZNEJMb3hKQ3ZVQi1QSGZVX2dGSdIBrAFBVV95cUxOMGRLVHVacGQ5WGlNS0pPSV82S0dKYnJpUjFjcTl2R0RnQ3RhaWx2TXFqRU0tLUM4SjhqS1FnLVdDdGJia1ZOZ29VMjBrLWRyUFd2NWJobUp4bkdfa01pcWpPOE1Zc3RwaGY4VHNBNlliX0NjNG5tX2w5dmxMZHZFcVJ1OWdUN0hCZGYxcFd5ekRPREhvNDhFVi1MV2Ruc2JKVkQ1RDZwOXQ4YmMx?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:45:05 GMT",
+      "description": "LiveLaw Kerala High Court Weekly Round-Up: 24 August - 30 August, 2026 Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "‘Stabbed multiple times’: AIMIM party worker killed 100 metres from his house in Hyderabad",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNlFkM2Rva25jWGhSUnJrNGw4RUZTYXdOU2JhblpVdng5YWxYbW02UjBjVXltVmh0dFNpX3daT3Fsa1Eya1RZY1ZGcWhTaFRPQnhBTFpxYVBrSWNzRm56c2p0VWloV0pJZzBMYmxPWWdwSDdCVHYwd004V19MNGhrUUpEa3NKM2dLSzVuSVlVMzJWRU4weEQxUFlwNjBFQ1hGa0tVM2ZIdzJrTmltalVMS09MS0hibFlUTzc0VV9DSWdVVUEzQUc0a21SSDB2RmpQQmMwNE1pejVnU1Y4bGF4bktmVTh3VV9yMklPM3Z2ZEJGYUdLY1k00gH8AUFVX3lxTFAtbFRjRkZKS1dYUGhoOHNGdXZwdmJjQV9pZzkzTnhrTGxlaEc2dXpEQnREQVVfVkhweHpySUIxQ3dKRXo5YnNOdW5DN1FmSWxlT01HSXJrb2g5ZFlJNVNXbU5LaWJ1R1E4SkVLSmZLa01SU3h5cVRKNmJ4Nnlyck9JUUFmTzNibE14QVNyTmZMZHpUd25UR0NHSUx3NUI1T2todTZqdFAwN0dwTEQ4YmF6RHg0dEEyZVN3M09FUDZJOFY2S0phV2k3OERtOGlKRWp2enRpZC1OTFgzOURyMmYzb1RqeVhUaHNYTE9ES1h1UVhhZHZEZG1ZalBjdQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:45:00 GMT",
+      "description": "‘Stabbed multiple times’: AIMIM party worker killed 100 metres from his house in Hyderabad The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Will a hurricane hit California? Here's what forecasters say about potential storm and timing | Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUUVNMnp0VUhOTjVBRkZVNjBPOW9xN1p3czduZm1VS0tXTlZpY2o3alk5T3ZuMzhFb24wQ0tJMUlVQWpaSWw5dnRWN3hkRUpZVWFXSFNSQ1NqMG5ndTRLTWdBSlhUUDdWQlM0dXpfRVdQU0tlZDFsQnpjTG1KYTh3WGUzSmdleU40Nm1Ya2hoTmxDb0hlWEUwNWgwWHc3OEhHamxjUzhGeHNtWHAwV1RmV2lWa0wzWmdZb2Z4NUNab1FlQU9NbEZXQmVXY242dnVZSzB4MWtsVnR6RlIyeGw1MWZaRUxHSkFQdEJFSnFkSUw4TjBm0gH6AUFVX3lxTFBDcDRvakQ3emtPQjJVM2hjUjZMMm4xT1NmZXZ2UkxPZHlJOWxrTGF2TmNEVzRRZm1UMW5HaXNpRnlvc3dZbnlDQWZ3a0NxT1JIYkx6ZjFPRHlveDk3QW83UDRrWDhwRXNSeDRJNENUNFlMWThmRDdnT0VLZUJCUEhsU3lwYV9nRWx3ZUVvTGdHWlNoekpoY3hmcFcxdXRBbXF3R2I4bjNEb2NCc0hmb3RmbHpBVnFyZ0I2U3ltUGZvTEJyU1NHWTNqQ011OWVTV1hVVUR3UWJxRF9QTFpFdmo1ZGhKTE5CeVI2Ym9qaE82bVlFZ1lMcmkwRmc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:36:18 GMT",
+      "description": "Will a hurricane hit California? Here's what forecasters say about potential storm and timing | Hindustan Times Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "11 am News Flash – August 31, 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqLVp6ZU9ESDZFX1NJalNEUnU5X3N3NS1QdG0wWE9NNzVFYXNkNlZTZ3gyeEE4TS11cEVwRDZWR09paV8yTTVaQnc1eEJVQ2dCSVZSVWc0anZyVmJfdUpEaGtBcmxyakoxNW9ZZGFSdy16M1Y5REHSAXtBVV95cUxOMG55NU9WVU1jWFZqSkgxcmJoZnFNZkdKaWxSZ1ExUjc0c1hzZmdabjRORWlPRlpwWV84dHVfZnVKZmZTZzBjWTlQazdWVUZxT0hKQm43OWJoaHU3QXNsbjN2TTFmaDVPVC1FdllKZW5nZjBEb2ljRm1EbHM?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:32:41 GMT",
+      "description": "11 am News Flash – August 31, 2026 Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "'Country Babur came from': Owaisi takes dig at PM Modi's Uzbek honour",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWdrWDU2c3RJcmNNcm1tR0hmY2U4UjZ1azRrc0JNWkhRVTBUeXl3UzZubGdyTVhOenJQbWQtZzBnNERlcWpEeHlWQVc2OER2RmRnZmFpYXd4R0Y5WnVKMVoyUGFQTTBOZVNKRDhNMllEZDF1YnMtVmNicU5yOE9TWDFoQjZfMW5RaHNoMUZpVG5CcE04cG9tT1ZJeTQwSG5iQnNnLW8zVVpZekxLcGloWktaeFhYQU9qOEN6XzVXeGI5SWl2SGI4RGxyXzJQUdIB0wFBVV95cUxOZnVDeUlvOElyOEFJMWpUR0VFaXFoLW1XWmZweHZqY3lBTWU3R1NnUExIb2MzNUJrcXB5QlN2NW9pdzg3czFNR2I4TEM2SjV6UjJ4NlFhakVGT1ZwWFRGYXQxWGNaYlZLemRHdUhObzBlVGNjX09BS1REd253MmlvMXBzZFN4M2ZXSlV1anE5SzVrSnRreEFKeXFEWWpqdEEtUUVVVWtnbkUwamVyVEdSOGYtWGt4RW15VkNEN0VQVWFMM3hqcmZBWndXYVA2V0xUZm5r?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:27:00 GMT",
+      "description": "'Country Babur came from': Owaisi takes dig at PM Modi's Uzbek honour The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "‘Worst cricket board’: Ex-Pakistan captain’s furious attack on Mohsin Naqvi-led PCB",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVXp4UUwwTTZGeWJiYUo2eVJtMTdTcFl4SEVvZHA5VnpVZjJUXzg4ZG5XbzhYODF2clN4RUhNYlViYmxYTGRNRGZCdUtuNWV3MXp3bC0yd0VYZk9YY1FUTkJDZFlQTGpTd25wdVpxcUI3cDViZTRuSlBkV09mNzN4R2NubGV3aFZ1Y2ZyN0xvUWF0Y0dsblZFREtydGZDMHN1LVVPQXB2NTd1VVVwQm1YNDlIbjBUcDloY1B3UDIyZ0VGaVhZVG5SYktMRmN1YmxwcVlNelphN3gtS0dIOVM1N0NPQTBVMk1lTGhhWkk2NHM4Sm_SAfgBQVVfeXFMTnctc1d5eXhoYXRHek0xd2VUV3RWeDNtUHV2OTA4aHVuOUtKYjFIZ3hKTW02Wl9GUTJ0M2pYTU5GZWZua2dTM0FtVkNFSDhKWGZBdXR3RlE5Mm4xbEZ5QklIaWd6RWdKSjk2QXA0b0toSEdDMGIwNTJFNHBodFpMRE9nb2g5ZUJxUnFsVTBMaUU5bkFLMkcyNlUydVpwNllpNnlPLVM3WlVKMXdCTE5LNzUtREdhblgzTE03N1JxS2NkT0ZXZkd1TnFVUnFGaTJzXzFBcVNEaVZkWVZ6eXh1aUxOcjFVQ3Voa1M5WDlJX3BRc1hyMU5zcm8?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:19:00 GMT",
+      "description": "‘Worst cricket board’: Ex-Pakistan captain’s furious attack on Mohsin Naqvi-led PCB The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Tennis pros weigh in on Carlos Alcaraz's US Open comeback after wrist injury",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTFlS1YtcTNDazlCSUZIaGFfVG5iV1VMMHJSZ3lrNHRtWG1feWlnOWM3QWNwMmlHVUdvOGI2SEZSdXNWaXV2b3NsQy1kM1BkQlc2dHVaRXM2b1N0bXgzdWtWdS16d0IzX1dNc1JWSGhzeXVFeHZmTUlZeHlmWU9wWnM1UDkxekZ1bWlSdC1KRUNoSzRxXzQ2N1BLT0NrcVhueHROeU15X1NyYXZfNEVUZNIBtgFBVV95cUxNbkxCMFJkRU9KUWV2czFsQUQ3bWxNRFZEcjFUTkxuRHZ3Z0dGOU1NS2RXa2sxSklvc3huYVZqTWhJLU5TV0tWdVA3dUxSU0xUNEI1MGVFcFFfeUVzd0RLd1JuZHVCYy1iNjJWdzA4RW1KbXk5dEt3aWtibktQWFJPeHF4TVN4S2dqNUstQ1ZFS1VsWmZsSExsX25Manl2Y0lDQ1ltSDlZUGRaQjZpbUQzVWtiNWNCdw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:18:43 GMT",
+      "description": "Tennis pros weigh in on Carlos Alcaraz's US Open comeback after wrist injury Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Jefferies initiates coverage on Leela Hotels with Buy rating, sees 22% upside",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONkxBbTNYdEFSRHZhRlZjU0x3bXVjdm5kdHpCcF9ScHI1YmpsQl9uVkJqNEhrdlp6MEZvV1hNWE5zWFczRzkzZFdBT1lsMU1aV3BYRFYtNFptOHZjTFpjRi1MMG54a1VEZFh5al9qQ1dFTU9XQ3duTTRKMjlzb004SjNPOGJXUGRIY0pGMENvT2h0QmtGS296cmNuRGN1TjdhbHk3UFVwc0VUTGIyMVZGcnk0X3JqWmozaXJ2TU84MFgycXBEVlJKWkZtQmNTOFVBdEQ3WjltMTZHOGdEaFhBMFJlR2k4Nmd2YzBWN2lZRdIB6AFBVV95cUxQeXp1c3I3QjA1WHFFcHlHZER4MDRQdTZaRVVtYUxQSHlGSlA1XzFxclZsTnNDaTJ3Y2lqWTM2NnFyZU5fdWlKVEJXWVRRckVrLVh1QldUc0tVR1J1UVNyNWlHbE5yM0c2T285Zm0tZ1BObXVtYWl4M01aZXBWR3hRSDlaUUE5TjFPZVNhcTFEYWk4X2tIZXZOWlpCNUxCSHptcHhQR2xuSk1PN1JzamMxZ2JoUExoSTVFY3RvcTdOV0F1WmtaeHRjY3JrUTBXeUxmTmFNYzdJT1JXMlNNa3lNb3pwQlhNVWZB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:16:01 GMT",
+      "description": "Jefferies initiates coverage on Leela Hotels with Buy rating, sees 22% upside The Economic Times",
+      "sourceName": "The Economic Times",
+      "category": "market"
+    },
+    {
+      "title": "Numerology horoscope today, August 31, 2026: What your name's first letter reveals today",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOGJmSlZyTE8wUmozZ0dSZUFxYmo0Rjk3VFVhNWFzV0luenEwcFRuM3JBb0dlX2MwMkJEMGd0M184LTNSdTV3SVR5aW01c0paWnVOVzJFQ0R4RnBGdHJKcEFMRHRYM0lHOHo4d05vUzJGcWZqNFk1NUdWLWZ2SzVtQ2hNOEJ5ekJFaXlkQlRDUW05NVJndDJtWkFITm02MUdTb1VQVGZ0dG4zT013a1BBd1d2OTdBMmszZ3ljbngxR2RRX3lZalFXckpxeXRrTDg1VE1YTnZlOEMzTTF4blJWM3N0S1lxX2NwMFI3OE1VV2JSaVVOS010RF9Qbm8yUzFoTXFr0gGIAkFVX3lxTE9fVWVIbGx3SDV6cWRlZkpJdXp5bVA0YTVGOVd5LTJnekMySEZjZDhWclRaQ2FXdEdVMXU1UENCcHNGWVhJZDRIUUZ2LUtlYU9IbEFfS1RwZWpKczdHVkNLUnN3ZHRiVktDdE5LWHBFQTZrZUs4ODZoVTY4QjJHTVRpUnRmNmNNbEpYUXB5SVpZOGhtbTlMTWdManhtcGpKYS1IMFpNc3JDN3R2M1U2RE1PU1RPWm9WaFV0UUd3S3V3WUlmMW1EeExrRnVvcmFCMGNQV29jWEZxbTlkMVczbzUzN21ob1VNUUNUeUpLaXcydXBvcWxNeFJ2WERpaF9GaEJtQTB3REN5OQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 05:00:00 GMT",
+      "description": "Numerology horoscope today, August 31, 2026: What your name's first letter reveals today The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Stock Markets Today: Sensex, Nifty Dip on Renewed West Asia Tensions, rising crude",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2NmMGwyOFNWT0dPRHp0WEQxOTBjU21IWUdrOElXbHhCT1VUelJsSTF4bkdzZHZiUU9rcEl1NGliQ2FMNVNYUkEtOTFFSGVFY0pDNnJ4Z2VScldlbFVhTVJ5aG0tOXJhWk9PZi1NYkZjNnIyZEgxUUVTTGpxeXJsa0hkcTJpN0hnRDBPZDBzeWU0MDh2QXc4WVBubGlubDQxdm9oY1p4dzFpbHhzd3Q2aHVNRnlMTXRo0gG-AUFVX3lxTE1HWHYzQjlqdW0wTkE0XzNENDNnTmREWE9uQ0lSM2toVG5fT3FHdHFjSFQ0VGV5SnNRYVJCM3RPcnhBMGNwUkxoYlNtRS1YUGFpa09vdUoxaTdfNEdtbVhOUm9qMjR3cm02ZWg3T0hHR00ybVFHS0tSc3RCOEc4eUZxZXZjd3gyclZCM1NOdTZHNGU5Rjd2Y0pSazlqVjY3aW5JazQ3dmNTcVk1SVpXbHB3cDNMLXVoTjZFSTZsV1E?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:56:19 GMT",
+      "description": "Stock Markets Today: Sensex, Nifty Dip on Renewed West Asia Tensions, rising crude Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Watch: Novak Djokovic in tears during his first-round US Open defeat to Mariano Navone",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYVFsdi1hM3RPaEtTSkRueUtYejNWeEhsakxuWmZ3QktOYVZrcm9YRjBLa0t1UUxxTlVDTGVwaWc0MEplVlkyVFVpa0FTek1zczdtdW1BanJ5QlNuVVh3VXIxRFZxSkpqM1luTjZOSDl2c3hYTWY3MEpRM1VzbU9sd3UzTGFpSmZnUmdVQnVyWnZFdXFXdWtGRjRnZ09ab0tqM19OOGhWSm4zUVRJU3NXNjlDTVJZejdKQi1GMjUtMkltem5FSmRzTDA1bWcwcTloSGNacDMyZ3AzWGlVbEVpVHJSc0ZiOVJUOUJoeTNiYldJTk9xcVQ5N1hHckFMOFhJMHVN0gGIAkFVX3lxTE9FLWFpZ0J1Smw4OERXQnl3QjdHUEloWjNPNFd2R3gzMnhoNjJZOFVONDRCbW5MLXozcVZUQmZuamFkeGFBdXdTQTVCZy16SlJXekNBT3FFSFl4RWFQUjk1aVhiMFVDZFBtT1dZNU5tT3R6alZObG94LXZpZklSY05wUU5hWDdpWTZyTFQyNlRYVkNCSDUwLW9POGM3eWJHV0hJaFczTXhvZkxLa0llTnowYXV0VWgxOC1tbXE0ek04V0c4YWlJdHh5WE1pMmZ2R2ZHb05OQi1iemt5UkpWWTlxSnM4ZFVYOGEwSzNpNkhPLXZMMHRVM3R1cE5WNEZVTklzdE5SM0NxZQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:50:00 GMT",
+      "description": "Watch: Novak Djokovic in tears during his first-round US Open defeat to Mariano Navone The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "The Indian Manufacturing Paradigm: The Evolving Regulatory & Governance Landscape",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTWQwbUQxQWJrdWlIZ25KaktpTWlpcldjQk5QYy1DdTJxUWw0VXpxQmlsdTNXTGllY3VXeHJYSks0Q1NQcXNpR2dIcWtsMkF3SFkzRjB6RjNWT1R6WnNQZzV5cGx4ZnM4V3BMV1ZRR29GYWsxVEZRVm5xcmpWSElTNDNGeHBydmpPbHJPMUdfSEV2MnBUNmhSYl9jWjhiWGYxUEd5b1Zib0thcFlqMEpyV3JhSDRsZ1dUMWhlMTNjNjdlaXdpX3NjYlVjT3dWTGFqVlJCTHo1YWg0OGFONHBHcngyLXJIRXpFNDZfeHJPNNIB7wFBVV95cUxNTWQwbUQxQWJrdWlIZ25KaktpTWlpcldjQk5QYy1DdTJxUWw0VXpxQmlsdTNXTGllY3VXeHJYSks0Q1NQcXNpR2dIcWtsMkF3SFkzRjB6RjNWT1R6WnNQZzV5cGx4ZnM4V3BMV1ZRR29GYWsxVEZRVm5xcmpWSElTNDNGeHBydmpPbHJPMUdfSEV2MnBUNmhSYl9jWjhiWGYxUEd5b1Zib0thcFlqMEpyV3JhSDRsZ1dUMWhlMTNjNjdlaXdpX3NjYlVjT3dWTGFqVlJCTHo1YWg0OGFONHBHcngyLXJIRXpFNDZfeHJPNA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:46:07 GMT",
+      "description": "The Indian Manufacturing Paradigm: The Evolving Regulatory & Governance Landscape cfo.economictimes.indiatimes.com",
+      "sourceName": "cfo.economictimes.indiatimes.com",
+      "category": "market"
+    },
+    {
+      "title": "Voice Samples And Article 20(3): Where Does Forensic Identification End And Self-Incrimination Begin?",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTNoZGNkNTJWa2JQTXRpTDBBazFRVG9lLWJPOHVNdUJCZm9KdHlqUHNNTmlScEhsQ1JYU01TOUdibXNkSDJ5bXA3SFhQd1paMEhfSnp2andTdXU1OWh5NUt3N052UGRKUkV1S3B0SGlFa05RX3g0djB2QWVvczlhYUV2SmsxVVJMOXdOUTRFR0s3WXd4V0g2MEY4eVd1WHJkYkVSWlBjc0hCSkU5RkQzRTM4ai1Zb03SAbwBQVVfeXFMTzYtUU5CcmQyLUlwc3pmeTc5Snl5QXI2bjZsOVlEODRIblk1Uy15U2tlaUJrV3lCSEw1Y0pENTFGT0p3RDB4WWRoOE5xZElHNm9ubEhUVnNuUGctNFVqVGRJWUJtdUlJU1dhaWkwM21LaU5LVlJOcGY5VjE2d1pKcTNOT3ZDVmdaWVRFWXBWLTZMMzROdkJMeF9IZkNBdV9TUDFqeHNRZUUzX3NHY3BGVVNxTC14UlM3R2tESEQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:30:25 GMT",
+      "description": "Voice Samples And Article 20(3): Where Does Forensic Identification End And Self-Incrimination Begin? Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "LiveLaw Madras High Court Weekly Roundup: August 24 to August 30, 2026",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkpDWXZlWlFjZDNKYTlxSFNMbVMyUkR3RkhhdHRXeGpKNUJNcGNsLUEyYzZNNTA0cEE3U3pVUWRKNThvd1BuNDY1bnVTNnJLcWVLc3p6Z0VkTE1PRkpuMTVZUGFWNTNSVTk4VWY1YkZ3UDE4V2tJdnM3MlNLQXB2N1o2U3pmZXhPOFZTcFNTbWMwRE83eHU1emMzejB2Vk9xV1dqTEdEcEp6RnVJclNOX1ctcEZSQ09nVjRN0gHAAUFVX3lxTFBka2tOOUJXcWl4ZnZJd0FjREFpTklMRldER0t3M1dBbGlHYXRUeUpfWlBycVhQZnJ6a2MyU1pQNzI5UjFQblRPeWFoTGxwQzFIWHNXaXRGYWdlZVlIZnNUcE51SUZnOGxZVDY1cTh0cG9nSndIc3ZiVUhSMjduaUxlUmZjMG42cDEzUFkyVlQ0SU9HQ0VXbmRBQ200Z3lPbU1aSzNXQjZzM3JtQllNVzBLdmNhRUM4T2NOMGd4SUY1Tg?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:26:03 GMT",
+      "description": "LiveLaw Madras High Court Weekly Roundup: August 24 to August 30, 2026 Live Law",
+      "sourceName": "Live Law",
+      "category": "legal"
+    },
+    {
+      "title": "16-year-old UP girl gang-raped inside moving bus during 47-km ride to Delhi's Kashmere Gate",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYUpRZFBaSmtyek5iVFl0cEhxai1Rckd6ZDVzcVlhTUlpNktRYlV5R3Zpc01DVUxaQ2pDZHF2Wl9HZzFzNzhIOVlDalBvb0VkX1BEalB1Vk01d0x3UExxOUxkbXhyNllYQlZVQWhxLUZ0SDVZQnRVNlRFdjVhVWhzU3NQWkotV0NPdG15V2dtZHlVZEZVcXgtaGFNV1kteXQ1MnJwWTRUcEVSUktOSkpyWTB0MlRXZEFiaUhMRWFlb29Zb05PVzFsbHdjeVFNLXBlMnFmSkc3Ym05aktheEJrWkRTajY0NUpZWDFHU0Ytd3p2RWNrdVHSAfsBQVVfeXFMT0ZsOUVHZ3pVWUl6ZG4xMmg4bG5sZFowenJZdDlBT1lFWDZrYXN3S1FHdFdrMlVBbjZhNm4wN3VDd3FxS3ktN2k1eUNVTjJHMVhPNXJxbzU3MXdwdEliNGJsNU9qTVVaNHg2MXBkeGR1NVJiMjRfVUIxR2pQZy1ycFRUN3R0Z29rYllaa1B5ODdnRU4tVTZUOHZpV2JoUnRFQWY5S3M3bUh5d1VFcjdvbnFBZzg5UDJUbzhYWDVkYWNmX1pHQmx3Zkt6NVNEbHBqQ0RLVkM2Wkl3SEFTTUFYUkFlM29OSk8zT0pZdFNvdkdYQVAxMXZIMkxfZk0?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:26:00 GMT",
+      "description": "16-year-old UP girl gang-raped inside moving bus during 47-km ride to Delhi's Kashmere Gate The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Delhi shocker: 16-year-old girl allegedly gang-raped inside bus, driver, conductor held",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbklhVXFUUGtDdUpDZXlNME9hTVZ6QkdDeHY3dkZnNkhudjFHeTFORHJQSXRHODhNUUl1TlZZeEJfa2VKOWhzWWpnODNuYXlmYUJ5WkEwRjZJOGQtTmhKRTRqZ2ItWlRoelRiT0lyWGM1dm1leWhZU3M5N0N1QVJpa1JSZ1RxTk5tVkpuMTFtSTVTbFYta3Qwa2tOQUxNb3ZkOXB1eDJWRXMzN0RHZ0dBVzRkWGpOclhiVGNKWVB6cDFIbHJmdTFMRGNoampCNGpHQ3lWSTJLcFFsTjFXbHNnbmRkaEI5OTTSAewBQVVfeXFMTnN6TGJ6QllZTURpcWtJUVJXWnZ3OWlGUnVPQk5McW5UczRVT3hTQl9Ia2g2NFNYRjMtUUl5Y0NlV0hwYkJ0VVYwQ2pOQk8xWmtEb0xvZFZxNGwwU0I0SWFrLXBSYnFDLUJuUnpGdjlJaEV4ME90ZDh3R1lYREphbmhRYmtQVFhqQllFY0RfU1VtRTIzc1JQQW1ZWVExX1A3MWh1bEJtdHdETjd6V1dzRF84X2pMbV9NQnhlQWgtNU5XV3gtVTU2VEQ2REFmcTdzU2NVNFpfbUZoc3FzN2xFcFdrY1RneUZQbWFmdnE?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:14:00 GMT",
+      "description": "Delhi shocker: 16-year-old girl allegedly gang-raped inside bus, driver, conductor held The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "‘Beaten, eyes swollen, vomiting, dizzy’: Father recalls 3-year-old’s ordeal at Delhi playschool",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbDVCSUJBQ2NidDV1bHV0ZFEzSFlobnVvUTBRcGJGRWNtM3FZdHI1MFNhalhuTVJ2SHVsbE56SXl1MHdnejhCZGlpay1HTjZmX1VseUlEZFZtNGJaOHhmVFRaQ3lxdTBqUU9DaWxpVUN1bTVfYWVHNDZyQVZYa1FUMUhxdGRSNmxKaXFGamVuQno1X3ZINHZBWmZuQ1pNWXBzZEpnSGpGb05ocU52eno0OGg3X2FUUlcwYmF0T2ZmSkVRTENXMUtOQzNpNk1nZ0JhM1JnNUxGRGhSMC1uQlVaUjI4ZS1WUDBoUWpQdmZ5OE1idW8?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:05:00 GMT",
+      "description": "‘Beaten, eyes swollen, vomiting, dizzy’: Father recalls 3-year-old’s ordeal at Delhi playschool The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Kharge 'purification' row: FIR against Rahul for giving 'casteist spin'",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWpCa2p5ZWtlMGJBNER4U1Y4VFB6LXhkWHpyUDVwbjVabGtmZkxXcjY2V3RGTmJZdERQUjlhVzZETGpGaEFYUXVJclItR1Y4WnpNWFJ6eEdhMWdHWVR3Y0w2Um5WQmxHZGs2WWRZZm1JNHJDTmhKRHhyYko2aXdoZXVfZ3dfMGJfenVhWUFCZEpXakFxRE54dnFIek1hRF9aUXfSAacBQVVfeXFMUFR2eHR0bzBQWi1RRFRzYzFuaVdTc3gxVXJmWnBWMV9RbnBPUlpYd2d3TXNHaFpzemhXNzVLenhaNUJTLUctN1hYaEFSajN1MkptWi0yWFNNNkxXUjNORkdmay13aTAyaXNqOHRWVkU5bUlNU2tVSTJPV2duZmNhS1ZMSkdudzJYN202TW1sbk5Tckg0SVVJYzNDUVhIcGxfN0ZmXzZtbTA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:57:41 GMT",
+      "description": "Kharge 'purification' row: FIR against Rahul for giving 'casteist spin' Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Delhi cabbie sexually assaults 3-year-old nursery student, held",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU29IZlZLa3FwTXNYUkI5Z2lqdHBaTjlWUU82UzZmcno5LWttQUZlM3JoM2tmc1ZId082RDI0Z2VWRkhaVTJYVW9zTm5TbDVMRzcxc1U4ZGtIWExkTEY0R2RPWGFCd05wR19lUWN1dlpfZklfYTdicW13NlBicC0xWjRMZllCVXUySjQxVFpTQmY0aGxhMDlXeXdjeFhYWnVfc181SU1SV3JMalBFQkFEYi1CMkZwOWY5aXFXQ25jdEN1NGVKcGxxYmEyV241Q2d4bzBtOGtFUG9jQ2JxQlHSAeMBQVVfeXFMTm5UZG1oTlB0QjVvNVBVOHJPNnliQnlKbWN3REJCRHVkRGRsTlZ6WTlPUjJoNVVsSmhYMjRQLUF1XzNCSGp6UGllUDJJSTFJbVR1U09rR1hzSXhhc3NKQm9KM3oxcmFJOTEyYlZOVmtvWlVDeUFZV19KbllnYUhKQlgtbzJld3N2MExYa0tsWEMxTUZqXzRhbXVJZjZqcjBPVVhqS3RJNy1CUUI1OFM5RTRFbjRPN1F2cXgyYkRBTmRYbWNKaWxaUmhNcXJMRE9ESzktRTBuWmloa3FlYWN4UDZ3QUE?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:56:00 GMT",
+      "description": "Delhi cabbie sexually assaults 3-year-old nursery student, held The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Mumbai, Delhi-NCR, Bengaluru among top APAC logistics markets for rental growth: Report",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcUVvdTNVUmhpVzBQeWQyRTdFS2E2Y1lDRmgzajNBTllwUEIzRGo0ejlvQlQwaWVDdFFxem5WaXk1RDRHbEM0U2p2SGxCcEVCX0NrTDc1eHNIWEM0YnZ4NC1VdFVUUG9oZVVHS21iS3Q3UzYweU1hcGRpLXhNYzBnWURwUkRFVnJoLXhmMUxWblVzZEZxaU9Ba0xoX3RmYVUtQ1E3VHRNcjJSa0ZSc1NxTTAyakZ2VVhhUHgxejBENHgybmYwSG00cHg0ckt1ZzRZcVZodDJqSU9MWG1OREVMYnR2eWVzcHo5cFVydW94WW9xVUHSAfgBQVVfeXFMTVJ5T05DazhmQ2NicXA3VFAyby1XZUU0MVl4RzhpQkVLY3ppZUV0ZnpvQjEwQkk3RV9TeXFUVGxwTVh5YzNDYTNrNEI5OFdmSHJ6Q0dmYnp0WHlMM3BjcUt2eUdPLTg5QlRqVkkxaXE0UFlqNVpUT3pJN1haaUdWaFRja0dpU2Q1RWxzZXQ1VG5wR3dNdkNlSXljQ0JwS2diWlYzbGh1RWZ1ZFZZRWMza01XTC1PcHNpMEs1WmhBaXNrYTFzem9saVVGenZOZFJLbERsWlRrSGNxVU9kMWMwYkZwSlNaVmFVXzcwZWhUMmI5OHlfZFMwWVk?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:50:00 GMT",
+      "description": "Mumbai, Delhi-NCR, Bengaluru among top APAC logistics markets for rental growth: Report realty.economictimes.indiatimes.com",
+      "sourceName": "realty.economictimes.indiatimes.com",
+      "category": "market"
+    },
+    {
+      "title": "BFSI accounts for 36% of GCC-led office transactions in H1 2026: Knight Frank",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObnJFRFlqR05obkRtbEJDZVZCYkQxRzUtT3JoRU41OGwyaDgwY244T3VYeGUwME9KbWQzTWg5eVJydkFHMFh3WTU4Smo2dWZpUHBjVUxYWEdUdU5UYXdNdlFYRWplRzIwaHhsZGl1VElrWnluTUgzbHpQYjByelZoS0N2STRJSjJ2bk9rS2tPdEhPU0wtbzh1Und3UFNOdkt1MFVKX2tWWGVtdVZwUDBRX09SdktkMVNRQktjVmltdU1jTkFTbW1iZWZvMk03MWdZYm1vLW5Od0pMdUdhcnfSAeMBQVVfeXFMT2g2ZDJ4Vi0xUEhKM0xGaWQ4VkFfNkl2UFBjTXFhWUNIdHh6Z3lCTGxwQnA0QnFNbGJxVTJqeTk4enI3WHNDYWY5eEN3MHRsYnBkSXQ3Z1VPSmlLNmpONFFscjlzZEl5Vzh4NXhpZ09WVW0yRTd4SEVEOURSRGEyRUhtN2xHbHlfYmFGanZIR0dnTkFZeGRId2FDV0ptWjJBYWZ6dkpyaElXRURwMmI1cnlTelR5ZkFOcTludEJwMHc4YkxkdllwUmprZEJ1cVkwWjVuWHc1bzVUazlnNXpTRHRPM1U?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:44:51 GMT",
+      "description": "BFSI accounts for 36% of GCC-led office transactions in H1 2026: Knight Frank realty.economictimes.indiatimes.com",
+      "sourceName": "realty.economictimes.indiatimes.com",
+      "category": "market"
+    },
+    {
+      "title": "16-year-old gang-raped inside sleeper bus in Greater Noida, had fled home after scolding over studies | India News",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNzhYVHNKWXFqbzZ2RHZXN0NVZENtblFhRnpabEZXSWctcTVid09ZZnJ0Q1djbDFTVGpodGVyT1lHb3ZIMUxGVlE1U3pRMW1YUGlJQmNHLUNMNEhSbVdwVHNYcFE5Q25vVlV5VmVjSkMyZTdJMXNIMnVXYVk3a2ZNdno1UFRwYzVEVFB1a0FIZUhYVVVhQjdoNkk5UXUwaW83UUlwSjZZN05tOHVMQ2dpbW54WG5vMWZULUdsUUJyamtWanBYWmV6OE1oUFBVanF6ejRNcFdmTENqVVdvRnfSAeMBQVVfeXFMT25BNVAtaW04Z0s1NWFtU3VtYU5sVGx3aS1RbzBEQTdWZ01ETlRuUllZNVVYbnAyTi1nc3FVZkFRakFmdnQzVkhTQ3I5bnFGNml5VGl0T1JqN3JrV283OEVFamFvbWtpMVp0eHcxYmFQbTUzdXJxTjQ4a1hfdHdKYzliQ0p5WmFyWExMTFh6UkdKQzAwVWdrQ0hkNEhYbkRrdjlNby1NSVdGdURxU1BTR3NHUkVlcFUzTWFOY09IOGwtNi0zRnFnUE1MVEUtLTdvN3d4ZktnWFJjN29EeWJoT0hxYzA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:43:15 GMT",
+      "description": "16-year-old gang-raped inside sleeper bus in Greater Noida, had fled home after scolding over studies | India News Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "Capex gathers pace, construction equipment sector eyes recovery after prolonged slowdown",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWtaTUZhRF9YWV9XS2lfYWtnVUNfSVBweXNWLTE0NlN0cjVHQ25CMHNIQzlNVmJJbWxTZjN1c0NkRnI5TVhuaUtOd01tS2NkekxETUVVanhiaW5YNjFwTTRxWHFsUFJBbXdwRlNUc2g4SFIyWWM4VjNmX2FZOEJNZXBPeTZiNTJLbW5oTkVIUHhYMzdhVjBzV1lvVlB2bXdHelVRNm9laHdyRHQ1Mzd4X3B5cXhtTGNRZk8tdlppRUFtRTlvSHc4RUVrYzNTaVUwNDU1Zll1N0dsTWdCZlhwcHE1dw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:42:49 GMT",
+      "description": "Capex gathers pace, construction equipment sector eyes recovery after prolonged slowdown Moneycontrol.com",
+      "sourceName": "Moneycontrol.com",
+      "category": "market"
+    },
+    {
+      "title": "Google keywords and trademark infringement",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWZ3dGNYTVJlTFdGb2p0NjZCbzViQ2xDeTEwZkxIcS1sYWxMTTNES3Nwd3ZjTTVqSS1OR0pabGNZZXJ3SXlmcWw3ZkN6WHdhYlhrVUQxNnpldVcwQlVxRUVfWHhBb0ZBYlpRY21GMkhFb1dTbFJzTzFtYjJWMFVjMmN1MjlPTnUtNU5NbTJNVmppUEZyWFHSAaMBQVVfeXFMTXJ1NkZ0YmtIdkZGd0xsMG1HdWlvSmZsOGIwWGhFZmR6ZEhsZWZ4cU00U0lScVRRVGF4eFNFR2VseVhYcXZhOW9ZX0RrOVRzcmo5Z0tDd0hUNEpyQTBJOS1zR2xXdVFtQTJWNkh1TzliRks0UDNUeTV4ZS14VE9pb1hpVlNRZ09jVndNd1BSWUhlLVJhdWFtV2tvT2M1SFJBZldBdw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:42:22 GMT",
+      "description": "Google keywords and trademark infringement Bar and Bench",
+      "sourceName": "Bar and Bench",
+      "category": "legal"
+    },
+    {
+      "title": "Roger Federer: From Ball Boy To Hall Of Famer",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWFJY3NkQnFzX2paSDBMYTNza0wtcVZwcGVUc19leHFFNXBEVDNjVmltcXlsVlVSR1lPalRkX2cwSUhuZ0NGYnJIUjFOSm1ja3c4Z0ZGSFl6c196S3U0Unc3bE5PQ05BLVhXdjJKNzFrRUVLZmVSZXhGVFFqTjZ0Q3ZjRGFpaGPSAYwBQVVfeXFMUENpcTB1NlJ3Z0V5S1VKUG1fMW5UWlJUUWFLdDhrV0hQRlRTX3N6WURBazJNRHJjb0Y4WGl2QUltNFR3TEdtOFZqT0EwS1Z5cllIb1djdzBabDJ0TzFDVGZBTlIzb042d0otbEJxRHdaeHVCZzlBRUVkdmhwQW1OZEl3TUt5UmVKdEVFWlI?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:35:12 GMT",
+      "description": "Roger Federer: From Ball Boy To Hall Of Famer Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Jilted man attacks ex-fiancée, her sister with acid in Hapur",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRHJJTkc1NURnZzFuQS1mNmJYQ2kzRWpZMFlHYzR3QzhYczB2bFl2Rll1OGlNd1BjX1F0WXpQOTdOSXQ2UkVLQ040MFlxeGVON2ozTjJBNFVLejNLZ2kwNC02ckVJR3VOVnpneHptVmR6UlJ0cUIxVjV1bjI2UmQ1LTBRaWFIT0Y4ZE11WHpUcWtfQXFQb2xIUTVYSllMM1JGR3lsS0EzQzExSXl3bzh6X0dxdjJudG56YzQxblEzUkY5bGQ5MDNQOXJZTWLSAdIBQVVfeXFMTWFYcVU3bDcwUzl4UXMxZE5ESU95WXFNQWRaWDREN3pZZl9HSFVTdWFQSFktbmxhRXpnV2dtTk1TdE5fZk9lZi1PY0R1d0p3UmR1a1hmY1RpemExakFUUXRuNFp3bVZyU2E3UExLNkxnd2c0WHhZMlhHcFJXUVVBQWczbzNZeFRCZ192eHd4cWJQUUFTbVVHMjdwSmZmeWdXcmM1T3pFNlVLQ05NWEpFb2FtSEtKcTZDNkM0RUJQUVctNUE1YWtic0tTWVJ4RFhpdWxB?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:34:00 GMT",
+      "description": "Jilted man attacks ex-fiancée, her sister with acid in Hapur The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "'3-year-old tied up, kicked, denied food': Delhi playschool horror caught on CCTV",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ3F1ZEJSamNpd2t5VHVzN2s1Zk1lNm5BWmZYb1pBU3FXTXpTVVQtdHZGOHp6dnctZnRjWGlfR2FFN190NXdyS3Q3LUE4eEhMTVo4STAyVm9JaWNabGtQWDZQeTg1QjlWSndWRXFhck5sVG1OU1lsVGtnX3JBbjQ1U1MtRGxmdE41b3dLVHl5aTI0SEtUMnZmbTRlTnpnR09BOXNlUXUzX3N3SVFwWG5ac3JIYkVRbHZaTm4yZVVYUFhFX2VJNG8wMjZBNUR6S2RfSF9iSW4tTjdjRWFteDlhcV9Id9IB6AFBVV95cUxPM04xeHdjMkFhdGxrUU1qVjdLN0t5R3RmSS1adk9Qc3VHY21NQXlwYWRSS2ItYlp1QnRZdDUydXE3Tm1tSDFFVjBhSkpEdTJiLXhPQjJXTWhIRGxJNmhrX25kOTl5ZUpsRHdhZU9JMHBCRWY5QS1CTFJnQUUxRVd3a29TbU9WNzZ5NkhvdUw2TnZ0Qk9CYzhxbzRyM0FDcnhxZ1dNNDBkR3l4S1Jka2NMZU5QN005dDFLSFRwTHdoYldocGwwS1NVZWRPMmlhYnJjczQ1VjFjZUlGY3U1X2R5dmt6N0FFTEtL?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:22:00 GMT",
+      "description": "'3-year-old tied up, kicked, denied food': Delhi playschool horror caught on CCTV The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "HT First Read Aug 31: ED steps into NEET-UG leak case, 2 shooters in singer's murder killed | India News",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSC05UHoxMG5JQVRTYWh0cm1FWFZjWE1COFItS19WVnl4Tk9PWENjQVFpYk1LU1RISDdOZnNwUXdDeTRBbkQyV1c4cmZFTGxzTFJUYnhuZ3p3MlBSVktqVllXVm5uX0I3VzNNaFN2NTZaaWxrT3VoRm96Z0ZtaGJXYS1pWG10RzJyWTRwSHphSExldmhVd1QwaUFHMm5aZWIyamZPdmpkdmQzbzBqNHpQNEFHOUctamliVWV2S0Q1U29DZ2twZkZrU2JxeVBVQ0E1TzlEWFd3dEQtZ0dCZHE4bTVSM3pRd09ub0hpRWhSSFR0VTjSAfgBQVVfeXFMT1hDR2xyalgxVXR1VUtlWEdxWmRxeDQ2aVlYRHhNZDRrb25tV2xteHpCb21OXzluSm1CZU9uaGlEM05va0pfQW1JdDdLbmRFRHZXSnhXSWJyZkZEeHB0MG9uTUFLd1ZfN2IybGNGT0d6YVFjaTJKZUxWZ255cXI4U1loSEVfZ3pnLUl4WGMyTUNuNUZzYUxEc1ljZFRTY2xZLUFXTnR1MzBYYlB1bVlaekZaT2VxOUNvQmtjZkR4M3A5Ti1VOHFBQkhSUENZRTFzeXZCWVhtZkJlYnVralNKRGs4MWo1TUZqNXVWcjZnbFlXalBFUFBmaUw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:10:02 GMT",
+      "description": "HT First Read Aug 31: ED steps into NEET-UG leak case, 2 shooters in singer's murder killed | India News Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "Garbage, water shortages and broken fans: inside CJP’s ‘School Theek Karo ’ campaign",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRlE2UWw1ZVJzbDNQTUhpbWFqVnhZUVRZc3JqRzB6UGVwRFRDWmNYeXhoT2RIZHR1NUltSktLS2lSSXhsVUNCNlZlRTFoS0tibUhmdTRhZ0lQTDJnU3d0a0tWVm91S3Bnb3Q5Yk80Xy12cklCZXRlZDBXeTRwWERES2hnLU5abGwxRmk0UERiZi1nYlkwdHZUTGpYV2Z3dmdtQ3hsb0tKdl9Tb2VaRS1sYlNpbk91d3RGRUpOMVNGYXFXUk9Yc1hlOUg1cG5zdw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:00:00 GMT",
+      "description": "Garbage, water shortages and broken fans: inside CJP’s ‘School Theek Karo ’ campaign The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "How ‘JNU-type’ hiring erodes learning across campuses",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTBOU0dRQi0wdWFHMllZMG9JdlFZYkdickRsTlF4NDEwYjd6S1ptNVA4VE15d00tNm8weUNyMS1fM1lJUFItTG9zOFRZdHlscHRQN0VVWDBWRG9BTktVclR1U2tDWENFc3JrVmxyQnBGQS1CMG1oN1Y0X1AxOHNjLTNwQTF1SlN5V2J5cmdFbjFzVjlXX2t2S2tvRzlhcG83VUtvcDBoanF5d9IBsAFBVV95cUxPY1pJblZQemtjdlZWWnRjVW16eTh5aEFwcUJZbnkzWkRhS3hmaG5fcE4tczNUSU9FUkRicVB0RnJadnBhNkM3c3owcEZQZWJhTDk4b3k3eG1HYU1BUFdBMUdEUjdHQzNVdC1maWVrOHBkcW0tWThSQUZ2cUpsaHNQNlBsTl9vM0dVc2E5SEVSNFQyR2piY0lBcGxndE1sVi0wd0ZDSF9hdWxOOVNwbkxVWA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:00:00 GMT",
+      "description": "How ‘JNU-type’ hiring erodes learning across campuses The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "Players will not be considered for Delhi in other formats if they dodge Ranji: DDCA president Rohan Jaitl",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSGt6T3Z2bU1GWXNzdy04SHAzTHVIUXp6UTI2U1FQZlNEdmdleUw5ZndEeGoxQTVfLVptX1F2V3c3bmZkYjVnV0MxWDNRbnQwbEoweFhjUlZiLVRWN1VHYS14bVZ0MG1UNkFjamNxSTNNLUpicGd4S0ZsQ1RxOGdWZEJTUFEzU0oyOVF0Yi1YQ2laSGhNV3pKRGpnc0piTGl3ZXFFSkhzQXNPdzg3R2FJQ3BxTVZ6RXJjVlhBSnhfd1F0MmJqOXhmZDhVY2VncmZrWlhHaFBZSUE3a2tnNHBETklyaEp3bTViZWdBQ3VRUTl4b0c5VG9LM3g2dFl3Y1lPdUFSUklSWkYtcVY3N0FUNDAzZGxhaEHSAZwCQVVfeXFMTVQwWUY3QlNZN2RkRkJIdkUyRzBIRUpRaFZYb05uc1hHMms3QUFjWUlkNjFFUmV2eHg3bDVYUWd0d2FaQUlGQi14aEgzcGxzYnR0WUluQkljUERRNFJob1RZN2xORjF0LTl6MkVkTVlrUmtOZE9sVnRYclhMeHpIRF9ybk1ON1p1WkZMcGNjaG90Z1Z0SFR3bHNsbXVyYUt6SzVaa05Qc0RuUTcxUU5Dc1ZuckV4RW9GSWw4REZwTXJZRjN0ZU9nT0FoTHhKeXVocjB3dDhzaldyYUdLT19IQl9VRmtsT2d1NkJucS15V05zVFB0aTdaV01HYnI1dXF5ME5BZDQxdnI0UU8yOTVmNEFUU0thMUVuemNFOVY?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 02:53:00 GMT",
+      "description": "Players will not be considered for Delhi in other formats if they dodge Ranji: DDCA president Rohan Jaitl The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "What Delhi can learn from TN on rental housing | India News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHN2NTYwc3F0RGFJWmF4bllaWkp1OTZ6T1lwenFpNElYeHROejBkd1NkZkFSTnFvWlVKRWhhNkZhQV9xOW5ud3hZdUpRM0xGXzFVNWdULUJVRXBadThXenVoNHVRUlZ2UHhvV3g1QUNxTF9kblp0XzctN0xoWXpUb3EwRlVRb3lBYVpUbE84cnRlWkZpR3hwVUZQT0E4T3hlWG42dkt5bHdCdlF5eXfSAbMBQVVfeXFMTjdqcE9RNFZUNnN6VTU4Vmx1Z1pibGwtdkE3aXlKY2ZJSjRfdjVoYllNX2xGSnhwQjlQTURlZzMtOUxJZWRHVE5BQVVORndqZG9CU1BwUVlrRzEzRGZEVC1JdnNYcHNBTnQ2TTl5M3pTVUF0UzE3ZEx4UG02VmdqbmZGeFlIN2xlU0d1S2VrV2ZQZXp2X2RfRVJBRHBjWmFTZnhsMlEzbWpMaXBFTk16bkRvYXc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 02:47:30 GMT",
+      "description": "What Delhi can learn from TN on rental housing | India News Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "CJP finds in AAP an all-weather friend supporting it at every turn",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1ZhUW5wcF9xRk44N2h4MW9HUVJMTFBWM0w5LWVoOTFPMDdwcDV0dVgwMTJ2SXJxVm5YRTdFbmRPZktJZk8tbEl3c3JMYzVJUTdxcGpOZW1Ma1g3a3Nad09hTllfb2RNT3YzT2ZNaFI1a3VBcDhwR2s0Sm5Ed1BVVjJuWmVRMjJYSXlkNUJWNlFDc29udjFtcGxUR3poQklzdjlJU2lWdnpJUERMUGVIUGVROVR3SlVhX1pWLU0tblJ1ZlnSAcoBQVVfeXFMTnc2NVdmRUlMaUNhWUJtS2FBLXhjcVFiNS1zX3U3VmJLaTlCaHdkU2s0ckJFUUZwWjVMZWIxUDdlaHV3Ui1jaVdFYV9PN00tWEhJeWxZMFRVZHZGel83RHkzTXlMTmtVd3VZaFdJX1lISms4czlVS2lTMHE2NjF3dGJkMDFVSDc3d0pNMGVnSW9DbFVLd2dtYmRMcTl1YjdwdVZkSjFkVFNKUXlWckJGa1htZWQyVHgwMm90RURYNzVCbUJnNnNpeE94QQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 02:45:13 GMT",
+      "description": "CJP finds in AAP an all-weather friend supporting it at every turn The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "Bollywood actor's family files FIR in Aligarh over property forgery dispute",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWlxQUl3YU5sb1NGdFNpeXdndzdXM1JBUEhNMW9hSmZGLVlYM245V1pFQ1pYMXoxeXFXN0xwUFNVcFdRNVBxcG9jeW9KanRTRVpfNmV0eFdkbTRCckVKWmxITFMwNXA5OVk0cG50V1pnemZPWmp4QkwzWU1qYnlncVNDRjhrd1hkRUFRejljclI0dnR0SlF6WlJIaFViTm1uYnFSeXZxMlRraXhhb25MaEtiNTZBTk5MZ1gyQ1NObE1xMHBxVGtjdUFuUXRhbWgyWVNNU0hFRWhsNl82ZnhJ0gHkAUFVX3lxTE9BWEVPWFJUVDRNcGtHbzhFR0o0Z0hKN1B2cERHYW5mQmplN2dfa21wMHdCcmxNbUt6WWNLSDJ3UTVBMllZbHItRXFYU1RaYlF3Y2NKMDBPOGZ2aGhIM1pmVS1EeC16UlFscy01TEdFemFjckFIM0tZT1ZJZjNKNExoRjllQXhtekpoQ0hHRlRlTm91YU9DZl8yNmdwVENDX0VBTlVnc2hhZVVUaFEtVG1LMFIzckRDem9rQTMyRDNJaWlaTHZSUFd4OXBMNTVCZmJoN1FvSktaRFhIMmpyMTUtWDMyRg?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 02:41:00 GMT",
+      "description": "Bollywood actor's family files FIR in Aligarh over property forgery dispute The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "2-3 locations put forward for new planned city near Hathras: Yeida | Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGZ2Sk9DRGxTb3BVc0xXOUpYV2ZNRG9GVnZ3X0tWdWFFOXFTckdabTQyRTM0bnR4ZWRTb3dUallscVNMMFd1cXRkYlVURHdON2ZPblFkWl9oXy12SjdyR2g3cmpaMkYyd3B1MGxldTJKeVJ1Z1VnUzI1MGFGMUdNNFQ3RzVRaTNnMUZEVWNVUUFVOEdaaWVZcmdyS25iNjByRF9UblF0ZV9KbVpDSWhmS1dOdVF1T0J0VndjeXlMVDdvdktJVUNpVUgyX1YzYknSAdQBQVVfeXFMTmp4dEI1bGN6RksxWFBXbFJxeW5ZWVV4REl3cTFxU2laU3doM0RkWUVzTjR4bDVyb2FDQmlGckVrRHBjOTBvN3BTbVZvbm5lLWRvVzNsUWhIaks5N2E3ZC1KY094UzBrNUtBY2lSWVlQZzlVRG43VTIxQ0NiSWlCSmphamNqVG1sZzgyYjliUjZqaHhZUG1BTHd0QkFLQnRUSGU5TU9KZFRhTThXVEg5a1JSTGQxOVRqQzFzR184ZzNldXE0RnJqb1FwZnpIX1hsVXd0eDI?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 02:36:10 GMT",
+      "description": "2-3 locations put forward for new planned city near Hathras: Yeida | Hindustan Times Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "ncr"
+    },
+    {
+      "title": "Mumbai redevelopment: Homeowner says project stuck for 15 years, paying rent from their own pocket | Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTkFjZmEtaWFEOERDMndqTEZ4ZlR0Rkt1SE1HekRCdUtleHFfSVp2cV9MSEcwOWFtUTE1QjF4RlA4ZUdKSzBhU0NtU2RCZXdncHRPUThjZjB3eW8tM1VCTkZONE1CekJhY1djdDJuOU5qSE5XX3J2VjUzWDlNMHp3bHVLRjRNTnc0LXAweHVnN0YtNlQwWTk0bnJlUkdWQkdNTjVIcmtteDAyS0p5S3BoU1dQdjlFcTJQcERqTlJaLTdhckZ6Q2Z2UWw4cGVFOFJUVDNQSVpBRzczVHpvRG1fZXBIRnhXVHo3NDVGWHZVa1FyUkt3bHE5ZndtT2dpT0Y0b2FHd19nblp0Z9IBjwJBVV95cUxOVVVwYnlVSTVVQkEtcW9FUFo3RmdrOWl3UzdzUHMzVDN3ZXlJd1FFUE53T3NacGNpeHhLMXl5QWcyc1FMWE4tUzJ2VmFkdEgzZG9kMmlCVldxQ2FXMjBmamZrTFh3Q0dkS1FJb2xDYkQyV2RaRkRoMk1fYWlYbFpqSGNtRm5DZk9YeGU3NEZqTmphMTc4VlVTSWY4S2lZVXh6UGF5LWR0bEVvOHZnTTBQTUhMYTQ4NC1xRThEV0w4Z1gzVlJHTC1xa01GWjFxYXNsb1NFT3l0bmJWRXJBZU11aGNqUGdtWW0ydGRxeE9KdnVLRUFhc3ROOGJ1aXlfb0ZHNEpUVTlaazc2cjE5eGZN?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 02:17:56 GMT",
+      "description": "Mumbai redevelopment: Homeowner says project stuck for 15 years, paying rent from their own pocket | Hindustan Times Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "category": "delhi"
+    },
+    {
+      "title": "Nifty 500 companies see broad-based revenue acceleration in Q1FY27; margins volatile: Kotak",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ3pLMEdfbGtaSFNPbGt5bV9RVHhoNkVvcFZlLU5JbHNnYjJaSFdzQzJYVzdRUkNuSTltcHpJWUx0R3hrMFpBQUxlWHBZdUU0eXVuaTZ0NWFIbVc5aUFpTlBPb2ljaGVGU050cmhJaFlVdXJVcE04bjlGbm5LYVpnZFlzOW9CSFNOV2psb1h2eEhjU3V0WXZZRTZUeGYtYktrVF9JMXhjWnlIaFZ0Ym5HeGZ3OXoxMFVFTXFGdnJMRFZtVEJ0VERkWUVtN1c2RFRlcFRQaU1ndE5IcnB3X0JqS2FTLTBKcjk20gHuAUFVX3lxTE0yV1RaUE5IOTlEdjB5MkszVlQyX3VScEotTS1zSHptUUl1SlpQUS12MllNN254VWkyWEF4LTM3ZE8taVBmV3NMU0lEdFhSZnFyZldCbUYxUW9rNE53eHVhd2dkOFlXbHo2NzFNcThSNldIQVZndlNEUGVlSlNGU2tNLUw3TDYzVXZxQWhVZnhqUHh3V1d6NkNudE52LVVkZUhrSm8yX3FSU19SWVhqbGJMSzAxeVEtMjhnU2FoNXZBS2hHcFBfU0VOaElXMms2czZ5S2FlNkdWX3kzY2ctek9rRjhnTGV4OWZ2NDdjamc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 02:08:38 GMT",
+      "description": "Nifty 500 companies see broad-based revenue acceleration in Q1FY27; margins volatile: Kotak Moneycontrol.com",
+      "sourceName": "Moneycontrol.com",
+      "category": "market"
+    },
+    {
+      "title": "3-year-old tied to chair, kicked and sexually assaulted at Delhi playschool",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOEY4eVFKYkUtSmYyMlU3dzJwSnBLSjBZV1Y1RFVOVk9mN0djZElSalFPbHJuUFVWNUxIVlo5ZTJlV0QxNDdFWGZhSDlLdFl3TGZfME0xMzkxbF9YX1pPT2ZIY2luVGFNdVlTaEllV2tUQk0yM1ZtSllQT0I2X25LMERGeXpLaDZzZFNhNDRHazZIRjFIV3paWEowdWNnUWc5M19TbDVRd0lFN2w0bnlPNEVOSTlwcWZOZDJtUm5ZNjg2Z2NUdEFBOWIxUEtRRFU1amdtOVNvQTJRY09BdzdMVNIB5gFBVV95cUxNWHV6a2Y3VmVvaVpwS0VVaXRuamJoZDZ5d041VmhtMHJ6SE9YbDZCdVNRb0k0TG9mT2dxdXVoNDlTaDM3dUZqSmN4ZHZDV2xqMzhhb2c5bGRZR0xhV3dyR3IwblhtUEwtbWZWdGdDWjM4eVRtUTRWdEZFUTAxTkp4d1VNZEtrdUJ1TzVDY0hSaXBqVldyMTRmVEsxNDZGUjQyUGFCRWo5blFJWmk1dmhQWHNlb25CNmJ0TFJKV05Xb0NhMkR4VDV2NTBXOFhQMWRBc1BfUXJHTzZ0dVd0SEZ2ZGZqTHdCQQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 01:33:00 GMT",
+      "description": "3-year-old tied to chair, kicked and sexually assaulted at Delhi playschool The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Starting September 1, Indian airports are discontinuing immigration clearance for ...",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 01:31:00 GMT",
+      "description": "Starting September 1, Indian airports are discontinuing immigration clearance for ... The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Talent migration dynamics: Parochial vs practical?",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN091MGdCVE1VSmdTeGh4bXlUbXdRQTU0Q1JRcnRCZk9DSTVnNWJSSXo4RklYbURxel9UOEdEdzQwVjlyVWpSbVFIS3d2RkppUU5XanItWkhiek1TMHhuTUdZZUY1WW01QnBNX1pVRFRWeVE4dWNtWHgwNHR0TjVuVXlyUEVwbXM3QXF0RkVoaHpHajhiNjJtNU5zQmprN1BxcWRLMlpERTRIYkV3WXlCeHR0cTR0WEpKSVgzM191dkMwdmdLY3NYTtIBzwFBVV95cUxNN1BjcDEtNmZrRXpPMW1Od1RRdURHOXY2UGthc2VfRTlYUDdld0hMQXZNRTdaLThwNEhLZHItNThtS0tOME1jeGVIZzR0WXprV2ZNV2tKd2lXUy0tTk1EUGhhZzN3MjU3QTdETFRHd1FZRVh0UlNieHU5VTJoel84VVFtZFNvLW9RbEE1WlktMEVSUTV0eGVJNDZEZm1rczAyemp4TVd6TFhGNF9RWVJPd21RblhkcE56Z2l2a2s1Yk5qU0UwekFDcVJkZl9tYTQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 01:19:00 GMT",
+      "description": "Talent migration dynamics: Parochial vs practical? BusinessLine",
+      "sourceName": "BusinessLine",
+      "category": "market"
+    },
+    {
+      "title": "Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xOUVydFlQTWZJYW5wblp6ZzdVcHhpR0VBN3IxdHRhYVJOdE8tbGF5a2dUSjdBTE1mNlJPX2tKVk9Lc3k3c0EtME5hVGdaaFFXSHRYU1lmWXFQbGtYeS1NMDljZGpVYlJqcmtzaU9qVVJiWU1xZ0VMbE5R?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 01:10:41 GMT",
+      "description": "Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News The Economic Times",
+      "sourceName": "The Economic Times",
+      "category": "market"
+    },
+    {
+      "title": "ET Wealth Edition 6 September 2026",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGdlSHAxb1l2MG0zTmZzeHhQdHFYRVI4allwdjFDZWJ6YklLbXFCMFlDU3UyUDNFQVY0bHVYQlRjaVZhdG9mc2lxcHBTM241N1VWRzdidFYwMEo5elRNdFktdDJPM2M4X1BLb0lPY3QxV011X25hWWdqM0FOaGNWcjZRdER1ZkhfRXRERw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 01:00:00 GMT",
+      "description": "ET Wealth Edition 6 September 2026 The Economic Times",
+      "sourceName": "The Economic Times",
+      "category": "market"
+    },
+    {
+      "title": "A growth story written by global Indians",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDVhVy13Ml9ZQWloY1JkUXdSNzJPZXRxQUdkSDZ6NEViTXFmTTA1X2ZYTEJ2b0tFNUp5RW1vQUZaVlFWYXdiTlNnVWFtWG5TTTJEbnBJWkppYlNqRTlXc2p1ZjBmNFg4MTlPdE8yZV9RTHQtVWtJcmxyZjhCRnQyN1dEZndNSVpaTWhPMS1WaEhIWTJuQnlxM3A3eVZnaWZTelpLZUNLMVVzRldKTEhGejNLSlNOejJFMGE1d3dpNNIBxgFBVV95cUxQdGl0cnV4YlUyZExXOW4zUWRkZ3I3bEFERFpKN28tdGZENWhDWVNDTmY4V0ZldEF3Z2dVQVVHUjgzYnlQWndJYk1UcXBLS2QySWV3YWFhQmszcFFGeDFuWXlmWG55QnhfTU1DTXNuN0tDZnZIQlZvUHNOS1lCcGhGRk1nV2pGZ09kMEdLa1g5OU1FajY2Yjl2a25kOXYzZ1Q0QTBXanpnbzZRV1BSbnlCSXJsWlVKNlBhQWJSajItbmhLQnBLM0E?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 00:48:00 GMT",
+      "description": "A growth story written by global Indians BusinessLine",
+      "sourceName": "BusinessLine",
+      "category": "market"
+    },
+    {
+      "title": "IPL media rights: Does the BCCI have a Plan B?",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbHNqNXhkcFFKWmJEYmd3MHVvV3paZklPQlpvWEVXZ0RfaU1NOUpfX2hkUlNRRE1QQ0d3MzRRSlFTZmNlSUt3R3dzNHVsVXpnc2Z2LXdnWUZ5aWdhSWxhRHZadUFCbEwyVnJsRmJ0UnFhcDZmejV5bG5kSnJOWDRHTWRxUDlWcDlCVHZvc25NY2JaSl9fY2d1cE9fNGFRYXNMUTFEQlhhUTlsbmtRaUxlMXpEV3pfOXduakpoZVROX3FnQUFM0gHKAUFVX3lxTE45SGpQaVZHUWkzNWVoUTkwOEk0dFV0aEsxR1FCci1mS3hRcmg2MnQ1cDFQeWtlUjBkUFBmdFFuQTY4WHFER0ZiQTdkdm54V1QwM2ZzOVYyMnV3TXNGM3c1Xy1aOEpSeUIwOTMxZHIwcXRYWWdsOGYtU1VpWmE0SkVyTHJRRWZyajR6R0cwMHd0SkFKLWNCQ0ppUzgyMEVlLWZIS2dJZkZkM1kxQXJtOFdGZmRIbG5Jb0VRbEk4eF9IeW9GYWpvMnZvTXc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 00:43:00 GMT",
+      "description": "IPL media rights: Does the BCCI have a Plan B? The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    },
+    {
+      "title": "Weather forecast August 31: IMD warns of heavy rain in Odisha, Chhattisgarh, Uttarakhand",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOWszaE5yNjZ6ckhYaUtJRXdrTTFleXpWODFVY05WVFdQVFhoMG0zMEJ2Sng1V2lEMVRSUXAxM0lWWUFqRjhmQ0tSSHFrQUhodXhOc1ZVTXo0bGxKZHAyN25Femx3MkpxMHc4VnJEOTBIWXd6SHVjaExCN3Y0ODd2VEhJYlRvdDE3Zy1fdUczSlVaR3lBdlFmWTNXeVRGMWxWZGdtbUlZenVTdkFvX3NtY1dMcnBMVk1fNTdxcDZ1a3DSAcYBQVVfeXFMTnNLUVk1ZkdaSkpDNUplS1hSSG8xeUR3ZlNIOHhyZjFGa1FJaElrM1RESTdhTERUaFUtWWdSMHZvbWp6Rkx1UXNkY1JCZEZOaXcyeFFrUFhVcUpETWlSZEF6RnVEOU9NQUtIbnNzTG02R2JGTlp1Y1pRX2NONHhNUGgtNExqRUxJdVJmMl9sMDRfWi1VNjBsc3FPa2NxYlR6dVJDcWgwdk1tYjNkUGJoWFJkeGFMYTBVcGlIZGFDYzZmZHJqbm5R?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:30:30 GMT",
+      "description": "Weather forecast August 31: IMD warns of heavy rain in Odisha, Chhattisgarh, Uttarakhand CNBC TV18",
+      "sourceName": "CNBC TV18",
+      "category": "ncr"
+    },
+    {
+      "title": "DDA launches online FAQs to explain Delhi Master Plan 2047",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHhBZVkzSF9GcTNVbGMtYWpWVEptdEs5MHVnSlF5YzJhTTJyeWphaWRON001VGNTeFJDb3lSUUhXeXRDSU9qaFR3eDY5M2FrTUZrOG16YlBVRXJheERZdHVyRnQ4NkpHMDdVeWlFNUY3ei1yNlNRdVdtTmwzRm43dmFjZXpxM0RVa0pLZWZwV2VXbzI0UHBxbnJxbDJpaG1HSUI2bHplaUJQQlZMT04tVFRpU3J3R0pqLUFWbG5R0gHEAUFVX3lxTE1HdkFLRDJvSnFCNHhOLVJwMTFGNVRpR0llX081ZnpDQ3NLWTViX1RHMkhqajdsSlVnYS1feElsV0JMVWY0bFcyNTBqVERaQkF5dnoyMVJIYTB3NkNmU3JBZEd6QW9VYzZqczZvLXF0eFAyclo5Si1raDlIZ2p4RWhZVEoxNUhidkVmWlRtZHIxcnV4YnNuTVcxMnRzdFd6RG0xZ0hBbkxjQUVwcFRsYWtLODRGRFpRczk5TUZ2a0ROT2lleUg?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:30:00 GMT",
+      "description": "DDA launches online FAQs to explain Delhi Master Plan 2047 The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "Provider turns Predator: Fernandes 'trick' at Old Trafford",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTl1cEtIZmt1M2RjU3VYUGd4bXI1VmlVaVBDOGJwck81LWdDdWN2dTNPYV9HTEJkM3NMdWoyaWxnaDFKNXZra3pfZ3dqazlXcnE3SU9pRWVxOVVmTEZRV3BqdkV4cXBaMWUxa1ZpUkxYdzlESEV6RkRxbENzSzhFZ3BpQmNwQ1ZiVGJHZ2hXdkxQNkdIZ2fSAZsBQVVfeXFMTzh4aWhNVEVqOVRQZFJXU0FQYTVUMlRfTjVrVUZLcFN0X2t1V19sODRSUE01TmhBOVdkVTRSTzdJWkFsUFRfZ1NObHFzOW5TaThob0FYenNQR1dCTGdMTE03V2J4UHpYcDZSSl9QY3ZoOTk2ay10WVJXa0hyN0NhQlpOOS1JRHRiQVExbTFGM2swX2J1Y2ZzSzJrZGs?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:24:32 GMT",
+      "description": "Provider turns Predator: Fernandes 'trick' at Old Trafford Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Dhumal and Majumdar to be re-elected to IPL governing council",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnhsRnFldUNXZ0oxQ0ZLb0Y3a2dGVlRvYUVPUnk2YUZjUXZINDl5VVZ0aGFVU3lEN3RXdzd6QUJyd3NJQXVib3YyUU82YmRWSGFjLUlQYXhuak1kczlhNFJBTkIxS2RQRFphUGVTLUJ4azBsU2JzVlZUWHEzNnZna05EeEo3cTZXbDAyclQzQWxIWURnVWRiMUlGNXU3UdIBowFBVV95cUxPcEpSZ3o4YklIR3BaTl9lOFdGN2NONWJRRER6T2hJV1ZhbS0yMWROd2RINzhnYURHcHRKMHg1OFRxdjBJR09SLWRqUVgzVUJjM2VRSXFQdUpHNHdudU0zVFozblVuTU90SXAwRk5YUEZROFFPelVnNC1COEt6Z0d0NzJURWVXc3hpQ0ZnU2YyV3VQQTVHV21HdnJuQnZDV3p0TVhR?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 20:15:41 GMT",
+      "description": "Dhumal and Majumdar to be re-elected to IPL governing council Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "100 acres freed from legacy waste at three landfill sites, says Delhi Chief Minister",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc3ZyXzQzS19MUGRSZHR6UWpDZnJNSDdLTEZUMzRrdU1yeXRiRmc2aDk3aVhveEJvdXRtVzhxalZheVp3OWdrdDdvbmd6c1JweVlXaHdKdC1OUzRPd0ktcWxRbi15ZUR0YnRWSlNXYi1OTXFIRGQzT3BaTkV2blJBbmlrSXI5QTdNbUNLV01aMGptZXpUcFEtMzI1MExVcWp5dXZWLW93ZzBOZGdIaHVPZFhXWFBzNjhTNE40VEFWYVVIRGFaV0hmNzAxTlM5LU5PczNzS1dxM09YaEpZSHQ00gHmAUFVX3lxTE1TT2JfSEhOaEp3VHRNbk91RVMxNmRkTE02MEYzZzFhSDFiT1YzeDdZMEs4Y1pZemdxTS02cjJaVmlFQ280NVNaSlhnWVdBR0ZvS1ZQd1RpUVpfUkY5UWZCUHhrYkhSaDhTMmhUdXZITGhHZXpoTjRCTjU3TTVaVmVEZlE5bkhrdGJNS3dTZ2JralJBMUF3UThkeWM1YUg3UlotZ1VOdkRtQmFpUXJRRU1qaGRuZXJBM245M3RPblZyNG5ULU5uai1hWE54clRtcmNkcDcySDEtY2hsQ0JMLVdDT3o4RHd3?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 20:01:42 GMT",
+      "description": "100 acres freed from legacy waste at three landfill sites, says Delhi Chief Minister The Hindu",
+      "sourceName": "The Hindu",
+      "category": "delhi"
+    },
+    {
+      "title": "Government interference costs Sri Lanka Women's Champions Trophy hosting",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjRiS19zOXNBUTMtb1MzRWZha0l2bVNGUWNMX1NjQk0wOW5LdnFxZ1hXTTVpcnZMY0Jsejd4WGVpemdJeWpHdjFVbC16Zkg0VUlyYlVjM0ZiVFlGZ1VQOHFlODctOS1aRWZET1p0dXR4cVZhOVlXUEFFQ3hHLWxwS0hDWHhVX0JnZ1AtQTRsZ1B4UEtUVGFZTWx3bFlmUzZKTjQ5UUt6ckZzY05V0gGyAUFVX3lxTE85QTFxSlNIMXM5SlJrdlkzSzhSYkcwUXlITzVadlIxQ3NrQWFxTExMbExqTUZTckxzb2J6RlR5b1R4SlRQbEFYVm9pOTNIZ1BTWE9ld3p1NjBvcm5tRXh5VGpTVWItSkc1VWFlMUY2aG5FRURIa19vSmI4LUhyWGc5ZG9QZGZiMGNFWndTampZbFNtZm52RGFieTlBN1FsTzhNVDVmZHBTd0J2NW0tWWNoSWc?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 17:53:39 GMT",
+      "description": "Government interference costs Sri Lanka Women's Champions Trophy hosting Rediff",
+      "sourceName": "Rediff",
+      "category": "market"
+    },
+    {
+      "title": "Kharge venue row: FIR against Rahul Gandhi for ‘giving caste angle’",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmF2XzY4SlIzQ0RpNnJyV1o0WGM1Nlo1STNQc2NiM3REOEptcU9zT3B5M083M1BzMW5IU0FHZHRsM2ZVUFJuMlBRUVZzRnhVM3JGV1hEa1VEQ1BpQXFkSjdrZDNqTzVYWXVfLXpaWkpTdkp4VlRodEUyWjIySDZjNjZSSVRDUzdXQmFXX2dxa1lPR19NZnFpR196MnBaLXZJel9nTVFIdi1CREtoRG5qQVJKQUk0Zzh5QmMtTWpfVllzOHdzT2gxc9IBzgFBVV95cUxOZ2tUbDFCSkJUWXVma09Nc0laOHcwYzRkaVlTLTlxNW5QRWttWGhuTTRtdzRrOGx6bEVRREFMeEtULXNDYUxXVDhmNmFVTG9LR1lSUUxhUTh6dDZpeWxQS0FUQ1VKb2FtUDRSQm5qT2phXzJnSjZsQTIyU0tzUTlYaEtxNnNielhJOTFNZmNxNHRWSzdhVTVEUUNNcl9hc2phNHRxRjVnbzNDUm1uckZXbldiREpqa21sSGRyUEdDTEZ3MWxWSmxZQjlxZkVCUQ?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 17:51:00 GMT",
+      "description": "Kharge venue row: FIR against Rahul Gandhi for ‘giving caste angle’ The Times of India",
+      "sourceName": "The Times of India",
+      "category": "delhi"
+    }
+  ]
 }
