@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Delhi NCR Property Pulse — Real Estate &amp; Property Law News</title>
+<style>
+  :root{
+    --bg:#05080f;
+    --bg-card:#0d1420;
+    --bg-card-hover:#111b2b;
+    --border:#1c2836;
+    --text:#e7edf5;
+    --text-dim:#8fa1b8;
+    --accent:#e0a458;
+    --accent-soft:rgba(224,164,88,0.14);
+    --delhi:#5fb0ff;
+    --ncr:#7ee0b8;
+    --policy:#f28b6b;
+    --registry:#c792ea;
+    --market:#e0a458;
+    --legal:#ff6b81;
+    --live:#3ddc84;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:radial-gradient(circle at top, #0b111c 0%, #05080f 60%);
+    color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    min-height:100vh;
+  }
+  header{padding:32px 20px 20px;text-align:center;border-bottom:1px solid var(--border);}
+  .logo-row{display:flex;align-items:center;justify-content:center;gap:12px;margin-bottom:6px;}
+  .logo-icon{width:38px;height:38px;border-radius:10px;background:linear-gradient(135deg,var(--accent),#c9822e);display:flex;align-items:center;justify-content:center;font-weight:800;color:#1a1206;font-size:16px;}
+  h1{font-size:1.5rem;margin:0;letter-spacing:0.3px;}
+  .tagline{color:var(--text-dim);font-size:0.85rem;margin-top:6px;}
+  .status-row{display:flex;justify-content:center;align-items:center;gap:16px;margin-top:16px;flex-wrap:wrap;font-size:0.78rem;color:var(--text-dim);}
+  .live-dot{width:7px;height:7px;border-radius:50%;background:var(--live);box-shadow:0 0 8px var(--live);display:inline-block;margin-right:6px;animation:pulse 1.6s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.35;}}
+  button.refresh{background:var(--accent-soft);color:var(--accent);border:1px solid rgba(224,164,88,0.35);padding:6px 14px;border-radius:20px;font-size:0.78rem;cursor:pointer;font-weight:600;transition:background .2s;}
+  button.refresh:hover{background:rgba(224,164,88,0.25);}
+  button.refresh:disabled{opacity:0.5;cursor:default;}
+  .stats{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;padding:18px 20px 6px;max-width:1100px;margin:0 auto;}
+  .stat-card{background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:10px 16px;text-align:center;min-width:88px;}
+  .stat-num{font-size:1.2rem;font-weight:700;}
+  .stat-label{font-size:0.64rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px;margin-top:2px;}
+  .controls{max-width:1100px;margin:16px auto 0;padding:0 20px;display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between;}
+  .tabs{display:flex;gap:8px;flex-wrap:wrap;}
+  .tab{background:var(--bg-card);border:1px solid var(--border);color:var(--text-dim);padding:7px 14px;border-radius:20px;font-size:0.8rem;cursor:pointer;transition:all .15s;}
+  .tab.active{background:var(--accent);color:#1a1206;border-color:var(--accent);font-weight:700;}
+  .tab:hover:not(.active){border-color:var(--accent);color:var(--text);}
+  .search-box{background:var(--bg-card);border:1px solid var(--border);border-radius:20px;padding:7px 14px;color:var(--text);font-size:0.8rem;min-width:200px;flex:1;max-width:260px;}
+  .search-box:focus{outline:none;border-color:var(--accent);}
+  main{max-width:1100px;margin:0 auto;padding:20px;}
+  .feed-list{display:flex;flex-direction:column;gap:10px;}
+  .card{background:var(--bg-card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;text-decoration:none;color:var(--text);display:block;transition:background .15s, transform .15s;}
+  .card:hover{background:var(--bg-card-hover);transform:translateY(-1px);}
+  .card-top{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:8px;flex-wrap:wrap;}
+  .tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;padding:3px 9px;border-radius:20px;}
+  .tag.delhi{background:rgba(95,176,255,0.15);color:var(--delhi);}
+  .tag.ncr{background:rgba(126,224,184,0.15);color:var(--ncr);}
+  .tag.policy{background:rgba(242,139,107,0.15);color:var(--policy);}
+  .tag.registry{background:rgba(199,146,234,0.15);color:var(--registry);}
+  .tag.market{background:rgba(224,164,88,0.15);color:var(--market);}
+  .tag.legal{background:rgba(255,107,129,0.15);color:var(--legal);}
+  .card-title{font-size:0.98rem;font-weight:600;line-height:1.4;margin:0 0 6px;}
+  .card-desc{font-size:0.83rem;color:var(--text-dim);line-height:1.5;margin:0 0 8px;}
+  .card-meta{display:flex;justify-content:space-between;font-size:0.72rem;color:var(--text-dim);}
+  .card-source{font-weight:600;color:#aebccf;}
+  .empty, .loading{text-align:center;color:var(--text-dim);padding:60px 20px;font-size:0.9rem;}
+  .spinner{width:26px;height:26px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;margin:0 auto 14px;animation:spin 0.8s linear infinite;}
+  @keyframes spin{to{transform:rotate(360deg);}}
+  footer{max-width:1100px;margin:20px auto 40px;padding:20px;border-top:1px solid var(--border);color:var(--text-dim);font-size:0.72rem;text-align:center;line-height:1.8;}
+  .sources-list{display:flex;flex-wrap:wrap;gap:6px 14px;justify-content:center;margin-top:8px;max-width:800px;margin-left:auto;margin-right:auto;}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo-row">
+    <div class="logo-icon">DP</div>
+    <h1>Delhi NCR Property Pulse</h1>
+  </div>
+  <div class="tagline">Residential, commercial, RERA, circle rate, registry &amp; property-law news for Delhi and NCR — refreshed hourly in the background</div>
+  <div class="status-row">
+    <span><span class="live-dot"></span>Backend updates every hour, even when this tab is closed</span>
+    <span id="lastUpdated">Loading…</span>
+    <button class="refresh" id="refreshBtn" onclick="loadNews()">↻ Refresh view</button>
+  </div>
+</header>
+
+<div class="stats" id="stats"></div>
+
+<div class="controls">
+  <div class="tabs" id="tabs">
+    <div class="tab active" data-cat="all">All</div>
+    <div class="tab" data-cat="delhi">Delhi</div>
+    <div class="tab" data-cat="ncr">NCR</div>
+    <div class="tab" data-cat="legal">Legal &amp; Courts</div>
+    <div class="tab" data-cat="policy">RERA &amp; Policy</div>
+    <div class="tab" data-cat="registry">Circle Rate &amp; Registry</div>
+    <div class="tab" data-cat="market">Market &amp; Industry</div>
+  </div>
+  <input class="search-box" id="searchBox" type="text" placeholder="Filter (e.g. yeida, GPRA, stamp duty)…" oninput="renderFeed()">
+</div>
+
+<main>
+  <div class="feed-list" id="feedList">
+    <div class="loading"><div class="spinner"></div>Loading latest property news…</div>
+  </div>
+</main>
+
+<footer>
+  Public news aggregator · No tracking · No paywall · A GitHub Actions job refreshes news.json every hour
+  <div class="sources-list">
+    <span>LiveLaw</span><span>Bar &amp; Bench</span><span>Verdictum</span><span>Times of India</span>
+    <span>Hindustan Times</span><span>The Hindu</span><span>Hindu BusinessLine</span><span>Moneycontrol</span>
+    <span>LiveMint</span><span>Financial Express</span><span>Bloomberg</span><span>CNBC-TV18</span>
+    <span>ET Realty</span><span>Housing.com</span><span>Magicbricks</span><span>99acres</span>
+    <span>Outlook Money</span><span>Rediff Money</span><span>News24</span>
+  </div>
+  <div style="margin-top:8px;">Built as a personal research tool. Always verify facts, dates, figures and citations against the original source before relying on them professionally.</div>
+</footer>
+
+<script>
+let allItems = [];
+let currentTab = "all";
+
+function timeAgo(dateStr){
+  const d = new Date(dateStr);
+  if(isNaN(d)) return "";
+  const diffMs = Date.now() - d.getTime();
+  const mins = Math.floor(diffMs/60000);
+  if(mins < 1) return "just now";
+  if(mins < 60) return mins + "m ago";
+  const hrs = Math.floor(mins/60);
+  if(hrs < 24) return hrs + "h ago";
+  const days = Math.floor(hrs/24);
+  if(days < 7) return days + "d ago";
+  return d.toLocaleDateString("en-IN", { day:"numeric", month:"short" });
+}
+
+async function loadNews(){
+  const btn = document.getElementById("refreshBtn");
+  btn.disabled = true;
+  btn.textContent = "↻ Refreshing…";
+  try{
+    const res = await fetch("news.json?t=" + Date.now());
+    const data = await res.json();
+    allItems = data.items || [];
+    const genDate = new Date(data.generatedAt);
+    document.getElementById("lastUpdated").textContent = "Last backend update: " +
+      genDate.toLocaleString("en-IN", { day:"numeric", month:"short", hour:"2-digit", minute:"2-digit" });
+  }catch(e){
+    document.getElementById("feedList").innerHTML = '<div class="empty">Could not load news.json yet. If this is a brand-new deployment, run the "Update property news" GitHub Action once manually.</div>';
+  }
+  btn.disabled = false;
+  btn.textContent = "↻ Refresh view";
+  renderStats();
+  renderFeed();
+}
+
+function renderStats(){
+  const counts = { all: allItems.length, delhi:0, ncr:0, legal:0, policy:0, registry:0, market:0 };
+  allItems.forEach(it => { if(counts[it.category] !== undefined) counts[it.category]++; });
+  const labels = { all:"Total", delhi:"Delhi", ncr:"NCR", legal:"Legal", policy:"RERA/Policy", registry:"Registry", market:"Market" };
+  document.getElementById("stats").innerHTML = Object.keys(labels).map(k =>
+    `<div class="stat-card"><div class="stat-num">${counts[k]}</div><div class="stat-label">${labels[k]}</div></div>`
+  ).join("");
+}
+
+function renderFeed(){
+  const list = document.getElementById("feedList");
+  const q = document.getElementById("searchBox").value.trim().toLowerCase();
+  let items = allItems;
+  if(currentTab !== "all") items = items.filter(it => it.category === currentTab);
+  if(q) items = items.filter(it => (it.title + " " + it.description).toLowerCase().includes(q));
+
+  if(items.length === 0){
+    list.innerHTML = '<div class="empty">No stories match this filter right now. Try "All" or clear the search box.</div>';
+    return;
+  }
+
+  list.innerHTML = items.slice(0, 150).map(it => `
+    <a class="card" href="${it.link}" target="_blank" rel="noopener noreferrer">
+      <div class="card-top">
+        <span class="tag ${it.category}">${it.category}</span>
+      </div>
+      <p class="card-title">${it.title}</p>
+      ${it.description ? `<p class="card-desc">${it.description}</p>` : ""}
+      <div class="card-meta">
+        <span class="card-source">${it.sourceName}</span>
+        <span>${timeAgo(it.pubDate)}</span>
+      </div>
+    </a>
+  `).join("");
+}
+
+document.getElementById("tabs").addEventListener("click", (e) => {
+  const tab = e.target.closest(".tab");
+  if(!tab) return;
+  document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+  tab.classList.add("active");
+  currentTab = tab.dataset.cat;
+  renderFeed();
+});
+
+loadNews();
+// The backend (GitHub Action) regenerates news.json hourly; this just re-reads it
+// every 15 minutes so an open tab picks up a fresh backend run without a manual reload.
+setInterval(loadNews, 15 * 60 * 1000);
+</script>
+
+</body>
+</html>

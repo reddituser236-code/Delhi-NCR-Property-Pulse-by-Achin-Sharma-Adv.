@@ -1,0 +1,13 @@
+{
+  "name": "delhi-ncr-property-pulse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hourly-refreshed Delhi/NCR property, real estate and property-law news aggregator (static site + GitHub Actions cron backend).",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
